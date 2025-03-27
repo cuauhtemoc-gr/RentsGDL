@@ -1,0 +1,1527 @@
+Location,Price,No. of rooms,No. of bathrooms,Area,Neighborhood,Municipality,Type,Price per sq meter,Bathrooms per room,Price_Category
+"Legacy Tower, Av Empresarios 62",5310,1.0,1.0,12.0,Obrera,Guadalajara,Department,442.5,1.0,0-10k
+Calle Miguel de Cervantes Saavedra 382A,5310,1.0,1.0,12.0,Obrera,Guadalajara,Department,442.5,1.0,0-10k
+,2950,1.0,1.0,20.0,El Mante,Zapopan,Department,147.5,1.0,0-10k
+Punto Sur,2950,1.0,2.0,20.0,El Mante,Zapopan,Department,147.5,2.0,0-10k
+"Juan Palomar y Arias 765, Prados Providencia, Prados de Providencia, Guadalajara",8200,1.0,3.0,25.0,Fraccionamiento Prados Vallarta,Zapopan,Department,328.0,3.0,0-10k
+Arquitectos Norte 855,4930,1.0,1.0,25.0,Jardines Tepeyac,Zapopan,Department,197.2,1.0,0-10k
+Av. Servidor Publico 1262,6500,1.0,1.0,30.0,Ladrón de Guevara,Guadalajara,House,216.66666666666666,1.0,0-10k
+Av del Bajio 1700,14500,1.0,1.0,33.0,San Juan de Ocotan,Zapopan,Department,439.3939393939394,1.0,10k-20k
+Av. Santa Margarita 3600,7000,1.0,2.0,35.0,La Estancia,Zapopan,Department,200.0,2.0,0-10k
+Hector Berliotz 5026,7000,1.0,1.0,35.0,La Estancia,Zapopan,Department,200.0,1.0,0-10k
+Avenida de las Américas,16000,1.0,2.0,36.0,Country Club,Guadalajara,Department,444.44444444444446,2.0,10k-20k
+Torre Nomad las Americas,18320,1.0,3.0,36.0,Fraccionamiento Country Club,Guadalajara,Department,508.8888888888889,3.0,10k-20k
+Jorge Alvarez del Castillo 1018,16890,1.0,1.0,37.0,Ayuntamiento,Guadalajara,Department,456.4864864864865,1.0,10k-20k
+ Circunvalación Jorge Álvarez del Castillo,15939,1.0,3.0,37.0,Providencia,Guadalajara,Department,430.7837837837838,3.0,10k-20k
+C ottawa,7800,1.0,2.0,39.0,La Estancia,Zapopan,Department,200.0,2.0,0-10k
+anillo Periferico pte 1066,17200,1.0,1.0,40.0,Ayuntamiento,Guadalajara,Department,430.0,1.0,10k-20k
+comerciantes,8000,1.0,3.0,40.0,Fraccionamiento Camino Real,Zapopan,House,200.0,3.0,0-10k
+Av. Las Américas ,17200,1.0,1.0,40.0,Ayuntamiento,Guadalajara,Department,430.0,1.0,10k-20k
+aviacion 4139,8550,1.0,1.0,40.0,Fraccionamiento Chapalita de Occidente,Zapopan,Department,213.75,1.0,0-10k
+Morelos 2080,22200,1.0,2.0,40.0,Ayuntamiento,Guadalajara,Department,555.0,2.0,20k-30k
+Torre Emile,18498,1.0,1.0,41.0,Country Club,Guadalajara,Department,451.1707317073171,1.0,10k-20k
+,18498,1.0,3.0,41.0,Country Club,Guadalajara,Department,451.1707317073171,3.0,10k-20k
+Calle Mar  Mediterráneo 1254,18498,1.0,1.0,41.0,Country Club,Guadalajara,Department,451.1707317073171,1.0,10k-20k
+Juan Ruiz de Alarcon,12500,1.0,1.0,43.0,Lafayette,Guadalajara,Department,290.69767441860466,1.0,10k-20k
+,8500,2.0,1.0,43.0,El Mirador,Guadalajara,House,197.67441860465115,0.5,0-10k
+Av. Tepeyac # 1289,7799,1.0,1.0,44.0,Fraccionamiento Residencial Victoria,Zapopan,Department,177.25,1.0,0-10k
+Av. Aviación 4139 San Juan de Ocotan Zapopan jalisco ,24000,1.0,1.0,45.0,Americana,Guadalajara,Department,533.3333333333334,1.0,20k-30k
+Av. Cvln. Jorge Álvarez del Castillo,18527,1.0,1.0,46.0,Providencia,Guadalajara,Department,402.7608695652174,1.0,10k-20k
+Avenida de las Américas,22500,1.0,1.0,47.0,Country Club,Guadalajara,Department,478.72340425531917,1.0,20k-30k
+Jorge Álvarez del Castillo,19222,1.0,1.0,47.0,Providencia,Guadalajara,Department,408.97872340425533,1.0,10k-20k
+Av. Aviación 3100 ,14900,1.0,1.0,48.0,Fraccionamiento Solares,Zapopan,Department,310.4166666666667,1.0,10k-20k
+Antiguo Camino a Tesistan 26,5000,2.0,1.0,48.0,San Bernardo,Zapopan,Department,104.16666666666667,0.5,0-10k
+,6200,2.0,2.0,48.0,Reforma Centro,Guadalajara,Department,129.16666666666666,1.0,0-10k
+,27000,1.0,2.0,48.0,Fraccionamiento Jardines del Country,Guadalajara,Department,562.5,2.0,20k-30k
+Calle de los Jardines 714,6000,1.0,1.0,48.0,Colinas de Tonalá,Tonalá,Department,125.0,1.0,0-10k
+Av. Circunvalación Alvarez del Castillo 1018,26200,1.0,1.0,48.0,Ayuntamiento,Guadalajara,Department,545.8333333333334,1.0,20k-30k
+Av. Central Guillermo Gonzalez Camarena,26200,1.0,1.0,48.0,Ayuntamiento,Guadalajara,Department,545.8333333333334,1.0,20k-30k
+,6000,2.0,2.0,48.0,Colinas de Tonalá,Tonalá,Department,125.0,1.0,0-10k
+AV GUADALUPE 4409,19000,1.0,2.0,50.0,Ciudad de los niños,Zapopan,Department,380.0,2.0,10k-20k
+,7000,2.0,1.0,50.0,TetlAn,Guadalajara,Department,140.0,0.5,0-10k
+amatista 2558,7799,1.0,1.0,50.0,Fraccionamiento Residencial Victoria,Zapopan,Department,155.98,1.0,0-10k
+Calle Heorico Colegio Militar 872,20000,1.0,2.0,50.0,Ayuntamiento,Guadalajara,Department,400.0,2.0,10k-20k
+Calle Barlovento 2829,20500,1.0,1.0,50.0,Ciudad Granja,Zapopan,Department,410.0,1.0,20k-30k
+Brasilia 2790,7799,1.0,2.0,50.0,Fraccionamiento Residencial Victoria,Zapopan,Department,155.98,2.0,0-10k
+av guadalupe 4283,16500,1.0,3.0,50.0,Providencia,Guadalajara,House,330.0,3.0,10k-20k
+Liceo 1005,13000,2.0,1.0,50.0,Alcalde Barranquitas,Guadalajara,House,260.0,0.5,10k-20k
+"Calzada Central #509, Col. Ciudad Granja",20500,1.0,2.0,50.0,Ciudad Granja,Zapopan,Department,410.0,2.0,20k-30k
+av ruben dario y jose ma vigil ,12000,2.0,1.0,53.0,Francisco Sarabia,Zapopan,Department,226.41509433962264,0.5,10k-20k
+Mexicaltzingo al 2100,19000,1.0,1.0,53.0,Americana,Guadalajara,Department,358.49056603773585,1.0,10k-20k
+Pablo Neruda 2640,12000,2.0,1.0,53.0,Francisco Sarabia,Zapopan,Department,226.41509433962264,0.5,10k-20k
+Av. Universidad  1000,12000,2.0,1.0,53.0,Francisco Sarabia,Zapopan,Department,226.41509433962264,0.5,10k-20k
+Goya 593 6,12000,2.0,4.0,53.0,Francisco Sarabia,Zapopan,Department,226.41509433962264,2.0,10k-20k
+Cosmocrat Puerta de Hierro,12500,2.0,2.0,53.0,Mezquitan Country,Guadalajara,Department,235.8490566037736,1.0,10k-20k
+MORELOS 2080,18000,1.0,1.0,53.0,Arcos Vallarta,Guadalajara,Department,339.62264150943395,1.0,10k-20k
+"Josefa Ortiz de Domínguez 2512, Santa Ana Tepetitlán, Zapopan, Jalisco",8400,2.0,2.0,53.0,Santa Ana Tepetitlán,Zapopan,Department,158.49056603773585,1.0,0-10k
+,18000,2.0,2.0,53.0,Arcos Vallarta,Guadalajara,Department,339.62264150943395,1.0,10k-20k
+ Av Paseo de la toscana,21800,1.0,1.0,54.0,Fraccionamiento Solares,Zapopan,Department,403.7037037037037,1.0,20k-30k
+C. Hipódromo 2005 A,21800,1.0,1.0,54.0,Fraccionamiento Solares,Zapopan,Department,403.7037037037037,1.0,20k-30k
+Calle La Rioja 2889,12500,2.0,2.0,54.0,Mezquitan Country,Guadalajara,Department,231.4814814814815,1.0,10k-20k
+TOREROS 613,13000,2.0,2.0,54.0,El Vigía,Zapopan,Department,240.74074074074073,1.0,10k-20k
+josefa ortiz de cominguez,8600,2.0,2.0,55.0,Santa Ana Tepetitlán,Zapopan,Department,156.36363636363637,1.0,0-10k
+Tenochtitlan 34 5,9000,2.0,2.0,55.0,Santa Ana Tepetitlán,Zapopan,Department,163.63636363636363,1.0,0-10k
+Livify,23000,1.0,2.0,55.0,Jardines Universidad,Zapopan,Department,418.1818181818182,2.0,20k-30k
+Livify,23000,1.0,1.0,55.0,Jardines Universidad,Zapopan,Department,418.1818181818182,1.0,20k-30k
+Josefa Ortiz de Dominguez 180,9000,2.0,2.0,55.0,Santa Ana Tepetitlán,Zapopan,Department,163.63636363636363,1.0,0-10k
+Ley,17000,1.0,1.0,55.0,Providencia,Guadalajara,Department,309.09090909090907,1.0,10k-20k
+Livify,18700,1.0,2.0,55.0,San Juan de Ocotan,Zapopan,Department,340.0,2.0,10k-20k
+Av. Central Guillermo González Camarena #500,9000,2.0,3.0,55.0,Santa Ana Tepetitlán,Zapopan,Department,163.63636363636363,1.5,0-10k
+Av. Circunvalación Alvarez del Castillo 1018,25000,1.0,1.0,55.0,Providencia,Guadalajara,Department,454.54545454545456,1.0,20k-30k
+San Bonifacio 466 int 13 ,8600,2.0,2.0,55.0,Santa Ana Tepetitlán,Zapopan,Department,156.36363636363637,1.0,0-10k
+,13000,2.0,2.0,56.0,Francisco Sarabia,Zapopan,Department,232.14285714285714,1.0,10k-20k
+C. Anastasio Bustamante 1400,13000,2.0,3.0,56.0,Francisco Sarabia,Zapopan,Department,232.14285714285714,1.5,10k-20k
+C. Juan Ruiz de Alarcón 519,20000,2.0,2.0,56.0,Moderna,Guadalajara,Department,357.14285714285717,1.0,10k-20k
+Av Vallarta 2468,20000,2.0,2.0,56.0,Moderna,Guadalajara,Department,357.14285714285717,1.0,10k-20k
+"Juan Ruiz de Alarcón 229 102 , Americana , 44160 Guadalajara, Jalisco, México",9000,2.0,1.0,56.0,San Carlos,Guadalajara,Department,160.71428571428572,0.5,0-10k
+"Mar Mediterráneo 1254, 44610 Guadalajara, Jal.",17000,2.0,1.0,56.0,Moderna,Guadalajara,Department,303.57142857142856,0.5,10k-20k
+PUENTE EL PALOMAR 400,16000,2.0,1.0,56.0,Arcos Vallarta,Guadalajara,Department,285.7142857142857,0.5,10k-20k
+"Valparaíso 2367-interior P02B, Providencia",23000,1.0,1.0,57.0,Providencia,Guadalajara,Department,403.50877192982455,1.0,20k-30k
+,10800,2.0,2.0,57.0,Colonia Huentitán El Alto,Guadalajara,Department,189.47368421052633,1.0,10k-20k
+Avenida Niños Héroes ,15000,2.0,1.0,57.0,Moderna,Guadalajara,Department,263.1578947368421,0.5,10k-20k
+Josefa Ortiz de Dominguez 2512,9500,2.0,2.0,58.0,Santa Ana Tepetitlán,Zapopan,Department,163.79310344827587,1.0,0-10k
+Departamento en Venta Bosques la Victoria Expo,15000,2.0,1.0,58.0,Zapopan,Other,House,258.62068965517244,0.5,10k-20k
+,6500,2.0,2.0,59.0,Mirador ,Tonalá,Department,110.16949152542372,1.0,0-10k
+,12250,1.0,1.0,59.0,Las Aguilas,Zapopan,Department,207.6271186440678,1.0,10k-20k
+Calle Vidrio 1352,12000,1.0,1.0,60.0,Americana,Guadalajara,Department,200.0,1.0,10k-20k
+Asuncion 1985,18000,1.0,1.0,60.0,Ladrón de Guevara,Guadalajara,Department,300.0,1.0,10k-20k
+Brasilia  2790 A1,23900,1.0,1.0,60.0,Fraccionamiento Colomos Providencia,Guadalajara,House,398.3333333333333,1.0,20k-30k
+paseo de los virreyes 45,17000,1.0,1.0,60.0,Providencia,Guadalajara,Department,283.3333333333333,1.0,10k-20k
+,6500,4.0,3.0,60.0,El Vigía,Zapopan,Department,108.33333333333333,0.75,0-10k
+"P.º de los Virreyes 250, Puerta de Hierro, 45116 Zapopan, Jal.",19000,1.0,1.0,60.0,Americana,Guadalajara,Department,316.6666666666667,1.0,10k-20k
+Vidrio 1984 5,21000,1.0,2.0,60.0,Americana,Guadalajara,Department,350.0,2.0,20k-30k
+san juan bosco,15500,2.0,1.0,60.0,Lomas de Guadalupe,Zapopan,Department,258.3333333333333,0.5,10k-20k
+,17000,2.0,1.0,60.0,La Perla,Guadalajara,Department,283.3333333333333,0.5,10k-20k
+Manuel J. Clouthier 5321-5-A,14500,3.0,2.0,60.0,Paseos del Sol,Zapopan,House,241.66666666666666,0.6666666666666666,10k-20k
+calle agustin itubide 61,4500,1.0,2.0,60.0,San Agustín,Tlajomulco de Zúñiga,Department,75.0,2.0,0-10k
+Josefa Ortíz de Domínguez 152,18000,1.0,2.0,60.0,Americana,Guadalajara,Department,300.0,2.0,10k-20k
+Av. Cristobal Colon 4853,19000,1.0,1.0,60.0,Jardines Universidad,Zapopan,Department,316.6666666666667,1.0,10k-20k
+AV. VISTA PONIENTE  1133,7500,2.0,1.0,60.0,Vista Sur Residencial,Tlajomulco de Zúñiga,House,125.0,0.5,0-10k
+"C. Josefa Ortiz de Domínguez 2512, Santa Ana Tepetitlán, 45230 Zapopan, Jal.",9000,2.0,1.0,60.0,Santa Ana Tepetitlán,Zapopan,Department,150.0,0.5,0-10k
+Paseo Valle Real 900,8500,1.0,1.0,60.0,Las Amapas,Tlajomulco de Zúñiga,Department,141.66666666666666,1.0,0-10k
+,9000,3.0,3.0,60.0,Fraccionamiento Valle de San Nicolás,Zapopan,House,150.0,1.0,0-10k
+Santa Adriana 2337,5800,3.0,2.0,60.0,Fraccionamiento Los Molinos,Zapopan,House,96.66666666666667,0.6666666666666666,0-10k
+ALVARO OBREGON 1570,12000,2.0,1.0,60.0,Penal,Guadalajara,Department,200.0,0.5,10k-20k
+Avenida Naciones Unidas #4839 - 2,19000,1.0,1.0,60.0,Jardines Universidad,Zapopan,Department,316.6666666666667,1.0,10k-20k
+,18000,2.0,1.0,60.0,Ladrón de Guevara,Guadalajara,Department,300.0,0.5,10k-20k
+Juan palomar y Arias  765 B-805,39500,1.0,4.0,60.0,Prados de Providencia,Guadalajara,Department,658.3333333333334,4.0,30k-40k
+Paseo Lomas Altas,17000,2.0,2.0,60.0,Valle Real,Zapopan,Department,283.3333333333333,1.0,10k-20k
+PASEO LOMAS ALTAS 4777,19500,1.0,1.0,60.0,Fraccionamiento Italia Providencia,Guadalajara,Department,325.0,1.0,10k-20k
+av royal country 5395,14500,2.0,3.0,60.0,Paseos del Sol,Zapopan,House,241.66666666666666,1.5,10k-20k
+,22000,2.0,4.0,60.0,San Agustín,Tlajomulco de Zúñiga,House,366.6666666666667,2.0,20k-30k
+NACIONES UNIDAS,19500,2.0,2.0,60.0,Jardines Universidad,Zapopan,Department,325.0,1.0,10k-20k
+Av. Plan de San Luis 2058,21500,1.0,1.0,60.0,Fraccionamiento Country Club,Guadalajara,Department,358.3333333333333,1.0,20k-30k
+av empresarios 62,19000,3.0,2.0,60.0,Americana,Guadalajara,Department,316.6666666666667,0.6666666666666666,10k-20k
+Calle A 190,9000,3.0,2.0,60.0,Fraccionamiento Valle de San Nicolás,Zapopan,House,150.0,0.6666666666666666,0-10k
+Av. José María Vigil,34000,1.0,2.0,60.0,Providencia,Guadalajara,Department,566.6666666666666,2.0,30k-40k
+Avenida morelos 2080,18000,1.0,1.0,60.0,Ladrón de Guevara,Guadalajara,Department,300.0,1.0,10k-20k
+Av. Aviacion,17000,1.0,1.0,61.0,San Juan de Ocotan,Zapopan,Department,278.6885245901639,1.0,10k-20k
+san agustin 1289 interior 4,17000,1.0,1.0,61.0,San Juan de Ocotan,Zapopan,Department,278.6885245901639,1.0,10k-20k
+av camino real a colima 481,17000,1.0,1.0,61.0,San Juan de Ocotan,Zapopan,Department,278.6885245901639,1.0,10k-20k
+Brasilia 2790 ,19000,1.0,2.0,61.0,Fraccionamiento Puerta del Valle,Zapopan,Department,311.4754098360656,2.0,10k-20k
+Av Talavera Poniente 3605,17000,2.0,1.0,62.0,Fraccionamiento Jardines de Guadalupe,Zapopan,Department,274.19354838709677,0.5,10k-20k
+Prolongación Gigantes,20500,1.0,1.0,62.0,Fraccionamiento Puerta del Valle,Zapopan,Department,330.64516129032256,1.0,20k-30k
+Torre vista vento,16800,3.0,3.0,62.0,Guadalajara Centro,Guadalajara,Department,270.96774193548384,1.0,10k-20k
+Jardines de Guadalupe,17000,2.0,1.0,62.0,Fraccionamiento Jardines de Guadalupe,Zapopan,Department,274.19354838709677,0.5,10k-20k
+paseo de la estrella 3555,13500,2.0,2.0,62.0,Nuevo México,Zapopan,House,217.74193548387098,1.0,10k-20k
+,17000,2.0,1.0,62.0,Fraccionamiento Jardines de Guadalupe,Zapopan,Department,274.19354838709677,0.5,10k-20k
+Calle Salvador López Chávez 1750-interior 4,9500,2.0,1.0,63.0,San Carlos,Guadalajara,Department,150.79365079365078,0.5,0-10k
+Calle Vidrio 1984,25000,1.0,2.0,63.0,Americana,Guadalajara,Department,396.8253968253968,2.0,20k-30k
+Calderon de la Barca 26,9000,2.0,2.0,63.0,San Andrés,Guadalajara,Department,142.85714285714286,1.0,0-10k
+Gabriel Castaños 2759,25000,1.0,2.0,63.0,Arcos Vallarta,Guadalajara,Department,396.8253968253968,2.0,20k-30k
+Valparaiso 2367,21500,1.0,1.0,63.0,Providencia,Guadalajara,Department,341.26984126984127,1.0,20k-30k
+,10900,3.0,2.0,64.0,La Venta del Astillero,Zapopan,House,170.3125,0.6666666666666666,10k-20k
+"Mar Mediterráneo 1254, 44610 Guadalajara, Jal.",25000,2.0,2.0,64.0,Americana,Guadalajara,Department,390.625,1.0,20k-30k
+AV. GUADALAJARA S/N,12700,2.0,2.0,64.0,Jardines del Valle,Zapopan,Department,198.4375,1.0,10k-20k
+Avenida Patria 1891,13500,2.0,2.0,64.0,Nueva España,Guadalajara,Department,210.9375,1.0,10k-20k
+Calle Cto. Madrigal 1151,17000,2.0,2.0,64.0,Villas Del Country,Guadalajara,Department,265.625,1.0,10k-20k
+"Av. Central Guillermo Gonzalez Camarena 500, Valle Real",25000,2.0,2.0,64.0,Americana,Guadalajara,Department,390.625,1.0,20k-30k
+Avenida México 5000,17000,2.0,2.0,64.0,Villas Del Country,Guadalajara,Department,265.625,1.0,10k-20k
+,13500,2.0,2.0,64.0,Nueva España,Guadalajara,Department,210.9375,1.0,10k-20k
+ACUEDUCTO 360,12700,2.0,2.0,64.0,Jardines del Valle,Zapopan,Department,198.4375,1.0,10k-20k
+Calle Vidrio 1984,23000,1.0,2.0,64.0,Americana,Guadalajara,Department,359.375,2.0,20k-30k
+,13000,2.0,1.0,65.0,Fraccionamiento Residencial Moctezuma,Zapopan,House,200.0,0.5,10k-20k
+Prol. Niños Heroes,14000,3.0,2.0,65.0,Fraccionamiento Guadalupe Inn,Zapopan,House,215.3846153846154,0.6666666666666666,10k-20k
+Santa Irene 3040,11000,2.0,2.0,65.0,Sutaj,Guadalajara,Department,169.23076923076923,1.0,10k-20k
+Morelos 2080,14000,2.0,1.0,65.0,Arboledas ,Zapopan,Department,215.3846153846154,0.5,10k-20k
+Paseo del Arcoiris 4082 1,15000,2.0,1.0,65.0,Bosques de La Victoria,Guadalajara,Department,230.76923076923077,0.5,10k-20k
+Ruyard Kiplin 4949,13000,2.0,2.0,65.0,Fraccionamiento Residencial Moctezuma,Zapopan,House,200.0,1.0,10k-20k
+Valparaiso 2367,23000,1.0,1.0,65.0,Providencia,Guadalajara,Department,353.84615384615387,1.0,20k-30k
+Calderon de la Barca 26,17000,1.0,1.0,65.0,Arcos Vallarta,Guadalajara,Department,261.53846153846155,1.0,10k-20k
+Av. Ávila Camacho 2959,15500,2.0,1.0,65.0,Hacienda Del Tepeyac,Zapopan,House,238.46153846153845,0.5,10k-20k
+av montevideo 3078,15000,2.0,2.0,65.0,Bosques de La Victoria,Guadalajara,Department,230.76923076923077,1.0,10k-20k
+C. Fedor Dostoiewski 4725A,14000,3.0,2.0,65.0,Fraccionamiento Guadalupe Inn,Zapopan,House,215.3846153846154,0.6666666666666666,10k-20k
+calle la cauda 720,15000,1.0,2.0,66.0,Vallarta Universidad,Zapopan,Department,227.27272727272728,2.0,10k-20k
+Av Naciones Unidas 7879,18000,2.0,2.0,66.0,Virreyes Residencial,Zapopan,Department,272.72727272727275,1.0,10k-20k
+,14500,1.0,1.0,66.0,El Bajío,Zapopan,Department,219.6969696969697,1.0,10k-20k
+Av Naciones Unidas 7879,18000,2.0,1.0,66.0,Virreyes Residencial,Zapopan,Department,272.72727272727275,0.5,10k-20k
+,10000,2.0,2.0,66.0,Nuevo México,Zapopan,House,151.5151515151515,1.0,0-10k
+Naciones Unidas 7879,18000,2.0,3.0,66.0,Parque Virreyes Residencial,Zapopan,Department,272.72727272727275,1.5,10k-20k
+Calz. Federalismo Nte,19000,2.0,4.0,66.0,Virreyes Residencial,Zapopan,Department,287.8787878787879,2.0,10k-20k
+"Calle Colomos 2770, Providencia 4a Secc. ",18000,2.0,4.0,66.0,Parque Virreyes Residencial,Zapopan,Department,272.72727272727275,2.0,10k-20k
+av naciones unidas 7879,18500,2.0,2.0,66.0,San Juan de Ocotan,Zapopan,Department,280.3030303030303,1.0,10k-20k
+"Juan Bernardino, Chapalita 229",18000,1.0,1.0,66.0,Fraccionamiento Chapalita de Occidente,Zapopan,Department,272.72727272727275,1.0,10k-20k
+Av. Naciones Unidas 7879,19000,2.0,2.0,66.0,Virreyes Residencial,Zapopan,Department,287.8787878787879,1.0,10k-20k
+"Gabriela Mistral 1092, Alcalde Barranquitas, 44270 Guadalajara, Jal.",19000,2.0,2.0,66.0,Virreyes Residencial,Zapopan,Department,287.8787878787879,1.0,10k-20k
+Calzada Lázaro Cárdenas 3333,21000,1.0,1.0,67.0,Arcos Vallarta,Guadalajara,Department,313.43283582089555,1.0,20k-30k
+Av Empresarios 236,7900,2.0,2.0,67.0,Fraccionamiento Cortijo de San Agustin,Tlajomulco de Zúñiga,Department,117.91044776119404,1.0,0-10k
+Av. Aviación 3100,21000,2.0,2.0,67.0,Bosque Valdepeñas,Zapopan,Department,313.43283582089555,1.0,20k-30k
+"AV, GAIA 60 ",7900,2.0,2.0,67.0,Fraccionamiento Cortijo de San Agustin,Tlajomulco de Zúñiga,Department,117.91044776119404,1.0,0-10k
+C. Juan Ruiz de Alarcón 519,21000,2.0,2.0,67.0,Guadalajara Centro,Guadalajara,Department,313.43283582089555,1.0,20k-30k
+"AV, XOCHITL 310 6",17500,2.0,2.0,68.0,Ciudad Granja,Zapopan,Department,257.3529411764706,1.0,10k-20k
+"Manuel M. Dieguez No. 95, colonia Americana",16700,2.0,1.0,68.0,Fraccionamiento Arcos,Guadalajara,Department,245.58823529411765,0.5,10k-20k
+Lateral anillo periférico 800,16700,2.0,1.0,68.0,Fraccionamiento Arcos,Guadalajara,Department,245.58823529411765,0.5,10k-20k
+,16700,2.0,1.0,68.0,Fraccionamiento Arcos,Guadalajara,Department,245.58823529411765,0.5,10k-20k
+plan de san luis 2058,20000,2.0,2.0,69.0,Fraccionamiento Country Club,Guadalajara,Department,289.8550724637681,1.0,10k-20k
+Torre Esenika 1 1,18600,2.0,2.0,69.0,Punto Sur,Tlajomulco de Zúñiga,Department,269.5652173913044,1.0,10k-20k
+,8000,2.0,1.0,69.0,Jardines de San José,Guadalajara,House,115.94202898550725,0.5,0-10k
+Av. Aviación 4055-int 58,20000,3.0,2.0,69.0,Jardines del Valle,Zapopan,House,289.8550724637681,0.6666666666666666,10k-20k
+san agustin 1289 interior 4,11000,2.0,2.0,69.0,Lomas Independencia,Guadalajara,Department,159.42028985507247,1.0,10k-20k
+enrique limón diaz,8000,2.0,1.0,69.0,Jardines de San José,Guadalajara,House,115.94202898550725,0.5,0-10k
+"AV, GAIA 60 ",22500,2.0,1.0,69.0,Valle Real,Zapopan,Department,326.0869565217391,0.5,20k-30k
+Av. Central Guillermo Gonzalez Camarena #500,22500,2.0,2.0,69.0,Valle Real,Zapopan,Department,326.0869565217391,1.0,20k-30k
+Remanso de las Violetas 2173,18500,3.0,4.0,69.0,Nuevo México,Zapopan,House,268.1159420289855,1.3333333333333333,10k-20k
+"Cto, De los Himalaya 1351, Las Cumbres",12900,2.0,2.0,69.0,Fraccionamiento Real de Valdepeñas,Zapopan,Department,186.95652173913044,1.0,10k-20k
+CALZADA 1900,20000,3.0,2.0,69.0,Jardines del Valle,Zapopan,House,289.8550724637681,0.6666666666666666,10k-20k
+"Calle Cto. Madrigal 1151, Colinas de San Javier",19500,2.0,2.0,70.0,Ladrón de Guevara,Guadalajara,Department,278.57142857142856,1.0,10k-20k
+"1360, Circunvalación Americas, 44630",21500,2.0,2.0,70.0,Americana,Guadalajara,Department,307.14285714285717,1.0,20k-30k
+,21000,3.0,2.0,70.0,Americana,Guadalajara,Department,300.0,0.6666666666666666,20k-30k
+Niños Héroes #2050,16500,1.0,2.0,70.0,Jardines Universidad,Zapopan,Department,235.71428571428572,2.0,10k-20k
+Alcalde 960,24000,1.0,1.0,70.0,Americana,Guadalajara,Department,342.85714285714283,1.0,20k-30k
+"Av Paseo de la Arboleda 731 Jardines del Bosque,",9000,2.0,2.0,70.0,Fraccionamiento Lomas Universidad,Zapopan,Department,128.57142857142858,1.0,0-10k
+morelos 1777,20000,1.0,1.0,70.0,Americana,Guadalajara,Department,285.7142857142857,1.0,10k-20k
+"V. Arandas, Jardín Real, 45136 Zapopan, Jal.",9400,3.0,3.0,70.0,Parque Real,Zapopan,House,134.28571428571428,1.0,0-10k
+cto de los Himalayas 1351,15000,1.0,2.0,70.0,Jardines de Guadalupe,Guadalajara,Department,214.28571428571428,2.0,10k-20k
+Calle Juan Ruiz de Alarcón 229,19000,1.0,1.0,70.0,Americana,Guadalajara,Department,271.42857142857144,1.0,10k-20k
+,14200,2.0,2.0,70.0,Fraccionamiento Real de Valdepeñas,Zapopan,Department,202.85714285714286,1.0,10k-20k
+Cosmocrat Puerta de Hierro,19000,1.0,1.0,70.0,Americana,Guadalajara,Department,271.42857142857144,1.0,10k-20k
+DR. ANGEL LEAÑO 1305,7500,3.0,1.0,70.0,Vista Sur Residencial,Tlajomulco de Zúñiga,House,107.14285714285714,0.3333333333333333,0-10k
+,22000,2.0,1.0,70.0,Valle Real,Zapopan,Department,314.2857142857143,0.5,20k-30k
+Josefa Ortiz de Dominguez 180,17000,1.0,1.0,70.0,Americana,Guadalajara,Department,242.85714285714286,1.0,10k-20k
+efrain gonzalez luna 2579,15000,1.0,2.0,70.0,Jardines de Guadalupe,Guadalajara,Department,214.28571428571428,2.0,10k-20k
+A Las Cimas 327A,22000,2.0,1.0,70.0,Valle Real,Zapopan,Department,314.2857142857143,0.5,20k-30k
+,7299,1.0,1.0,70.0,Jardines del Bosque,Guadalajara,Department,104.27142857142857,1.0,0-10k
+Serena                                                                                             2767 112,21500,2.0,2.0,70.0,Americana,Guadalajara,Department,307.14285714285717,1.0,20k-30k
+Av. Cvln. Jorge Álvarez del Castillo,21500,2.0,2.0,70.0,Americana,Guadalajara,Department,307.14285714285717,1.0,20k-30k
+,8500,3.0,2.0,70.0,Tlajomulco de Zúñiga,Other,House,121.42857142857143,0.6666666666666666,0-10k
+Rinconada del arroyo,19800,2.0,2.0,70.0,Country Club,Guadalajara,Department,282.85714285714283,1.0,10k-20k
+sendero de los abedules 125,11000,3.0,2.0,70.0,El Fortín,Zapopan,House,157.14285714285714,0.6666666666666666,10k-20k
+Av. Aviacion,21600,2.0,2.0,70.0,San Juan de Ocotan,Zapopan,Department,308.57142857142856,1.0,20k-30k
+,27000,1.0,1.0,70.0,Providencia,Guadalajara,Department,385.7142857142857,1.0,20k-30k
+,19900,2.0,2.0,70.0,Country Club,Guadalajara,Department,284.2857142857143,1.0,10k-20k
+chimalpopoca 4795,14000,2.0,1.0,70.0,Jardines Del Sol,Zapopan,Department,200.0,0.5,10k-20k
+AV AVIACION ,8500,3.0,2.0,70.0,Tlajomulco de Zúñiga,Other,House,121.42857142857143,0.6666666666666666,0-10k
+,7900,4.0,4.0,70.0,Alta California Residencial,Tlajomulco de Zúñiga,House,112.85714285714286,1.0,0-10k
+Morelos 2080,21500,2.0,2.0,70.0,Americana,Guadalajara,Department,307.14285714285717,1.0,20k-30k
+"Condominio Hacienda Nápoles, Fraccionamiento Hacienda Santa Cruz",6500,3.0,1.0,70.0,Hacienda Santa Cruz,Tlajomulco de Zúñiga,House,92.85714285714286,0.3333333333333333,0-10k
+"Juan Palomar y Arias 765, Prados Providencia",19000,3.0,3.0,70.0,Americana,Guadalajara,Department,271.42857142857144,1.0,10k-20k
+Av Niños Héroes 2050,18000,1.0,1.0,70.0,Americana,Guadalajara,Department,257.14285714285717,1.0,10k-20k
+"Av. Hidalgo, Ladrón de Guevara, Guadalajara, Fraccionamiento Ladrón de Guevara, Guadalajara",19500,1.0,2.0,70.0,Ladrón de Guevara,Guadalajara,Department,278.57142857142856,2.0,10k-20k
+,35000,1.0,2.0,70.0,Americana,Guadalajara,Department,500.0,2.0,30k-40k
+Av. Guadalupe 690,10000,2.0,1.0,70.0,El Fortín,Zapopan,House,142.85714285714286,0.5,0-10k
+Av. Central Guillermo Gónzalez Camarena 500,17000,1.0,1.0,70.0,Americana,Guadalajara,Department,242.85714285714286,1.0,10k-20k
+Avenida Central Guillermo Gonzalez Camarena,16800,1.0,1.0,71.0,Arcos Vallarta,Guadalajara,Department,236.61971830985917,1.0,10k-20k
+,14500,3.0,2.0,71.0,Bosques de Santa Anita,Tlajomulco de Zúñiga,House,204.22535211267606,0.6666666666666666,10k-20k
+Calle Mar Ross No 1478 colonia country club   ,16800,1.0,1.0,71.0,Arcos Vallarta,Guadalajara,Department,236.61971830985917,1.0,10k-20k
+Manuel M Dieguez 489,13000,2.0,1.0,71.0,Constitución,Zapopan,Department,183.09859154929578,0.5,10k-20k
+,7500,3.0,1.0,71.0,Fraccionamiento Residencial Amaranto,Zapopan,House,105.63380281690141,0.3333333333333333,0-10k
+San Juan de Letrán 4353,16800,1.0,1.0,71.0,Arcos Vallarta,Guadalajara,Department,236.61971830985917,1.0,10k-20k
+Manuel J. Clouthier 5321-5-A,7350,3.0,2.0,71.0,Fraccionamiento Residencial Amaranto,Zapopan,House,103.52112676056338,0.6666666666666666,0-10k
+Av. Adolfo López Mateos Sur 4255,19800,1.0,2.0,71.0,Vallarta Universidad,Zapopan,Department,278.8732394366197,2.0,10k-20k
+perla 3623,18500,2.0,3.0,72.0,Fraccionamiento Valle Imperial,Zapopan,Department,256.94444444444446,1.5,10k-20k
+Justo Sierra 2135,21000,1.0,2.0,72.0,Providencia,Guadalajara,Department,291.6666666666667,2.0,20k-30k
+gabriel castaños 2769,25000,1.0,2.0,72.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,347.22222222222223,2.0,20k-30k
+"PLAN DE SAN LUIS 2058, Mezquitan Country, Guadalajara No. Ext 2058 Lomas del Country",23500,2.0,2.0,72.0,Mezquitan Country,Guadalajara,Department,326.3888888888889,1.0,20k-30k
+Vereda de la Alondra 8,21000,1.0,2.0,72.0,Providencia,Guadalajara,Department,291.6666666666667,2.0,20k-30k
+juan ruiz de alarcon 229,25000,2.0,2.0,72.0,Americana,Guadalajara,Department,347.22222222222223,1.0,20k-30k
+Av. Aviacion,19000,1.0,1.0,72.0,Americana,Guadalajara,Department,263.8888888888889,1.0,10k-20k
+brasilia 2790,21000,1.0,2.0,72.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,291.6666666666667,2.0,20k-30k
+Brasilia 2790,25000,1.0,2.0,72.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,347.22222222222223,2.0,20k-30k
+Lerdo de Tejada 2571,19000,1.0,1.0,72.0,Americana,Guadalajara,Department,263.8888888888889,1.0,10k-20k
+Av Talavera Poniente 3605,25000,1.0,2.0,72.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,347.22222222222223,2.0,20k-30k
+Juan Palomar y Arias 765,40000,1.0,2.0,72.0,Prados de Providencia,Guadalajara,Department,555.5555555555555,2.0,30k-40k
+"Calle Vidrio 1984, Col Americana",23000,2.0,2.0,72.0,Americana,Guadalajara,Department,319.44444444444446,1.0,20k-30k
+,16000,2.0,2.0,73.0,El Campanario,Zapopan,Department,219.17808219178082,1.0,10k-20k
+Jose Maria Morelos 2080,21500,2.0,2.0,73.0,Ladrón de Guevara,Guadalajara,Department,294.52054794520546,1.0,20k-30k
+Torre Livorno,16000,1.0,1.0,73.0,Fraccionamiento Ladrón de Guevara,Guadalajara,Department,219.17808219178082,1.0,10k-20k
+Calle Mar mediterráneo 1254,22000,1.0,1.0,73.0,Ladrón de Guevara,Guadalajara,Department,301.36986301369865,1.0,20k-30k
+Brasilia 2790,24500,1.0,2.0,74.0,Providencia,Guadalajara,Department,331.0810810810811,2.0,20k-30k
+Av. Hidalgo 1995,22000,1.0,1.0,74.0,Arcos Vallarta,Guadalajara,Department,297.2972972972973,1.0,20k-30k
+Eutimio Pinzón al 900,13990,2.0,2.0,74.0,Lomas Independencia,Guadalajara,Department,189.05405405405406,1.0,10k-20k
+Paseo de los Virreyes 45,25000,2.0,2.0,74.0,Providencia 1a Secc,Guadalajara,Department,337.8378378378378,1.0,20k-30k
+Av. Naciones Unidas 5546,22000,2.0,2.0,74.0,Vallarta Universidad,Zapopan,Department,297.2972972972973,1.0,20k-30k
+Juan Ruiz de Alarcón,24000,1.0,2.0,74.0,Arcos Vallarta,Guadalajara,Department,324.3243243243243,2.0,20k-30k
+Avenida Juan Palomar y Arias 765,23000,2.0,2.0,74.0,Vallarta Universidad,Zapopan,Department,310.81081081081084,1.0,20k-30k
+Av. México 5000,20000,1.0,1.0,74.0,Providencia,Guadalajara,Department,270.27027027027026,1.0,10k-20k
+Av. Patria 240 ,23000,2.0,2.0,74.0,Vallarta Universidad,Zapopan,Department,310.81081081081084,1.0,20k-30k
+,11000,1.0,1.0,74.0,Terrazas Monraz,Guadalajara,House,148.64864864864865,1.0,10k-20k
+SEBASTIAN BACH 5522 COLONIA LA ESTANCIA ,12000,2.0,1.0,74.0,La Estancia,Zapopan,Department,162.16216216216216,0.5,10k-20k
+1° de Enero,11000,1.0,3.0,74.0,Terrazas Monraz,Guadalajara,House,148.64864864864865,3.0,10k-20k
+Depa en Renta Providencia en Jose Maria Vigil,23000,1.0,1.0,74.0,Americana,Guadalajara,Department,310.81081081081084,1.0,20k-30k
+Prolongación Gigantes,23500,2.0,2.0,74.0,Mezquitan Country,Guadalajara,Department,317.56756756756755,1.0,20k-30k
+Vía Láctea 4310,11000,1.0,2.0,74.0,Arboledas ,Zapopan,Department,148.64864864864865,2.0,10k-20k
+Vía Láctea 4310,11000,1.0,1.0,74.0,Arboledas ,Zapopan,Department,148.64864864864865,1.0,10k-20k
+Torre Livorno,24500,1.0,2.0,74.0,Providencia,Guadalajara,Department,331.0810810810811,2.0,20k-30k
+Alta Sierra 8846 coto 10,8000,3.0,2.0,75.0,Alta California Residencial,Tlajomulco de Zúñiga,House,106.66666666666667,0.6666666666666666,0-10k
+,11500,2.0,2.0,75.0,Hogares de Nuevo México,Zapopan,House,153.33333333333334,1.0,10k-20k
+Av. Acueducto #135,19000,2.0,2.0,75.0,Ayuntamiento,Guadalajara,Department,253.33333333333334,1.0,10k-20k
+"Av. Acueducto 6075, Puerta de Hierro",18500,1.0,2.0,75.0,Fraccionamiento Solares,Zapopan,Department,246.66666666666666,2.0,10k-20k
+Euclides #3233,9000,3.0,2.0,75.0,Vista Sur Residencial,Tlajomulco de Zúñiga,House,120.0,0.6666666666666666,0-10k
+,14500,3.0,2.0,75.0,Ciudad de los niños,Zapopan,Department,193.33333333333334,0.6666666666666666,10k-20k
+GONZAGA #4386,14500,3.0,2.0,75.0,Ciudad de los niños,Zapopan,Department,193.33333333333334,0.6666666666666666,10k-20k
+Avenida México 5000,24000,2.0,2.0,75.0,Valle Real,Zapopan,Department,320.0,1.0,20k-30k
+,24000,2.0,2.0,75.0,Valle Real,Zapopan,Department,320.0,1.0,20k-30k
+aurora boreal ,24000,1.0,2.0,75.0,Providencia,Guadalajara,Department,320.0,2.0,20k-30k
+Valparaiso,24000,2.0,2.0,75.0,Providencia,Guadalajara,Department,320.0,1.0,20k-30k
+,11500,2.0,1.0,75.0,Hogares de Nuevo México,Zapopan,House,153.33333333333334,0.5,10k-20k
+valparaiso 2367,27000,1.0,1.0,75.0,Providencia 1a Secc,Guadalajara,Department,360.0,1.0,20k-30k
+Villa Juarez 1745 Santa Anta Tepetitlán,8000,3.0,2.0,75.0,Alta California Residencial,Tlajomulco de Zúñiga,House,106.66666666666667,0.6666666666666666,0-10k
+Turmalina,9000,3.0,2.0,75.0,Vista Sur Residencial,Tlajomulco de Zúñiga,House,120.0,0.6666666666666666,0-10k
+VITTA ,13500,1.0,2.0,75.0,Nuevo México,Zapopan,Department,180.0,2.0,10k-20k
+"1360, Circunvalación Americas, 44630",6000,1.0,2.0,75.0,Santa María de Silo,Guadalajara,Department,80.0,2.0,0-10k
+"Av Paseo del Alva 1192, coto 1",11500,2.0,2.0,75.0,Hogares de Nuevo México,Zapopan,House,153.33333333333334,1.0,10k-20k
+GIRASOLES 1628,10000,2.0,1.0,75.0,Santa Ana Tepetitlán,Zapopan,House,133.33333333333334,0.5,0-10k
+MANUEL M DIEGUEZ 900,12500,2.0,2.0,75.0,Colinas de los Belenes,Zapopan,Department,166.66666666666666,1.0,10k-20k
+Av. Naciones Unidas 7879,19000,1.0,2.0,76.0,Virreyes Residencial,Zapopan,Department,250.0,2.0,10k-20k
+Camino al Arenero,16400,2.0,2.0,76.0,La Aurora,Zapopan,House,215.78947368421052,1.0,10k-20k
+"Blvrd Puerta de Hierro 5065, 45116 Zapopan, Jal.",13500,3.0,1.0,76.0,Ciudad Bugambilia,Zapopan,Department,177.6315789473684,0.3333333333333333,10k-20k
+Avenida López Mateos  5541,24000,1.0,2.0,76.0,Valle Real,Zapopan,Department,315.7894736842105,2.0,20k-30k
+" São Paulo 1912, Providencia, 44630 Guadalajara, Jal.",23000,1.0,2.0,76.0,Providencia,Guadalajara,Department,302.63157894736844,2.0,20k-30k
+,21500,2.0,4.0,76.0,Jardines de los Arcos,Guadalajara,Department,282.89473684210526,2.0,20k-30k
+Av. Piotr Ilich Tchaikovski 455,16000,2.0,1.0,77.0,Fraccionamiento Real de Valdepeñas,Zapopan,Department,207.7922077922078,0.5,10k-20k
+Calle Ontario 1728,25000,2.0,1.0,77.0,Valle Real,Zapopan,Department,324.6753246753247,0.5,20k-30k
+Av. Aviación 4139 205-B,16000,2.0,2.0,77.0,Fraccionamiento Real de Valdepeñas,Zapopan,Department,207.7922077922078,1.0,10k-20k
+otawa 1560,28000,1.0,1.0,77.0,Providencia,Guadalajara,Department,363.6363636363636,1.0,20k-30k
+Eutimio pinzon 677,14500,2.0,2.0,77.0,Francisco Sarabia,Zapopan,Department,188.3116883116883,1.0,10k-20k
+Diagonal san Jorge 93 Guadalajara ,25000,2.0,2.0,77.0,Valle Real,Zapopan,Department,324.6753246753247,1.0,20k-30k
+Ottawa,28500,1.0,1.0,77.0,Providencia,Guadalajara,Department,370.12987012987014,1.0,20k-30k
+,13500,3.0,1.0,77.0,Conjunto habitacional Patria,Zapopan,Department,175.32467532467533,0.3333333333333333,10k-20k
+,28500,1.0,1.0,77.0,Providencia,Guadalajara,Department,370.12987012987014,1.0,20k-30k
+Av. Universidad  1000,28500,1.0,2.0,77.0,Providencia,Guadalajara,Department,370.12987012987014,2.0,20k-30k
+valparaiso 2367,25000,1.0,1.0,78.0,Providencia 1a Secc,Guadalajara,Department,320.5128205128205,1.0,20k-30k
+san juan de letran 4353,19500,2.0,2.0,78.0,Parque Virreyes Residencial,Zapopan,Department,250.0,1.0,10k-20k
+Av Nicolás Copernico  4225 5,15500,2.0,1.0,79.0,El Vigía,Zapopan,Department,196.20253164556962,0.5,10k-20k
+Av. Providencia,18000,2.0,2.0,80.0,Providencia,Guadalajara,Department,225.0,1.0,10k-20k
+,23500,2.0,2.0,80.0,Jardines del Bosque Norte,Guadalajara,Department,293.75,1.0,20k-30k
+Av Bosque Real ,4500,2.0,1.0,80.0,Lomas de San Agustin,Tlajomulco de Zúñiga,House,56.25,0.5,0-10k
+,13800,2.0,2.0,80.0,Fraccionamiento Real de Valdepeñas,Zapopan,Department,172.5,1.0,10k-20k
+São Paulo 1912,26000,1.0,2.0,80.0,Providencia,Guadalajara,Department,325.0,2.0,20k-30k
+Paseo San Antonio   2641,7000,4.0,3.0,80.0,Fraccionamiento Parques de Tesistán,Zapopan,House,87.5,0.75,0-10k
+SECUNDINA GALLO 707,9500,2.0,2.0,80.0,Electricistas,Guadalajara,Department,118.75,1.0,0-10k
+periferico norte manuel gomez morin 1000,4500,2.0,1.0,80.0,Lomas de San Agustin,Tlajomulco de Zúñiga,House,56.25,0.5,0-10k
+Alta California La Quinta  al 7001,15000,2.0,2.0,80.0,Jardines de Ixtepete,Zapopan,House,187.5,1.0,10k-20k
+av. vallarta ,11500,2.0,3.0,80.0,Oblatos,Guadalajara,Department,143.75,1.5,10k-20k
+hidalgo,12000,3.0,2.0,80.0,Fraccionamiento Villas Del Ixtepete,Zapopan,Department,150.0,0.6666666666666666,10k-20k
+Elementia 117,10500,2.0,2.0,80.0,Element,Tlajomulco de Zúñiga,House,131.25,1.0,10k-20k
+Paseo Andares,13500,3.0,1.0,80.0,Jardines Universidad,Zapopan,Department,168.75,0.3333333333333333,10k-20k
+,13500,3.0,1.0,80.0,Jardines Universidad,Zapopan,Department,168.75,0.3333333333333333,10k-20k
+vereda del ganso Puerta de hierro,12000,3.0,3.0,80.0,Fraccionamiento Parques de Tesistán,Zapopan,House,150.0,1.0,10k-20k
+,7800,2.0,1.0,80.0,Colinas de La Primavera,Zapopan,House,97.5,0.5,0-10k
+Av General Ramon corona 2243,17000,2.0,2.0,80.0,Chapalita Sur,Zapopan,Department,212.5,1.0,10k-20k
+San Juan de la Cruz,13500,2.0,1.0,80.0,Fraccionamiento Camino Real,Zapopan,Department,168.75,0.5,10k-20k
+privada tlaloc 1289,10900,3.0,2.0,80.0,Fraccionamiento Villas Del Ixtepete,Zapopan,Department,136.25,0.6666666666666666,10k-20k
+,11000,1.0,2.0,80.0,El Vigía,Zapopan,House,137.5,2.0,10k-20k
+Av. Circunvalación Alvarez del Castillo 1018,23000,2.0,2.0,80.0,San Juan de Ocotan,Zapopan,Department,287.5,1.0,20k-30k
+Av. Circunvalación Agustín Yáñez 2471,20000,2.0,2.0,80.0,Arcos Vallarta,Guadalajara,Department,250.0,1.0,10k-20k
+,14000,1.0,3.0,80.0,Girasoles Acueducto,Zapopan,House,175.0,3.0,10k-20k
+Mariano Otero 5664,10500,1.0,1.0,80.0,Paseos del Sol,Zapopan,Department,131.25,1.0,10k-20k
+Tenochtitlán 4504,11000,1.0,1.0,80.0,El Vigía,Zapopan,House,137.5,1.0,10k-20k
+Av Miguel Hidalgo y Costilla ,27000,2.0,2.0,80.0,Fraccionamiento Jardines del Country,Guadalajara,Department,337.5,1.0,20k-30k
+Residencial Amaranto ,11500,2.0,2.0,80.0,Fraccionamiento Cortijo de San Agustin,Tlajomulco de Zúñiga,House,143.75,1.0,10k-20k
+"RESIDENCIAL PROVENZA, COTO SUR",16000,3.0,2.0,80.0,Jardines del Valle,Zapopan,House,200.0,0.6666666666666666,10k-20k
+gabriel castaños 2769,25000,2.0,2.0,80.0,Arcos Vallarta,Guadalajara,Department,312.5,1.0,20k-30k
+Boulevard Valle Imperial 1172,15000,2.0,2.0,80.0,Mirador Del Sol,Zapopan,House,187.5,1.0,10k-20k
+Stelar Boreal,12000,2.0,2.0,80.0,Providencia,Guadalajara,Department,150.0,1.0,10k-20k
+Av. Tepeyac  6161 132,16000,3.0,1.0,80.0,Jardines del Valle,Zapopan,House,200.0,0.3333333333333333,10k-20k
+AV. LA CIMA 295,7000,4.0,3.0,80.0,Fraccionamiento Parques de Tesistán,Zapopan,House,87.5,0.75,0-10k
+,17500,2.0,2.0,80.0,Americana,Guadalajara,Department,218.75,1.0,10k-20k
+Paseo de La luna,26000,1.0,2.0,80.0,Providencia,Guadalajara,Department,325.0,2.0,20k-30k
+av tepeyac 6050,15000,2.0,2.0,80.0,Jardines de Ixtepete,Zapopan,House,187.5,1.0,10k-20k
+ Av. Paseo del Anochecer 1207,9900,3.0,2.0,80.0,Fraccionamiento Real Del Valle,Tlajomulco de Zúñiga,House,123.75,0.6666666666666666,0-10k
+,11700,3.0,2.0,80.0,Fraccionamiento Valle Imperial,Zapopan,House,146.25,0.6666666666666666,10k-20k
+Fracc. Element  11,12000,3.0,3.0,80.0,Fraccionamiento Parques de Tesistán,Zapopan,House,150.0,1.0,10k-20k
+Pico de Orizaba 124,9800,3.0,3.0,80.0,Fraccionamiento Real Del Bosque,Zapopan,House,122.5,1.0,0-10k
+Aglaya 2591,10000,3.0,2.0,80.0,Lomas Independencia,Guadalajara,House,125.0,0.6666666666666666,0-10k
+ISLA CONTOY 3144,8900,3.0,2.0,80.0,Parques de Colón,Guadalajara,House,111.25,0.6666666666666666,0-10k
+Camino Viejo a Tesistan 1852,18000,3.0,2.0,80.0,Jardines del Valle,Zapopan,House,225.0,0.6666666666666666,10k-20k
+,13500,2.0,1.0,80.0,Fraccionamiento Camino Real,Zapopan,Department,168.75,0.5,10k-20k
+Av punto Sur 312,9800,3.0,3.0,80.0,Fraccionamiento Real Del Bosque,Zapopan,House,122.5,1.0,0-10k
+Buenos Aires  2066,8000,3.0,1.0,81.0,La Moraleja,Zapopan,House,98.76543209876543,0.3333333333333333,0-10k
+,28000,2.0,2.0,81.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,345.679012345679,1.0,20k-30k
+Calle Salvador López Chávez 1750,15000,2.0,2.0,81.0,San Carlos,Guadalajara,Department,185.1851851851852,1.0,10k-20k
+Juan Ruiz de Alarcón  519,14500,2.0,1.0,81.0,La Palmita,Zapopan,Department,179.01234567901236,0.5,10k-20k
+Atlitlalaquian 1804,15000,2.0,2.0,81.0,San Carlos,Guadalajara,Department,185.1851851851852,1.0,10k-20k
+Av Sendas 1501 111,34000,2.0,2.0,81.0,Providencia,Guadalajara,Department,419.75308641975306,1.0,30k-40k
+PUENTE EL PALOMAR TORRE BALANTY  400,14000,2.0,2.0,82.0,El Campanario,Zapopan,Department,170.73170731707316,1.0,10k-20k
+Avenida Naciones Unidas #4839 - 2,24500,2.0,2.0,82.0,Arcos Vallarta,Guadalajara,Department,298.780487804878,1.0,20k-30k
+Lateral anillo periférico 800,23000,2.0,2.0,82.0,San Juan de Ocotan,Zapopan,Department,280.4878048780488,1.0,20k-30k
+Ciudad Bugambilia,14800,2.0,1.0,82.0,Santa Ana Tepetitlán,Zapopan,House,180.4878048780488,0.5,10k-20k
+Av. Aviacion,24000,2.0,2.0,82.0,San Juan de Ocotan,Zapopan,Department,292.6829268292683,1.0,20k-30k
+Sao Paulo ,24000,2.0,2.0,82.0,San Juan de Ocotan,Zapopan,Department,292.6829268292683,1.0,20k-30k
+C ottawa,25000,2.0,2.0,82.0,Valle Real,Zapopan,Department,304.8780487804878,1.0,20k-30k
+Duque de Rivas,24500,2.0,2.0,82.0,Arcos Vallarta,Guadalajara,Department,298.780487804878,1.0,20k-30k
+,14000,3.0,1.0,83.0,Natura Bosque Residencial,Zapopan,House,168.67469879518072,0.3333333333333333,10k-20k
+,12500,2.0,2.0,83.0,El Quemado,Zapopan,House,150.6024096385542,1.0,10k-20k
+Av de la Campiña 5261,14000,3.0,4.0,83.0,Natura Bosque Residencial,Zapopan,House,168.67469879518072,1.3333333333333333,10k-20k
+Montemorelos 3400,16500,2.0,2.0,83.0,Rinconada de La Calma,Zapopan,Department,198.79518072289156,1.0,10k-20k
+TURQUESA 3358 4A,14000,3.0,3.0,83.0,Natura Bosque Residencial,Zapopan,House,168.67469879518072,1.0,10k-20k
+Niños Héroes #2050,19000,2.0,2.0,83.0,Americana,Guadalajara,Department,228.9156626506024,1.0,10k-20k
+Avenida niños heroes 2050,22000,2.0,2.0,84.0,Americana,Guadalajara,Department,261.9047619047619,1.0,20k-30k
+,30000,3.0,3.0,84.0,Colinas de San Javier,Zapopan,Department,357.14285714285717,1.0,20k-30k
+Niños Héroes 2050,18900,2.0,2.0,84.0,Americana,Guadalajara,Department,225.0,1.0,10k-20k
+Punto Sur,13500,3.0,2.0,84.0,Santa Ana Tepetitlán,Zapopan,House,160.71428571428572,0.6666666666666666,10k-20k
+Paseo Lomas Altas,22500,2.0,2.0,84.0,Ayuntamiento,Guadalajara,Department,267.85714285714283,1.0,20k-30k
+"San Ignacio #466 Int 63,",11250,2.0,2.0,84.0,Fraccionamiento Juan Gil Preciado,Zapopan,House,133.92857142857142,1.0,10k-20k
+SALVADOR LOPEZ CHAVEZ 1750-3,12000,2.0,2.0,84.0,San Carlos,Guadalajara,Department,142.85714285714286,1.0,10k-20k
+CALLE JUSTO SIERRA 2917,9100,2.0,5.0,84.0,Adamar,Tlajomulco de Zúñiga,House,108.33333333333333,2.5,0-10k
+Av acueducto 6075,23000,2.0,3.0,84.0,Jardines Universidad,Zapopan,Department,273.8095238095238,1.5,20k-30k
+Calle Viñedo ,13500,3.0,2.0,84.0,Fraccionamiento Real de Valdepeñas,Zapopan,House,160.71428571428572,0.6666666666666666,10k-20k
+Av. Naciones Unidas 7879,22500,2.0,2.0,84.0,Ayuntamiento,Guadalajara,Department,267.85714285714283,1.0,20k-30k
+Av acueducto 6075,35000,2.0,2.0,84.0,Puerta de Hierro,Zapopan,Department,416.6666666666667,1.0,30k-40k
+BRASILIA 2790,25000,2.0,2.0,84.0,Colinas de San Javier,Zapopan,Department,297.6190476190476,1.0,20k-30k
+CTO. DE LOS HIMALAYA 1351,17000,2.0,2.0,84.0,Alcalde Barranquitas,Guadalajara,Department,202.38095238095238,1.0,10k-20k
+circuito cañada del tigre #6d,13500,3.0,2.0,84.0,Santa Ana Tepetitlán,Zapopan,House,160.71428571428572,0.6666666666666666,10k-20k
+NIÑOS HEROES 2050 ESQUINA CON MARSELLA,19500,2.0,2.0,85.0,Americana,Guadalajara,Department,229.41176470588235,1.0,10k-20k
+,21500,2.0,2.0,85.0,Americana,Guadalajara,Department,252.94117647058823,1.0,20k-30k
+Av Lopez Mateos Sur 5555,12000,3.0,2.0,85.0,Villas de Zapopan,Zapopan,House,141.1764705882353,0.6666666666666666,10k-20k
+Juan Ruiz de Alarcon ,22000,2.0,2.0,85.0,Valle Real,Zapopan,Department,258.8235294117647,1.0,20k-30k
+Pablo Casals 487,14500,2.0,2.0,85.0,Providencia,Guadalajara,Department,170.58823529411765,1.0,10k-20k
+,32430,2.0,2.0,85.0,Ladrón de Guevara,Guadalajara,Department,381.52941176470586,1.0,30k-40k
+Avenida paseo la toscana 122,21000,4.0,2.0,85.0,Santa Anita,Tlajomulco de Zúñiga,Department,247.05882352941177,0.5,20k-30k
+,17800,1.0,1.0,85.0,Americana,Guadalajara,Department,209.41176470588235,1.0,10k-20k
+,21000,2.0,2.0,85.0,Lomas Del Seminario,Zapopan,Department,247.05882352941177,1.0,20k-30k
+,14000,1.0,1.0,85.0,Jardines de La Patria,Zapopan,Department,164.7058823529412,1.0,10k-20k
+Paseo de la Guarnición,12000,3.0,2.0,85.0,Villas de Zapopan,Zapopan,House,141.1764705882353,0.6666666666666666,10k-20k
+MARSELLA 226,18000,2.0,1.0,85.0,Fraccionamiento Jardines de San Ignacio,Zapopan,Department,211.76470588235293,0.5,10k-20k
+,22000,2.0,2.0,85.0,Valle Real,Zapopan,Department,258.8235294117647,1.0,20k-30k
+Valerio Trujano 240,19500,2.0,2.0,85.0,Americana,Guadalajara,Department,229.41176470588235,1.0,10k-20k
+Vista del Mar 690-13,5000,2.0,1.0,85.0,Fraccionamiento Hacienda las Palomas,Zapopan,House,58.8235294117647,0.5,0-10k
+,13000,3.0,2.0,85.0,Lomas Independencia,Guadalajara,Department,152.94117647058823,0.6666666666666666,10k-20k
+Calle Salvador López Chávez 1750,18000,2.0,1.0,85.0,Fraccionamiento Jardines de San Ignacio,Zapopan,Department,211.76470588235293,0.5,10k-20k
+Prol. Río Blanco 1360,17000,3.0,3.0,85.0,El Centinela,Zapopan,House,200.0,1.0,10k-20k
+Av. Periférico Norte 800,22000,2.0,2.0,85.0,Santa Margarita ,Zapopan,Department,258.8235294117647,1.0,20k-30k
+AVENIDA PATRIA 114,14000,2.0,1.0,85.0,Jardines de La Patria,Zapopan,Department,164.7058823529412,0.5,10k-20k
+Av. Monte Verde 3347,14000,4.0,4.0,85.0,Natura Bosque Residencial,Zapopan,House,164.7058823529412,1.0,10k-20k
+san agustin 1289 interior 4,18000,2.0,1.0,85.0,Fraccionamiento Jardines de San Ignacio,Zapopan,Department,211.76470588235293,0.5,10k-20k
+,21000,2.0,1.0,85.0,Lomas Del Seminario,Zapopan,Department,247.05882352941177,0.5,20k-30k
+san juan de letran 4353,22000,2.0,2.0,85.0,Lomas Del Seminario,Zapopan,Department,258.8235294117647,1.0,20k-30k
+Lerdo de Tejada 2571,13000,3.0,2.0,85.0,Lomas Independencia,Guadalajara,Department,152.94117647058823,0.6666666666666666,10k-20k
+diagonal san jorge 93,5100,1.0,2.0,85.0,Fraccionamiento Parques de Tesistán,Zapopan,Department,60.0,2.0,0-10k
+ACUEDUCTO 360,22000,1.0,2.0,85.0,Lomas Del Seminario,Zapopan,Department,258.8235294117647,2.0,20k-30k
+,8800,2.0,2.0,85.0,San Agustín,Tlajomulco de Zúñiga,House,103.52941176470588,1.0,0-10k
+Salvador López Chávez 1750,13000,3.0,2.0,85.0,San Carlos,Guadalajara,Department,152.94117647058823,0.6666666666666666,10k-20k
+,24000,2.0,2.0,86.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,279.06976744186045,1.0,20k-30k
+Av. Miguel Hidalgo,22500,2.0,1.0,86.0,Americana,Guadalajara,Department,261.6279069767442,0.5,20k-30k
+,34000,2.0,1.0,86.0,Ciudad Granja,Zapopan,Department,395.3488372093023,0.5,30k-40k
+"Av. D 718, La Cantera Habitat, 45134 Zapopan, Jal.",23360,2.0,1.0,87.0,Arcos Vallarta,Guadalajara,Department,268.5057471264368,0.5,20k-30k
+Avenida Naciones Unidas #4839 - 2,19000,2.0,1.0,87.0,Jardines Universidad,Zapopan,Department,218.39080459770116,0.5,10k-20k
+"avenida de la pradera 844 coto albano #46, el campestre zapopan jalisco",8500,2.0,1.0,87.0,Fraccionamiento Campestre Los Robles,Zapopan,House,97.70114942528735,0.5,0-10k
+Paseo Valle Real 900,23360,2.0,1.0,87.0,Arcos Vallarta,Guadalajara,Department,268.5057471264368,0.5,20k-30k
+Av. Guadalupe 6877 47,11400,2.0,1.0,88.0,Plaza Guadalupe,Zapopan,House,129.54545454545453,0.5,10k-20k
+TURMALINA,10500,3.0,1.0,89.0,La Venta del Astillero,Zapopan,House,117.97752808988764,0.3333333333333333,10k-20k
+Paseo de la luna 630,18600,2.0,2.0,89.0,Punto Sur,Tlajomulco de Zúñiga,Department,208.98876404494382,1.0,10k-20k
+Av. Hidalgo 157,22000,2.0,2.0,89.0,Americana,Guadalajara,Department,247.19101123595505,1.0,20k-30k
+JUAN FRANCISCO LUCAS 1067 P.A,10000,3.0,2.0,89.0,Tlajomulco de Zúñiga,Other,House,112.35955056179775,0.6666666666666666,0-10k
+Av. Adamar 1479 38,9400,2.0,1.0,89.0,Adamar,Tlajomulco de Zúñiga,House,105.61797752808988,0.5,0-10k
+,14000,2.0,1.0,89.0,San Juan de Ocotan,Zapopan,Department,157.30337078651687,0.5,10k-20k
+Zapopan,19700,2.0,1.0,89.0,Jocotán,Zapopan,Department,221.34831460674158,0.5,10k-20k
+,9000,2.0,1.0,89.0,Loma Dorada Delegación a,Tonalá,House,101.12359550561797,0.5,0-10k
+Av. Aviacion,16500,2.0,2.0,89.0,Paseos del Sol,Zapopan,Department,185.3932584269663,1.0,10k-20k
+Rinconada de las magnolias 79,9000,2.0,2.0,89.0,Loma Dorada Delegación a,Tonalá,House,101.12359550561797,1.0,0-10k
+Francisco I. Madero 6259,19700,2.0,1.0,89.0,Jocotán,Zapopan,Department,221.34831460674158,0.5,10k-20k
+Agua azul 2525,10000,3.0,2.0,89.0,Tlajomulco de Zúñiga,Other,House,112.35955056179775,0.6666666666666666,0-10k
+Paseo de la cantera 750,10000,3.0,2.0,89.0,Tlajomulco de Zúñiga,Other,House,112.35955056179775,0.6666666666666666,0-10k
+AV ALTARA 100,8000,2.0,2.0,89.0,San Agustín,Tlajomulco de Zúñiga,House,89.88764044943821,1.0,0-10k
+Avenida paseo la toscana 122,22000,2.0,5.0,89.0,Americana,Guadalajara,Department,247.19101123595505,2.5,20k-30k
+rinconada del arroyo 1501 1 1,15500,2.0,2.0,90.0,Fraccionamiento Valle Imperial,Zapopan,Department,172.22222222222223,1.0,10k-20k
+San Javier,13600,3.0,2.0,90.0,Plaza Guadalupe,Zapopan,House,151.11111111111111,0.6666666666666666,10k-20k
+perla 3623,15000,3.0,2.0,90.0,Fraccionamiento Rinconada San Isidro,Zapopan,House,166.66666666666666,0.6666666666666666,10k-20k
+Severo diaz 136,12000,2.0,2.0,90.0,Fraccionamiento Nueva Galicia Residencial,Tlajomulco de Zúñiga,Department,133.33333333333334,1.0,10k-20k
+Roque Abarca,14200,3.0,2.0,90.0,Plaza Guadalupe,Zapopan,House,157.77777777777777,0.6666666666666666,10k-20k
+,20000,2.0,2.0,90.0,Fraccionamiento Jardín Real,Zapopan,Department,222.22222222222223,1.0,10k-20k
+"Av. Ignacio L. Vallarta 2474, Arcos Vallarta, 44130 Guadalajara, Jal.",24900,2.0,2.0,90.0,Arcos Vallarta,Guadalajara,Department,276.6666666666667,1.0,20k-30k
+puerta las lomas lagos 87,14000,3.0,3.0,90.0,Santa Margarita ,Zapopan,House,155.55555555555554,1.0,10k-20k
+Calz. Federalismo 75,7000,2.0,1.0,90.0,Ciudad AztlAn,Tonalá,Department,77.77777777777777,0.5,0-10k
+Brasilia 2790,24500,2.0,2.0,90.0,Colomos Patria,Zapopan,Department,272.22222222222223,1.0,20k-30k
+Fray Juan de Zumárraga 758,11000,2.0,2.0,90.0,Independencia,Guadalajara,House,122.22222222222223,1.0,10k-20k
+,7500,2.0,2.0,90.0,Lomas de San Agustin,Tlajomulco de Zúñiga,House,83.33333333333333,1.0,0-10k
+av. paseo la toscana 122 cima park ,23000,2.0,2.0,90.0,Ladrón de Guevara,Guadalajara,Department,255.55555555555554,1.0,20k-30k
+Hidalgo residences,28500,2.0,2.0,90.0,Americana,Guadalajara,Department,316.6666666666667,1.0,20k-30k
+AV ADAMAR 1742,13000,3.0,5.0,90.0,La Palmira,Zapopan,House,144.44444444444446,1.6666666666666667,10k-20k
+Av de la Campiña 5261,7200,2.0,1.0,90.0,Jardines del Valle,Zapopan,House,80.0,0.5,0-10k
+,11000,3.0,3.0,90.0,Nuevo México,Zapopan,House,122.22222222222223,1.0,10k-20k
+Residencial Amaranto ,55000,3.0,4.0,90.0,Fraccionamiento Bugambilias,Zapopan,House,611.1111111111111,1.3333333333333333,50k-70k
+,15500,2.0,2.0,90.0,Fraccionamiento Valle Imperial,Zapopan,Department,172.22222222222223,1.0,10k-20k
+Duque de Rivas,7000,2.0,2.0,90.0,Ciudad AztlAn,Tonalá,Department,77.77777777777777,1.0,0-10k
+Toltecas 3446,12500,3.0,1.0,90.0,PanorAmica HuentitAn,Guadalajara,House,138.88888888888889,0.3333333333333333,10k-20k
+antiguo camino a tesistan 8875,11000,3.0,4.0,90.0,Nuevo México,Zapopan,House,122.22222222222223,1.3333333333333333,10k-20k
+"Vallarta 2769, Arcos Vallarta, 44130, Guadalajara, México",22000,2.0,2.0,90.0,Ciudad Granja,Zapopan,Department,244.44444444444446,1.0,20k-30k
+Av. Paseo de la luna 885,21500,2.0,2.0,90.0,Jardines del Bosque,Guadalajara,Department,238.88888888888889,1.0,20k-30k
+Av Reno Poniente 3725,14500,3.0,3.0,90.0,El Fortín,Zapopan,House,161.11111111111111,1.0,10k-20k
+Vista del Mar 690-13,11000,2.0,2.0,90.0,Santa Ana Tepetitlán,Zapopan,House,122.22222222222223,1.0,10k-20k
+,14500,3.0,2.0,90.0,Fraccionamiento Valle de San Isidro,Zapopan,House,161.11111111111111,0.6666666666666666,10k-20k
+NIÑOS HEROES 2050 ESQUINA CON MARSELLA,20000,2.0,4.0,90.0,Ladrón de Guevara,Guadalajara,Department,222.22222222222223,2.0,10k-20k
+AV INGLATERRA 5100,18000,1.0,1.0,90.0,Providencia,Guadalajara,Department,200.0,1.0,10k-20k
+Paseo Lomas Altas 4777 903 Torre A,26500,2.0,1.0,90.0,Lomas Altas,Zapopan,Department,294.44444444444446,0.5,20k-30k
+Calle Mar  Mediterráneo 1254,28000,2.0,2.0,90.0,Americana,Guadalajara,Department,311.1111111111111,1.0,20k-30k
+Valle Imperial ,13000,3.0,2.0,90.0,La Palmira,Zapopan,House,144.44444444444446,0.6666666666666666,10k-20k
+José María Heredia,27000,2.0,2.0,90.0,Providencia,Guadalajara,Department,300.0,1.0,20k-30k
+"Paseo la Toscana #122 - 14, Valle Real, Zapopan",28500,3.0,3.0,90.0,Americana,Guadalajara,Department,316.6666666666667,1.0,20k-30k
+Calle Asunción 1985,26000,2.0,2.0,90.0,Americana,Guadalajara,Department,288.8888888888889,1.0,20k-30k
+SAN CARLOS ,6100,3.0,2.0,90.0,Fraccionamiento Palermo,Zapopan,House,67.77777777777777,0.6666666666666666,0-10k
+,30000,2.0,2.0,90.0,Country Club,Guadalajara,Department,333.3333333333333,1.0,20k-30k
+Alcamo 3050,28000,2.0,2.0,90.0,Americana,Guadalajara,Department,311.1111111111111,1.0,20k-30k
+Circuito Madrigal,10000,3.0,5.0,90.0,Alta California Residencial,Tlajomulco de Zúñiga,House,111.11111111111111,1.6666666666666667,0-10k
+Av. José María Vigil,20000,2.0,2.0,90.0,Ladrón de Guevara,Guadalajara,Department,222.22222222222223,1.0,10k-20k
+Av. Central  500 306,25000,1.0,2.0,90.0,Fraccionamiento Ladrón de Guevara,Guadalajara,Department,277.77777777777777,2.0,20k-30k
+Av. Aviación 4139 205-B,26000,2.0,2.0,90.0,Colinas de San Javier,Zapopan,Department,288.8888888888889,1.0,20k-30k
+mar mediterraneo 1254,7850,1.0,2.0,90.0,Arboledas ,Zapopan,Department,87.22222222222223,2.0,0-10k
+Brasilia 2790 ,7000,2.0,2.0,90.0,Ciudad AztlAn,Tonalá,Department,77.77777777777777,1.0,0-10k
+Comerciantes,6550,2.0,2.0,90.0,El Moral,Tonalá,House,72.77777777777777,1.0,0-10k
+Enrique Olvarria y Ferarri 3543 02,16000,3.0,2.0,90.0,Fraccionamiento Jardines Del Nilo,Guadalajara,House,177.77777777777777,0.6666666666666666,10k-20k
+Paseo Lomas Altas 4777 903 Torre A,26500,2.0,2.0,90.0,Lomas Altas,Zapopan,Department,294.44444444444446,1.0,20k-30k
+Paseo del trento 510,14500,3.0,3.0,90.0,El Fortín,Zapopan,House,161.11111111111111,1.0,10k-20k
+AV. GUADALUPE 5057,21200,2.0,2.0,90.0,Fraccionamiento Chapalita de Occidente,Zapopan,Department,235.55555555555554,1.0,20k-30k
+Calle de los Toronjos 440,13500,3.0,2.0,90.0,Nuevo México,Zapopan,House,150.0,0.6666666666666666,10k-20k
+PROLONGACION JESUS 3841,25000,2.0,2.0,90.0,Jardines del Valle,Zapopan,Department,277.77777777777777,1.0,20k-30k
+Juan palomar y arias 546 INT 2,24000,2.0,2.0,90.0,Valle Real,Zapopan,Department,266.6666666666667,1.0,20k-30k
+Av. Central Guillermo Gonzalez Camarena #500,25500,2.0,2.0,90.0,Americana,Guadalajara,Department,283.3333333333333,1.0,20k-30k
+,6500,3.0,4.0,90.0,Las Agujas,Zapopan,House,72.22222222222223,1.3333333333333333,0-10k
+AV. MANUEL ACUÑA 3177 COL. MONRAZ,21500,2.0,2.0,90.0,Jardines del Bosque,Guadalajara,Department,238.88888888888889,1.0,20k-30k
+Francisco Martin del Campo 511,7850,1.0,2.0,90.0,Arboledas ,Zapopan,Department,87.22222222222223,2.0,0-10k
+Av. Naciones Unidas 7879,21500,2.0,2.0,90.0,Virreyes Residencial,Zapopan,Department,238.88888888888889,1.0,20k-30k
+Av. Naciones Unidas 5546,20000,2.0,2.0,90.0,Ladrón de Guevara,Guadalajara,Department,222.22222222222223,1.0,10k-20k
+,26000,2.0,2.0,90.0,Americana,Guadalajara,Department,288.8888888888889,1.0,20k-30k
+"Av. Sta. Margarita 4950, Jardín Real, 45138 Zapopan, Jal.",11000,2.0,2.0,90.0,Independencia,Guadalajara,House,122.22222222222223,1.0,10k-20k
+,15000,3.0,2.0,91.0,El Colli Urbano,Zapopan,House,164.83516483516485,0.6666666666666666,10k-20k
+Avenida Moctezuma #4298,8500,2.0,1.0,91.0,Adamar,Tlajomulco de Zúñiga,House,93.4065934065934,0.5,0-10k
+Bosques de Chapultepec 213,8500,2.0,1.0,91.0,Adamar,Tlajomulco de Zúñiga,House,93.4065934065934,0.5,0-10k
+Ignacio L Vallarta 5145,20000,2.0,3.0,92.0,Punto Sur,Tlajomulco de Zúñiga,Department,217.3913043478261,1.5,10k-20k
+,28000,2.0,2.0,92.0,Puerta de Hierro,Zapopan,Department,304.3478260869565,1.0,20k-30k
+,29000,2.0,2.0,92.0,Puerta de Hierro,Zapopan,Department,315.2173913043478,1.0,20k-30k
+Acueducto 6075,28000,2.0,2.0,92.0,Puerta de Hierro,Zapopan,Department,304.3478260869565,1.0,20k-30k
+Andres Teran 1165,24400,2.0,4.0,92.0,Fraccionamiento Chapultepec Country,Guadalajara,Department,265.2173913043478,2.0,20k-30k
+Av Montevideo 3497,24400,2.0,2.0,92.0,Fraccionamiento Chapultepec Country,Guadalajara,Department,265.2173913043478,1.0,20k-30k
+,14500,2.0,1.0,92.0,Prados Tepeyac,Zapopan,Department,157.6086956521739,0.5,10k-20k
+"AV, XOCHITL 310 6",14500,2.0,1.0,92.0,Prados Tepeyac,Zapopan,Department,157.6086956521739,0.5,10k-20k
+Paseo de los valles,22000,2.0,2.0,92.0,Mezquitan,Guadalajara,House,239.1304347826087,1.0,20k-30k
+Andres Teran 1165,24400,2.0,2.0,92.0,Fraccionamiento Chapultepec Country,Guadalajara,Department,265.2173913043478,1.0,20k-30k
+Av. Miguel Hidalgo y Costilla 1571,26000,2.0,2.0,93.0,Ladrón de Guevara,Guadalajara,Department,279.5698924731183,1.0,20k-30k
+acueducto 360,27900,2.0,2.0,93.0,Puerta de Hierro,Zapopan,Department,300.0,1.0,20k-30k
+Av López Mateos  5541,19786,2.0,2.0,93.0,Las Aguilas,Zapopan,Department,212.752688172043,1.0,10k-20k
+Av. López Mateos  5541,20280,2.0,2.0,93.0,Las Aguilas,Zapopan,House,218.06451612903226,1.0,20k-30k
+Av. Rafael Sanzio 632,27900,1.0,2.0,93.0,Puerta de Hierro,Zapopan,Department,300.0,2.0,20k-30k
+,27900,2.0,3.0,93.0,Puerta de Hierro,Zapopan,Department,300.0,1.5,20k-30k
+"Av. El Campestre 720, int 27",9500,2.0,3.0,93.0,Adamar,Tlajomulco de Zúñiga,House,102.15053763440861,1.5,0-10k
+Avenida López Mateos  5541,16500,2.0,3.0,93.0,Las Aguilas,Zapopan,Department,177.41935483870967,1.5,10k-20k
+Buenos Aires 3060,24000,2.0,2.0,93.0,Fraccionamiento Ladrón de Guevara,Guadalajara,Department,258.06451612903226,1.0,20k-30k
+,30000,3.0,3.0,93.0,Jardines de La Patria,Zapopan,House,322.5806451612903,1.0,20k-30k
+Av Paseo de La Luna 788,19500,2.0,3.0,94.0,Fraccionamiento Solares,Zapopan,Department,207.4468085106383,1.5,10k-20k
+PASEO LOMAS ALTAS 4777,14600,3.0,2.0,94.0,El Fortín,Zapopan,Department,155.31914893617022,0.6666666666666666,10k-20k
+" P.º de Los Cedros 1180, Granja, 45010 Zapopan, Jal.",18000,2.0,2.0,94.0,Ciudad Granja,Zapopan,Department,191.48936170212767,1.0,10k-20k
+Colegio militar 3842,13800,3.0,2.0,94.0,El Fortín,Zapopan,House,146.80851063829786,0.6666666666666666,10k-20k
+Mar Egeo,21000,2.0,2.0,94.0,Country Club,Guadalajara,Department,223.40425531914894,1.0,20k-30k
+Av.paseo la Toscana 122 cima park ,19500,2.0,2.0,94.0,Americana,Guadalajara,Department,207.4468085106383,1.0,10k-20k
+av camino de los parques 3880,14500,2.0,1.0,94.0,Lomas de San Isidro,Zapopan,Department,154.25531914893617,0.5,10k-20k
+Avenida Elementia Camino a La Coladera,12500,3.0,2.0,94.0,San Agustín,Tlajomulco de Zúñiga,House,132.9787234042553,0.6666666666666666,10k-20k
+Av México 5000 ,26950,1.0,2.0,95.0,Country Club,Guadalajara,Department,283.6842105263158,2.0,20k-30k
+Av Niños Héroes 2050,22000,2.0,2.0,95.0,Americana,Guadalajara,Department,231.57894736842104,1.0,20k-30k
+av d 575,13500,3.0,2.0,95.0,El Tigre,Zapopan,House,142.10526315789474,0.6666666666666666,10k-20k
+"Av. Sta. Margarita 4950, Jardín Real, 45138 Zapopan, Jal.",22200,3.0,2.0,95.0,Fraccionamiento Valle Esmeralda,Zapopan,House,233.68421052631578,0.6666666666666666,20k-30k
+MANUEL M DIEGUEZ,17800,2.0,2.0,95.0,Sendas Residencial,Zapopan,Department,187.3684210526316,1.0,10k-20k
+Formosa 1900,14000,1.0,1.0,95.0,Fraccionamiento Chapultepec Country,Guadalajara,Department,147.3684210526316,1.0,10k-20k
+Provincia de Alicante 12,13500,3.0,2.0,95.0,El Tigre,Zapopan,House,142.10526315789474,0.6666666666666666,10k-20k
+C. Anastasio Bustamante 1400,26900,2.0,2.0,95.0,Jardines de La Patria,Zapopan,Department,283.1578947368421,1.0,20k-30k
+Juan Ruiz de Alarcon 229,21000,2.0,2.0,95.0,Valle Real,Zapopan,Department,221.05263157894737,1.0,20k-30k
+Lerdo de Tejada 2571,21000,2.0,4.0,95.0,Valle Real,Zapopan,Department,221.05263157894737,2.0,20k-30k
+Av Sendas 1501 111,17800,2.0,2.0,95.0,Sendas Residencial,Zapopan,Department,187.3684210526316,1.0,10k-20k
+Av. Aviacion,21000,2.0,2.0,95.0,Guadalajara Centro,Guadalajara,Department,221.05263157894737,1.0,20k-30k
+"Mar Mediterráneo 1254, 44610 Guadalajara, Jal.",26950,1.0,1.0,95.0,Country Club,Guadalajara,Department,283.6842105263158,1.0,20k-30k
+Sendero de los Viñedos,13500,2.0,4.0,95.0,Chapalita Oriente,Zapopan,House,142.10526315789474,2.0,10k-20k
+ADAMAR   NUMERO    548   COTO   ALAMEDA  INTERIOR  151 .,22200,3.0,2.0,95.0,Fraccionamiento Valle Esmeralda,Zapopan,House,233.68421052631578,0.6666666666666666,20k-30k
+Av. Acueducto 6075,35000,2.0,3.0,96.0,Puerta de Hierro,Zapopan,Department,364.5833333333333,1.5,30k-40k
+Rinconada de los fresnos  0,13000,3.0,3.0,96.0,Senderos de TesistAn,Zapopan,House,135.41666666666666,1.0,10k-20k
+,7900,3.0,2.0,96.0,Fraccionamiento Misión Del Bosque,Zapopan,House,82.29166666666667,0.6666666666666666,0-10k
+Rinconada del Castaño  2519,15000,3.0,2.0,96.0,Fraccionamiento Rinconada de Los Fresnos,Zapopan,House,156.25,0.6666666666666666,10k-20k
+Paseo Lomas Altas  4820 703,26000,2.0,2.0,96.0,La Patria Universidad,Zapopan,Department,270.8333333333333,1.0,20k-30k
+Paso Valle Real 4000,21500,1.0,2.0,96.0,Fraccionamiento Circunvalación Vallarta,Guadalajara,Department,223.95833333333334,2.0,20k-30k
+"Fracc. Punto sur este, complejo esenika",23000,2.0,2.0,96.0,Punto Sur,Tlajomulco de Zúñiga,Department,239.58333333333334,1.0,20k-30k
+AVENIDA C 1137,17500,3.0,1.0,96.0,Fraccionamiento Rinconada de Los Fresnos,Zapopan,House,182.29166666666666,0.3333333333333333,10k-20k
+abogados,10200,3.0,2.0,96.0,Foret,Zapopan,House,106.25,0.6666666666666666,10k-20k
+,7900,3.0,4.0,96.0,Fraccionamiento Misión Del Bosque,Zapopan,House,82.29166666666667,1.3333333333333333,0-10k
+,27000,2.0,2.0,96.0,Jardines Universidad,Zapopan,Department,281.25,1.0,20k-30k
+Paseo del Anochecer  964 47,11000,3.0,1.0,96.0,San Agustín,Tlajomulco de Zúñiga,House,114.58333333333333,0.3333333333333333,10k-20k
+Av General Ramon Corona 456,12500,3.0,2.0,96.0,San Agustín,Tlajomulco de Zúñiga,House,130.20833333333334,0.6666666666666666,10k-20k
+circuito cañada del tigre #6d,14000,3.0,2.0,97.0,Fraccionamiento Valle de San Isidro,Zapopan,House,144.3298969072165,0.6666666666666666,10k-20k
+Av. Las Américas ,24500,1.0,2.0,97.0,Chapalita Oriente,Zapopan,Department,252.57731958762886,2.0,20k-30k
+Av Nueva Galicia 1507 Condominio Valencia  casa 243,15000,3.0,2.0,97.0,Villas de Zapopan,Zapopan,House,154.63917525773195,0.6666666666666666,10k-20k
+Av. Chapultepec 460 9 ,38000,2.0,2.0,97.0,Puerta de Hierro,Zapopan,Department,391.7525773195876,1.0,30k-40k
+Vidrio 1894,32000,2.0,2.0,97.0,Country Club,Guadalajara,Department,329.89690721649487,1.0,30k-40k
+Blvrd. Bosques de Santa Anita,12200,3.0,3.0,97.0,Zapopan Centro,Zapopan,House,125.77319587628865,1.0,10k-20k
+Torre Esenika 1 1,24500,2.0,2.0,97.0,Chapalita Oriente,Zapopan,Department,252.57731958762886,1.0,20k-30k
+Atlitlalaquian 1804,38000,2.0,2.0,97.0,Puerta de Hierro,Zapopan,Department,391.7525773195876,1.0,30k-40k
+"c palmira, bv valle imperial 1235",12200,3.0,1.0,97.0,Zapopan Centro,Zapopan,House,125.77319587628865,0.3333333333333333,10k-20k
+PABLO CASALS 1040,24500,2.0,2.0,97.0,Chapalita Oriente,Zapopan,Department,252.57731958762886,1.0,20k-30k
+,12200,3.0,2.0,97.0,Zapopan Centro,Zapopan,House,125.77319587628865,0.6666666666666666,10k-20k
+Nicolas Copérnico #943,25000,2.0,2.0,97.0,Atlas Chapalita,Zapopan,Department,257.7319587628866,1.0,20k-30k
+Justo sierra 2135-84,17000,1.0,2.0,97.0,Arcos Vallarta,Guadalajara,Department,175.2577319587629,2.0,10k-20k
+william shakespeare,15500,3.0,2.0,97.0,Fraccionamiento Valle Imperial,Zapopan,House,159.79381443298968,0.6666666666666666,10k-20k
+Calzada Lázaro Cárdenas 3333,24500,1.0,2.0,97.0,Chapalita Oriente,Zapopan,Department,252.57731958762886,2.0,20k-30k
+MANUEL M DIEGUEZ 900,23000,1.0,2.0,98.0,Valle Real,Zapopan,Department,234.69387755102042,2.0,20k-30k
+Calz de los Laureles 1084,20000,2.0,2.0,98.0,Ciudad Granja,Zapopan,Department,204.08163265306123,1.0,10k-20k
+,18000,3.0,3.0,98.0,Santa Ana Tepetitlán,Zapopan,House,183.6734693877551,1.0,10k-20k
+Colegio  militar 3842,27500,1.0,1.0,98.0,Country Club,Guadalajara,Department,280.61224489795916,1.0,20k-30k
+Brasilia 2790,19000,3.0,2.0,98.0,Fraccionamiento Real de Valdepeñas,Zapopan,Department,193.87755102040816,0.6666666666666666,10k-20k
+Valparaíso ,32000,2.0,2.0,98.0,Providencia,Guadalajara,Department,326.53061224489795,1.0,30k-40k
+"Vallarta 2769, Arcos Vallarta, 44130, Guadalajara, México",25000,2.0,2.0,98.0,Arcos Vallarta,Guadalajara,Department,255.10204081632654,1.0,20k-30k
+Compostela 2065,23500,2.0,2.0,98.0,Fraccionamiento Chapultepec Country,Guadalajara,Department,239.79591836734693,1.0,20k-30k
+Colomos Providencia,47000,2.0,3.0,98.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,479.59183673469386,1.5,40k-50k
+,14000,2.0,2.0,98.0,El Palomar,Tlajomulco de Zúñiga,Department,142.85714285714286,1.0,10k-20k
+,25000,2.0,2.0,98.0,Arcos Vallarta,Guadalajara,Department,255.10204081632654,1.0,20k-30k
+,19000,3.0,2.0,98.0,Fraccionamiento Real de Valdepeñas,Zapopan,Department,193.87755102040816,0.6666666666666666,10k-20k
+Calle José María Vigil ,26000,1.0,1.0,98.0,Providencia,Guadalajara,Department,265.3061224489796,1.0,20k-30k
+Av. Universidad 1011,27500,1.0,1.0,98.0,Country Club,Guadalajara,Department,280.61224489795916,1.0,20k-30k
+Paseo de los valles,8500,3.0,3.0,99.0,Fraccionamiento Parques de Tesistán,Zapopan,House,85.85858585858585,1.0,0-10k
+Av. Juan Palomar y Arias 370,18800,3.0,3.0,99.0,Guadalupe 2a Sección,Zapopan,House,189.8989898989899,1.0,10k-20k
+"AV. PASEO DEL ALVA 1192, COTO 1",42000,3.0,2.0,99.0,Puerta de Hierro,Zapopan,Department,424.24242424242425,0.6666666666666666,40k-50k
+paseo de la estrella 3555,10500,3.0,2.0,99.0,Pueblo Nextipac,Zapopan,House,106.06060606060606,0.6666666666666666,10k-20k
+"AV. PASEO DEL ALVA 1192, COTO 1",16900,3.0,2.0,99.0,Fraccionamiento Valle Imperial,Zapopan,Department,170.7070707070707,0.6666666666666666,10k-20k
+Enrique Limón Diaz 404 208,8500,3.0,3.0,99.0,Fraccionamiento Parques de Tesistán,Zapopan,House,85.85858585858585,1.0,0-10k
+"AV. PASEO DEL ALVA 1192, COTO 1",16900,3.0,2.0,99.0,Fraccionamiento Valle Imperial,Zapopan,House,170.7070707070707,0.6666666666666666,10k-20k
+Fray Juan de Zumárraga 758,18800,3.0,3.0,99.0,Guadalupe 2a Sección,Zapopan,House,189.8989898989899,1.0,10k-20k
+,15000,2.0,2.0,99.0,Madeiras,Zapopan,House,151.5151515151515,1.0,10k-20k
+CHAPULTEPEC 480,22000,2.0,2.0,99.0,Americana,Guadalajara,Department,222.22222222222223,1.0,20k-30k
+Paseo del anochecer 1207,15500,3.0,3.0,99.0,Fraccionamiento Cortijo de San Agustin,Tlajomulco de Zúñiga,House,156.56565656565655,1.0,10k-20k
+,20000,3.0,2.0,100.0,Jardines Universidad,Zapopan,Department,200.0,0.6666666666666666,10k-20k
+,29000,2.0,2.0,100.0,Providencia,Guadalajara,Department,290.0,1.0,20k-30k
+Adolfo López Mateos Sur 4255,25000,2.0,2.0,100.0,Loma Bonita,Zapopan,Department,250.0,1.0,20k-30k
+Calzada de Los Laureles,22500,2.0,2.0,100.0,Ciudad Granja,Zapopan,Department,225.0,1.0,20k-30k
+Justo Sierra 1875,18000,1.0,2.0,100.0,Americana,Guadalajara,Department,180.0,2.0,10k-20k
+royal Country 4734,28000,2.0,2.0,100.0,Puerta de Hierro,Zapopan,Department,280.0,1.0,20k-30k
+arquitectos  855,19999,2.0,1.0,100.0,Providencia,Guadalajara,Department,199.99,0.5,10k-20k
+AV. MANUEL ACUÑA 3177 COL. MONRAZ,31000,3.0,2.0,100.0,Americana,Guadalajara,Department,310.0,0.6666666666666666,30k-40k
+Eva Briseñ 702,23000,2.0,2.0,100.0,Santa Fe,Zapopan,Department,230.0,1.0,20k-30k
+Calle Juan Ruiz de Alarcón 229,29000,2.0,2.0,100.0,Providencia,Guadalajara,Department,290.0,1.0,20k-30k
+"Av. de la Libertad 908, Col. Tepeyac Casino, Zapopan Jal. ",18500,3.0,1.0,100.0,Tepeyac Casino,Zapopan,Department,185.0,0.3333333333333333,10k-20k
+Av. Amaranto #174 Fracc. Amaranto Residencial ,18500,3.0,2.0,100.0,Guadalupe Sur,Zapopan,House,185.0,0.6666666666666666,10k-20k
+,27000,2.0,2.0,100.0,Fraccionamiento Puerta del Valle,Zapopan,Department,270.0,1.0,20k-30k
+,13000,3.0,2.0,100.0,Jardines de Santa Anita,Tlajomulco de Zúñiga,House,130.0,0.6666666666666666,10k-20k
+Living Ouest,22500,2.0,2.0,100.0,Ciudad Granja,Zapopan,Department,225.0,1.0,20k-30k
+C. Ottawa 1560,17214,2.0,1.0,100.0,Americana,Guadalajara,Department,172.14,0.5,10k-20k
+Av México 5000 ,27000,2.0,2.0,100.0,Juan Manuel Vallarta,Zapopan,Department,270.0,1.0,20k-30k
+Cuitlahuac 4230,14500,2.0,2.0,100.0,Lomas de San Isidro,Zapopan,Department,145.0,1.0,10k-20k
+MANUEL ACUÑA 3409,21000,2.0,2.0,100.0,Valle Real,Zapopan,Department,210.0,1.0,20k-30k
+Cuitlahuac 4230,19500,2.0,2.0,100.0,Jardines Del Sol,Zapopan,Department,195.0,1.0,10k-20k
+Av. Naciones Unidas,28000,3.0,2.0,100.0,Virreyes Residencial,Zapopan,Department,280.0,0.6666666666666666,20k-30k
+calzada de los laureles,22000,2.0,2.0,100.0,Ciudad Granja,Zapopan,Department,220.0,1.0,20k-30k
+AV. ADAMAR ,16500,2.0,2.0,100.0,Santa Ana Tepetitlán,Zapopan,House,165.0,1.0,10k-20k
+Lopez Mateos,26500,3.0,2.0,100.0,Loma Bonita,Zapopan,Department,265.0,0.6666666666666666,20k-30k
+Inglaterra 5100,23900,2.0,2.0,100.0,Jardines de La Patria,Zapopan,Department,239.0,1.0,20k-30k
+São Paulo,30000,2.0,2.0,100.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,300.0,1.0,20k-30k
+Calle La cauda 720,29000,2.0,1.0,100.0,Providencia,Guadalajara,Department,290.0,0.5,20k-30k
+"Av. de la Libertad 908, Col. Tepeyac Casino, Zapopan Jal. ",18500,3.0,3.0,100.0,Tepeyac Casino,Zapopan,Department,185.0,1.0,10k-20k
+Av. Central Guillermo Gonzalez Camarena  500,25000,2.0,2.0,100.0,Valle Real,Zapopan,Department,250.0,1.0,20k-30k
+Vereda de la Alondra 8,19999,2.0,1.0,100.0,Providencia,Guadalajara,Department,199.99,0.5,10k-20k
+Av. Acueducto #135,29000,2.0,2.0,100.0,Providencia,Guadalajara,Department,290.0,1.0,20k-30k
+,21000,3.0,3.0,100.0,Valle Real,Zapopan,Department,210.0,1.0,20k-30k
+Calz. Federalismo Nte,17214,2.0,2.0,100.0,Americana,Guadalajara,Department,172.14,1.0,10k-20k
+Av Naciones Unidas 5546,27000,2.0,2.0,100.0,Juan Manuel Vallarta,Zapopan,Department,270.0,1.0,20k-30k
+ANILLO PERIFERICO NORTE MANUEL GOMEZ MORIN 1066,28000,2.0,1.0,100.0,Puerta de Hierro,Zapopan,Department,280.0,0.5,20k-30k
+Reforma 2726,29500,1.0,1.0,101.0,Country Club,Guadalajara,Department,292.0792079207921,1.0,20k-30k
+Calle Mar Ross No 1478 colonia country club   ,30000,1.0,1.0,101.0,Country Club,Guadalajara,Department,297.029702970297,1.0,20k-30k
+,7000,1.0,1.0,101.0,Alameda,Tlajomulco de Zúñiga,House,69.3069306930693,1.0,0-10k
+Justo Sierra 2040,30000,1.0,1.0,101.0,Country Club,Guadalajara,Department,297.029702970297,1.0,20k-30k
+Av. Paseo la toscana  torre emile ,16000,2.0,2.0,101.0,Americana,Guadalajara,Department,158.41584158415841,1.0,10k-20k
+circuito de la mandarina 9,7000,1.0,3.0,101.0,Alameda,Tlajomulco de Zúñiga,House,69.3069306930693,3.0,0-10k
+Av Acueducto 6075,24900,2.0,2.0,101.0,Lomas Altas,Zapopan,Department,246.53465346534654,1.0,20k-30k
+ ADAMAR RESIDENCIAL,13000,3.0,1.0,102.0,El Ojo de Agua,Tlajomulco de Zúñiga,House,127.45098039215686,0.3333333333333333,10k-20k
+Valle Imperial ,11500,3.0,2.0,102.0,Jardines de Santa Anita,Tlajomulco de Zúñiga,House,112.74509803921569,0.6666666666666666,10k-20k
+Av. Aviación 4055,11500,3.0,2.0,102.0,Bosques de Santa Anita,Tlajomulco de Zúñiga,House,112.74509803921569,0.6666666666666666,10k-20k
+Savia Central,18000,3.0,2.0,102.0,Fraccionamiento Valle de San Isidro,Zapopan,House,176.47058823529412,0.6666666666666666,10k-20k
+Vista sur Coto la Reserva,16500,3.0,2.0,102.0,Nuevo México,Zapopan,House,161.76470588235293,0.6666666666666666,10k-20k
+Av. Sendero De Los Robles,11500,3.0,2.0,102.0,Jardines de Santa Anita,Tlajomulco de Zúñiga,House,112.74509803921569,0.6666666666666666,10k-20k
+izvora 269,13000,3.0,2.0,102.0,Fraccionamiento El Oro,Tlajomulco de Zúñiga,House,127.45098039215686,0.6666666666666666,10k-20k
+,13000,3.0,5.0,102.0,El Ojo de Agua,Tlajomulco de Zúñiga,House,127.45098039215686,1.6666666666666667,10k-20k
+,18000,3.0,2.0,102.0,Fraccionamiento Valle de San Isidro,Zapopan,House,176.47058823529412,0.6666666666666666,10k-20k
+Salvador Quevedo y Zubieta,14000,3.0,2.0,102.0,Las Bóvedas,Zapopan,House,137.2549019607843,0.6666666666666666,10k-20k
+Av. Central Guillermo Gonzalez Camarena #500,24900,3.0,2.0,103.0,Arcos de Guadalupe,Zapopan,Department,241.74757281553397,0.6666666666666666,20k-30k
+Av. Hidalgo 157,24900,2.0,2.0,103.0,Arcos de Guadalupe,Zapopan,Department,241.74757281553397,1.0,20k-30k
+Avenida Paseo de la Toscana,28500,2.0,2.0,103.0,Valle Real,Zapopan,Department,276.6990291262136,1.0,20k-30k
+Circuito de las Flores 2453,21000,3.0,2.0,103.0,Ciudad Granja,Zapopan,House,203.88349514563106,0.6666666666666666,20k-30k
+PLAN DE SAN LUIS 2058,22000,2.0,2.0,103.0,La Estancia,Zapopan,Department,213.59223300970874,1.0,20k-30k
+RAFAEL SANZIO 632,24500,2.0,1.0,103.0,Arcos de Guadalupe,Zapopan,Department,237.8640776699029,0.5,20k-30k
+Rafael Sanzio 634,26900,2.0,1.0,103.0,Arcos de Guadalupe,Zapopan,Department,261.1650485436893,0.5,20k-30k
+Av. Cristobal Colon 4853,18400,1.0,1.0,104.0,Santa Fe,Zapopan,Department,176.92307692307693,1.0,10k-20k
+,26000,2.0,1.0,104.0,Americana,Guadalajara,Department,250.0,0.5,20k-30k
+Triventi,12000,3.0,3.0,104.0,Element,Tlajomulco de Zúñiga,House,115.38461538461539,1.0,10k-20k
+Alamillo 934,9000,2.0,2.0,105.0,La Venta del Astillero,Zapopan,House,85.71428571428571,1.0,0-10k
+Severo diaz 136,22000,2.0,2.0,105.0,Juan Manuel Vallarta,Zapopan,Department,209.52380952380952,1.0,20k-30k
+,7500,2.0,2.0,105.0,Circunvalación Oblatos,Guadalajara,House,71.42857142857143,1.0,0-10k
+DR. ANGEL LEAÑO 1305,18000,3.0,3.0,105.0,Los Robles,Zapopan,House,171.42857142857142,1.0,10k-20k
+,21000,2.0,2.0,105.0,Fraccionamiento Ladrón de Guevara,Guadalajara,Department,200.0,1.0,20k-30k
+PUERTO CALLAO 2457,12000,3.0,3.0,105.0,Bosques de Santa Anita,Tlajomulco de Zúñiga,House,114.28571428571429,1.0,10k-20k
+Av. Quintas del Bosque 220,16500,3.0,2.0,105.0,Bosques de San Isidro,Zapopan,House,157.14285714285714,0.6666666666666666,10k-20k
+providencia ,26300,2.0,4.0,105.0,Lomas Altas,Zapopan,Department,250.47619047619048,2.0,20k-30k
+AVENIDA SENDAS 1501,16000,2.0,2.0,105.0,Sendas Residencial,Zapopan,Department,152.38095238095238,1.0,10k-20k
+gabriel castaños 2769,26500,2.0,2.0,105.0,Vallarta Universidad,Zapopan,Department,252.38095238095238,1.0,20k-30k
+,9000,2.0,5.0,105.0,La Venta del Astillero,Zapopan,House,85.71428571428571,2.5,0-10k
+Mar mediterráneo 1103,26000,2.0,2.0,105.0,Country Club,Guadalajara,Department,247.61904761904762,1.0,20k-30k
+Blvrd. Bosques de Santa Anita,12000,3.0,3.0,105.0,Bosques de Santa Anita,Tlajomulco de Zúñiga,House,114.28571428571429,1.0,10k-20k
+,26500,3.0,5.0,105.0,Fraccionamiento Solares,Zapopan,House,252.38095238095238,1.6666666666666667,20k-30k
+Av Reno Poniente 3725,12000,3.0,5.0,105.0,Bosques de Santa Anita,Tlajomulco de Zúñiga,House,114.28571428571429,1.6666666666666667,10k-20k
+PASEO SOLARES 934 215,13500,3.0,2.0,105.0,El Fortín,Zapopan,House,128.57142857142858,0.6666666666666666,10k-20k
+,16500,3.0,2.0,105.0,Bosques de San Isidro,Zapopan,House,157.14285714285714,0.6666666666666666,10k-20k
+Calle huicholes 307,18000,3.0,3.0,105.0,Los Robles,Zapopan,House,171.42857142857142,1.0,10k-20k
+puerta las lomas lagos 87,20000,3.0,3.0,105.0,Altavista Residencial,Zapopan,House,190.47619047619048,1.0,10k-20k
+Av Naciones Unidas 5546,26500,2.0,2.0,105.0,Vallarta Universidad,Zapopan,Department,252.38095238095238,1.0,20k-30k
+,16000,3.0,2.0,105.0,San Agustín,Tlajomulco de Zúñiga,House,152.38095238095238,0.6666666666666666,10k-20k
+LA ROMANA 175,14000,3.0,2.0,105.0,Fraccionamiento Residencial San Isidro,Zapopan,House,133.33333333333334,0.6666666666666666,10k-20k
+Carretera a Nogales 3201,16000,3.0,2.0,105.0,Fraccionamiento Cortijo de San Agustin,Tlajomulco de Zúñiga,House,152.38095238095238,0.6666666666666666,10k-20k
+Av. Dr. Ángel Leaño 1305,18000,4.0,3.0,105.0,Fraccionamiento La Cima,Zapopan,House,171.42857142857142,0.75,10k-20k
+Marina Vallarta número 370 ,22000,2.0,3.0,106.0,Mezquitan,Guadalajara,House,207.54716981132074,1.5,20k-30k
+Talavera Poniente #3605,16000,2.0,2.0,106.0,Fraccionamiento Jardín Real,Zapopan,Department,150.9433962264151,1.0,10k-20k
+Morelos  1071,22000,2.0,3.0,106.0,Mezquitan,Guadalajara,House,207.54716981132074,1.5,20k-30k
+AV. GUADALAJARA S/N,27500,2.0,2.0,106.0,Jardines del Valle,Zapopan,Department,259.4339622641509,1.0,20k-30k
+Avenida Montevideo 3550,28000,2.0,2.0,106.0,Americana,Guadalajara,Department,264.1509433962264,1.0,20k-30k
+Prolongación Jesus ,27500,2.0,2.0,106.0,Jardines del Valle,Zapopan,Department,259.4339622641509,1.0,20k-30k
+Av Vallarta 2468,28000,2.0,2.0,106.0,Arcos Vallarta,Guadalajara,Department,264.1509433962264,1.0,20k-30k
+Isla antigua #3485,14000,3.0,2.0,107.0,San Agustín,Tlajomulco de Zúñiga,House,130.84112149532712,0.6666666666666666,10k-20k
+Av. Acueducto 6075,45000,3.0,2.0,107.0,Puerta de Hierro,Zapopan,Department,420.5607476635514,0.6666666666666666,40k-50k
+AV. NOVELISTAS 5646,10500,3.0,2.0,107.0,Adamar,Tlajomulco de Zúñiga,House,98.13084112149532,0.6666666666666666,10k-20k
+Paseo de las Montañas 351,14000,3.0,2.0,107.0,San Agustín,Tlajomulco de Zúñiga,House,130.84112149532712,0.6666666666666666,10k-20k
+garibaldi,25000,3.0,3.0,107.0,Conjunto habitacional Patria,Zapopan,House,233.6448598130841,1.0,20k-30k
+Valerio Trujano 240,23500,2.0,2.0,107.0,Fraccionamiento Puerta del Valle,Zapopan,Department,219.62616822429908,1.0,20k-30k
+,23500,1.0,2.0,107.0,Fraccionamiento Puerta del Valle,Zapopan,Department,219.62616822429908,2.0,20k-30k
+cauda 999,10500,3.0,2.0,107.0,Adamar,Tlajomulco de Zúñiga,House,98.13084112149532,0.6666666666666666,10k-20k
+,17000,3.0,2.0,107.0,Fraccionamiento Jardines de Guadalupe,Zapopan,House,158.8785046728972,0.6666666666666666,10k-20k
+Bosques de la Cascada 36,17000,3.0,2.0,107.0,Fraccionamiento Jardines de Guadalupe,Zapopan,House,158.8785046728972,0.6666666666666666,10k-20k
+VIA LACTEA 4123,15200,3.0,2.0,108.0,Jardines de Santa Anita,Tlajomulco de Zúñiga,House,140.74074074074073,0.6666666666666666,10k-20k
+calle la cauda 720,24000,2.0,2.0,108.0,Jardines del Bosque,Guadalajara,Department,222.22222222222223,1.0,20k-30k
+Pedro Moreno 1140,23000,2.0,2.0,108.0,Ayuntamiento,Guadalajara,Department,212.96296296296296,1.0,20k-30k
+Prolongación Jesus  3870,26500,3.0,2.0,108.0,Fraccionamiento Rinconada Del Parque,Zapopan,Department,245.37037037037038,0.6666666666666666,20k-30k
+"Av. Acueducto 6075, Puerta de Hierro",23000,2.0,2.0,108.0,Ayuntamiento,Guadalajara,Department,212.96296296296296,1.0,20k-30k
+country ,12000,3.0,2.0,108.0,Santa Ana Tepetitlán,Zapopan,House,111.11111111111111,0.6666666666666666,10k-20k
+Av Universidad 1011,14500,2.0,1.0,108.0,El Bajío,Zapopan,Department,134.25925925925927,0.5,10k-20k
+"Coto Livorno, Av. Paseo del Bosque 3428, Natura Bosque, Residencial ",12000,3.0,2.0,108.0,Santa Ana Tepetitlán,Zapopan,House,111.11111111111111,0.6666666666666666,10k-20k
+PASEO DEL ORIGEN 500,13200,3.0,2.0,108.0,Bosques de Santa Anita,Tlajomulco de Zúñiga,House,122.22222222222223,0.6666666666666666,10k-20k
+Naciones Unidas 7879,26500,3.0,2.0,108.0,Fraccionamiento Rinconada Del Parque,Zapopan,Department,245.37037037037038,0.6666666666666666,20k-30k
+manuel m. dieguez 900,23000,2.0,2.0,108.0,Ayuntamiento,Guadalajara,Department,212.96296296296296,1.0,20k-30k
+Boulevard Senderos de Monte Verde ,14900,2.0,2.0,109.0,Altavista Residencial,Zapopan,House,136.69724770642202,1.0,10k-20k
+AV ACUEDUCTO 2380,38000,2.0,2.0,109.0,Jardines Universidad,Zapopan,Department,348.6238532110092,1.0,30k-40k
+Av. Niños Héroes 2571,23000,2.0,2.0,109.0,Fraccionamiento Jardines Del Bosque,Guadalajara,Department,211.0091743119266,1.0,20k-30k
+,6500,3.0,1.0,109.0,Fraccionamiento Albaterra,Zapopan,House,59.63302752293578,0.3333333333333333,0-10k
+Av. Naciones Unidas 5546,25000,2.0,1.0,110.0,Jacarandas,Zapopan,Department,227.27272727272728,0.5,20k-30k
+SAN VICENTE 1121,23500,2.0,2.0,110.0,Fraccionamiento Puerta del Valle,Zapopan,Department,213.63636363636363,1.0,20k-30k
+CALLE JUSTO SIERRA 2917,15000,4.0,6.0,110.0,Altavista Residencial,Zapopan,House,136.36363636363637,1.5,10k-20k
+Av paseo altanza 2132,21000,3.0,2.0,110.0,San Juan de Ocotan,Zapopan,House,190.9090909090909,0.6666666666666666,20k-30k
+josefa ortiz de cominguez,13500,3.0,2.0,110.0,Guadalajara Centro,Guadalajara,Department,122.72727272727273,0.6666666666666666,10k-20k
+calle 8 numero 2256,20000,2.0,2.0,110.0,La Rioja,Tlajomulco de Zúñiga,Department,181.8181818181818,1.0,10k-20k
+Av Naciones Unidas 7879 ,36000,2.0,2.0,110.0,Jardines Universidad,Zapopan,Department,327.27272727272725,1.0,30k-40k
+"ANILLO PERIFERICO NORTE MANUEL GOMEZ MORIN 800, PUERTA DEL VALLE ZAPOPAN JAL.",38000,2.0,2.0,110.0,Jardines Universidad,Zapopan,Department,345.45454545454544,1.0,30k-40k
+Paseo de la Estrella 677,22000,2.0,2.0,110.0,Fraccionamiento Solares,Zapopan,Department,200.0,1.0,20k-30k
+Avenida Montevideo,27000,2.0,2.0,110.0,Americana,Guadalajara,Department,245.45454545454547,1.0,20k-30k
+Francisco Martin del Campo 511,27000,2.0,3.0,110.0,Fraccionamiento Chapultepec Country,Guadalajara,Department,245.45454545454547,1.5,20k-30k
+Av. Paseo Cima Real 461,36000,2.0,3.0,110.0,Jardines Universidad,Zapopan,Department,327.27272727272725,1.5,30k-40k
+Av. Paseo Valle Real 1222,36000,2.0,2.0,110.0,Jardines Universidad,Zapopan,Department,327.27272727272725,1.0,30k-40k
+Av. Juan palomar y arias,30500,2.0,2.0,110.0,Providencia,Guadalajara,Department,277.27272727272725,1.0,30k-40k
+Av Adolfo López Mateos Nte 1072A,20000,2.0,1.0,110.0,Valle Real,Zapopan,Department,181.8181818181818,0.5,10k-20k
+C ottawa,30500,2.0,2.0,110.0,Providencia,Guadalajara,Department,277.27272727272725,1.0,30k-40k
+PERLA 3600,8500,3.0,4.0,110.0,Fraccionamiento Campo Real,Zapopan,House,77.27272727272727,1.3333333333333333,0-10k
+,22000,3.0,2.0,110.0,Fraccionamiento Jardines Alcalde,Guadalajara,Department,200.0,0.6666666666666666,20k-30k
+Sendero de los Encinos ,24000,2.0,2.0,110.0,Jardines del Bosque,Guadalajara,Department,218.1818181818182,1.0,20k-30k
+Avenida naciones Unidas ,22000,3.0,2.0,110.0,Fraccionamiento Jardines Alcalde,Guadalajara,Department,200.0,0.6666666666666666,20k-30k
+C. Plan de Guadalupe,30500,2.0,2.0,110.0,Providencia,Guadalajara,Department,277.27272727272725,1.0,30k-40k
+Avenida Juan Palomar y Arias 765,38000,2.0,2.0,110.0,Jardines Universidad,Zapopan,Department,345.45454545454544,1.0,30k-40k
+Av México  5000,22500,1.0,2.0,110.0,Juan Manuel Vallarta,Zapopan,Department,204.54545454545453,2.0,20k-30k
+Mar Egeo 1447,18000,2.0,1.0,110.0,Country Club,Guadalajara,House,163.63636363636363,0.5,10k-20k
+Atlitlalaquian 1804,32000,2.0,2.0,110.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,290.90909090909093,1.0,30k-40k
+,30950,2.0,2.0,110.0,Country Club,Guadalajara,Department,281.3636363636364,1.0,30k-40k
+Calz. Circunvalación Pte 781,20000,2.0,2.0,110.0,Valle Real,Zapopan,Department,181.8181818181818,1.0,10k-20k
+Av. México 5000,19900,1.0,1.0,111.0,Juan Manuel Vallarta,Zapopan,Department,179.27927927927928,1.0,10k-20k
+Avenida Valle de Atemajac  2900 Paseo de la Reina 79,12200,3.0,2.0,111.0,El TriAngulo,Zapopan,House,109.90990990990991,0.6666666666666666,10k-20k
+,19900,1.0,1.0,111.0,Juan Manuel Vallarta,Zapopan,Department,179.27927927927928,1.0,10k-20k
+Av Valle de San Isidro 184,15500,3.0,3.0,111.0,Villas de Zapopan,Zapopan,House,139.63963963963963,1.0,10k-20k
+"Av. Acueducto, Colinas de San Javier",39000,3.0,3.0,112.0,Colinas de San Javier,Zapopan,Department,348.2142857142857,1.0,30k-40k
+SIERRA MOJADA 2193,16142,3.0,2.0,112.0,Altavista Residencial,Zapopan,House,144.125,0.6666666666666666,10k-20k
+manuel m. dieguez 900,29000,2.0,2.0,112.0,Jardines del Bosque Norte,Guadalajara,Department,258.92857142857144,1.0,20k-30k
+CALLE Valparaíso 2367 ,27500,2.0,2.0,112.0,Jardines del Bosque,Guadalajara,Department,245.53571428571428,1.0,20k-30k
+TOMAS BALCAZAR 5601A,18000,3.0,3.0,112.0,Paseos del Sol,Zapopan,House,160.71428571428572,1.0,10k-20k
+,29000,2.0,2.0,112.0,Jardines del Bosque Norte,Guadalajara,Department,258.92857142857144,1.0,20k-30k
+Departamento EN Renta Colomos Providencia 206 Guadalajara Jalisco,35900,2.0,2.0,113.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,317.6991150442478,1.0,30k-40k
+C. Ottawa 1560,42000,2.0,2.0,113.0,Providencia,Guadalajara,Department,371.6814159292035,1.0,40k-50k
+Diagonal Manuel Cambre 2235,27000,2.0,2.0,113.0,Puerta de Hierro,Zapopan,Department,238.93805309734512,1.0,20k-30k
+,30000,1.0,2.0,113.0,Puerta de Hierro,Zapopan,Department,265.4867256637168,2.0,20k-30k
+GONZAGA #4386,32000,2.0,2.0,113.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,283.1858407079646,1.0,30k-40k
+,7500,3.0,2.0,113.0,Belcanto,Tlajomulco de Zúñiga,House,66.3716814159292,0.6666666666666666,0-10k
+Cubilete 1816,30000,1.0,1.0,113.0,Puerta de Hierro,Zapopan,Department,265.4867256637168,1.0,20k-30k
+,42000,3.0,1.0,113.0,Providencia,Guadalajara,Department,371.6814159292035,0.3333333333333333,40k-50k
+Libra 481 Lomas Altas ,30000,1.0,1.0,113.0,Puerta de Hierro,Zapopan,Department,265.4867256637168,1.0,20k-30k
+,29500,2.0,1.0,114.0,Valle Real,Zapopan,Department,258.7719298245614,0.5,20k-30k
+,23000,3.0,2.0,114.0,Prados de Providencia,Guadalajara,Department,201.75438596491227,0.6666666666666666,20k-30k
+5 de Mayo 455,27500,3.0,2.0,114.0,Jardines de La Patria,Zapopan,Department,241.2280701754386,0.6666666666666666,20k-30k
+Calz. Lázaro Cárdenas 3490,29000,2.0,2.0,114.0,Chapalita,Guadalajara,Department,254.3859649122807,1.0,20k-30k
+,35000,3.0,5.0,114.0,Fraccionamiento Bugambilias,Zapopan,House,307.0175438596491,1.6666666666666667,30k-40k
+Calle Miguel de Cervantes Saavedra 382A,26000,2.0,2.0,114.0,Fraccionamiento Jardines del Country,Guadalajara,Department,228.0701754385965,1.0,20k-30k
+AV PATRIA 1891,45000,2.0,2.0,114.0,Puerta de Hierro,Zapopan,Department,394.7368421052632,1.0,40k-50k
+,23000,3.0,2.0,114.0,Prados de Providencia,Guadalajara,Department,201.75438596491227,0.6666666666666666,20k-30k
+,25000,3.0,2.0,114.0,San Agustín,Tlajomulco de Zúñiga,House,219.2982456140351,0.6666666666666666,20k-30k
+Pléyades  3840 9,15500,2.0,2.0,114.0,La Calma,Zapopan,Department,135.96491228070175,1.0,10k-20k
+Calzada Lázaro Cárdenas 3333,30000,2.0,1.0,115.0,Puerta de Hierro,Zapopan,Department,260.8695652173913,0.5,20k-30k
+,14000,3.0,3.0,115.0,Jardines El Sauz,Guadalajara,House,121.73913043478261,1.0,10k-20k
+Alarcón 229,35000,2.0,2.0,115.0,Fraccionamiento Vallarta San Jorge,Guadalajara,Department,304.3478260869565,1.0,30k-40k
+Av Paseo de el Anochecer ,11000,3.0,3.0,115.0,Nuevo México,Zapopan,House,95.65217391304348,1.0,10k-20k
+,20000,4.0,4.0,115.0,Fraccionamiento Valle Imperial,Zapopan,House,173.91304347826087,1.0,10k-20k
+"Castilla de la Mancha #70, condominio Escorial, Real de Valdepeñas, Zapopan",17000,3.0,2.0,115.0,Fraccionamiento Real de Valdepeñas,Zapopan,House,147.82608695652175,0.6666666666666666,10k-20k
+,29000,2.0,2.0,115.0,Providencia,Guadalajara,Department,252.17391304347825,1.0,20k-30k
+Enrique Limón Diaz 404 208,18500,4.0,3.0,115.0,Fraccionamiento Valle Imperial,Zapopan,House,160.8695652173913,0.75,10k-20k
+COTO YUCATAN 19,12500,3.0,2.0,115.0,Fraccionamiento Bonanza Residencial,Tlajomulco de Zúñiga,House,108.69565217391305,0.6666666666666666,10k-20k
+Avenida Patria 1891,31000,2.0,2.0,115.0,Puerta de Hierro,Zapopan,Department,269.5652173913044,1.0,30k-40k
+,29000,2.0,1.0,115.0,Providencia,Guadalajara,Department,252.17391304347825,0.5,20k-30k
+,17000,3.0,2.0,115.0,Fraccionamiento Valle Imperial,Zapopan,House,147.82608695652175,0.6666666666666666,10k-20k
+Avenida Obelisco 10,30000,1.0,1.0,115.0,Puerta de Hierro,Zapopan,Department,260.8695652173913,1.0,20k-30k
+,15000,3.0,2.0,115.0,Fraccionamiento Valle Imperial,Zapopan,House,130.43478260869566,0.6666666666666666,10k-20k
+San Javier,16500,3.0,2.0,115.0,San Agustín,Tlajomulco de Zúñiga,House,143.47826086956522,0.6666666666666666,10k-20k
+ALMERIA  309,18500,3.0,3.0,115.0,Fraccionamiento Valle Imperial,Zapopan,House,160.8695652173913,1.0,10k-20k
+PASEO ALTANZA 2132,12500,3.0,2.0,115.0,Fraccionamiento Bonanza Residencial,Tlajomulco de Zúñiga,House,108.69565217391305,0.6666666666666666,10k-20k
+Iztaccihuatl 2119,15000,3.0,2.0,115.0,Adamar,Tlajomulco de Zúñiga,House,130.43478260869566,0.6666666666666666,10k-20k
+Juan Ruiz de Alarcón 229,31000,2.0,2.0,115.0,Puerta de Hierro,Zapopan,Department,269.5652173913044,1.0,30k-40k
+Rafael Delgado 662,30000,1.0,1.0,115.0,Puerta de Hierro,Zapopan,Department,260.8695652173913,1.0,20k-30k
+anillo Periferico pte 1066,45000,3.0,2.0,115.0,Puerta de Hierro,Zapopan,Department,391.30434782608694,0.6666666666666666,40k-50k
+HYATT,35000,3.0,2.0,115.0,Country Club,Guadalajara,Department,304.3478260869565,0.6666666666666666,30k-40k
+Avenida Acueducto 2380,31000,2.0,2.0,116.0,Altamira,Zapopan,Department,267.2413793103448,1.0,30k-40k
+AV INGLATERRA 5100,21100,2.0,1.0,116.0,Jardines de La Patria,Zapopan,Department,181.89655172413794,0.5,20k-30k
+"Av Paseo de la Arboleda 731 Jardines del Bosque,",15000,2.0,2.0,116.0,San Carlos,Guadalajara,Department,129.31034482758622,1.0,10k-20k
+MONTEVIDEO 3044,22000,3.0,2.0,116.0,Providencia,Guadalajara,Department,189.6551724137931,0.6666666666666666,20k-30k
+JOSE MARIA MORELOS 2080 401,31000,2.0,2.0,116.0,Altamira,Zapopan,Department,267.2413793103448,1.0,30k-40k
+Francisco I. Madero 6259,31000,2.0,2.0,116.0,Altamira,Zapopan,Department,267.2413793103448,1.0,30k-40k
+Hector Berliotz 5026,21100,2.0,2.0,116.0,Jardines de La Patria,Zapopan,Department,181.89655172413794,1.0,20k-30k
+av montevideo 3078,25500,2.0,2.0,116.0,Fraccionamiento Lomas Del Country,Guadalajara,Department,219.82758620689654,1.0,20k-30k
+,25000,2.0,3.0,117.0,Fraccionamiento Chapultepec Country,Guadalajara,Department,213.67521367521368,1.5,20k-30k
+Triventi,13900,3.0,3.0,117.0,Altavista Residencial,Zapopan,House,118.80341880341881,1.0,10k-20k
+Av. Ignacio L Vallarta 300,26000,2.0,2.0,117.0,Vallarta Poniente,Guadalajara,Department,222.22222222222223,1.0,20k-30k
+Pico de Orizaba 124,17500,2.0,2.0,117.0,Fraccionamiento Valle Imperial,Zapopan,House,149.57264957264957,1.0,10k-20k
+Manuel cambre 2235,24000,2.0,2.0,117.0,Fraccionamiento Ladrón de Guevara,Guadalajara,Department,205.12820512820514,1.0,20k-30k
+MANUEL M DIEGUEZ 900,29000,2.0,2.0,117.0,Lomas Altas,Zapopan,Department,247.86324786324786,1.0,20k-30k
+Av. Tepeya 6161 Cedro 124,7900,2.0,2.0,118.0,Belcanto,Tlajomulco de Zúñiga,House,66.94915254237289,1.0,0-10k
+Av. Acueducto 5500,27820,1.0,4.0,118.0,Prados de Providencia,Guadalajara,Department,235.76271186440678,4.0,20k-30k
+Vista Lomas,48000,3.0,2.0,118.0,Lomas Altas,Zapopan,Department,406.77966101694915,0.6666666666666666,40k-50k
+José María Vigil,27820,1.0,1.0,118.0,Prados de Providencia,Guadalajara,Department,235.76271186440678,1.0,20k-30k
+Av. Juan palomar y arias,25000,3.0,3.0,119.0,Arcos de Guadalupe,Zapopan,Department,210.08403361344537,1.0,20k-30k
+,17000,3.0,2.0,119.0,Fraccionamiento Nueva Galicia Residencial,Tlajomulco de Zúñiga,House,142.85714285714286,0.6666666666666666,10k-20k
+Avenida Americas 872,25000,2.0,2.0,119.0,Chapalita,Guadalajara,Department,210.08403361344537,1.0,20k-30k
+"Av Montevideo 3550, Lomas del Valle, 44660 Zapopan, Jal.",38000,3.0,3.0,119.0,Lomas del Valle,Zapopan,Department,319.327731092437,1.0,30k-40k
+Morelos  1071,21000,3.0,2.0,119.0,Fraccionamiento Nueva Galicia Residencial,Tlajomulco de Zúñiga,House,176.47058823529412,0.6666666666666666,20k-30k
+CALLE CAMINO A LA MISIONES  2268 5,25000,4.0,7.0,119.0,Ciudad Granja,Zapopan,House,210.08403361344537,1.75,20k-30k
+,21000,3.0,3.0,119.0,Fraccionamiento Nueva Galicia Residencial,Tlajomulco de Zúñiga,House,176.47058823529412,1.0,20k-30k
+AV JESUS 3870,18500,2.0,3.0,119.0,Jardines del Valle,Zapopan,Department,155.46218487394958,1.5,10k-20k
+Coto Cadiz 0,21000,3.0,2.0,119.0,Fraccionamiento Nueva Galicia Residencial,Tlajomulco de Zúñiga,House,176.47058823529412,0.6666666666666666,20k-30k
+,12000,4.0,3.0,119.0,Jardines Del Sur,Guadalajara,House,100.84033613445378,0.75,10k-20k
+Zapopan,25000,3.0,3.0,119.0,Arcos de Guadalupe,Zapopan,Department,210.08403361344537,1.0,20k-30k
+,5800,3.0,2.0,120.0,Hacienda Del Real,Tonalá,House,48.333333333333336,0.6666666666666666,0-10k
+Quintana roo 406,24000,2.0,2.0,120.0,Ladrón de Guevara,Guadalajara,Department,200.0,1.0,20k-30k
+Privada Atotonilco 627,17300,3.0,2.0,120.0,Country Club,Guadalajara,Department,144.16666666666666,0.6666666666666666,10k-20k
+Privada Atotonilco 627,18500,3.0,2.0,120.0,Nuevo México,Zapopan,Department,154.16666666666666,0.6666666666666666,10k-20k
+Jardines de Guadalupe,15000,2.0,3.0,120.0,Vallarta Universidad,Zapopan,Department,125.0,1.5,10k-20k
+Av. México 2582,38000,2.0,2.0,120.0,Fraccionamiento Ladrón de Guevara,Guadalajara,Department,316.6666666666667,1.0,30k-40k
+AVENIDA DEL BAJÍO 1700,60000,2.0,5.0,120.0,Bosques de La Victoria,Guadalajara,Department,500.0,2.5,50k-70k
+Av. Rafael Sanzio 632,28500,2.0,2.0,120.0,Fraccionamiento Camino Real,Zapopan,Department,237.5,1.0,20k-30k
+Avenida Patria 814 703,18000,2.0,2.0,120.0,Lomas Altas,Zapopan,Department,150.0,1.0,10k-20k
+Morelos 2080,34500,3.0,2.0,120.0,Valle Real,Zapopan,Department,287.5,0.6666666666666666,30k-40k
+Av. Acueducto 2380,20900,1.0,1.0,120.0,Valle Real,Zapopan,Department,174.16666666666666,1.0,20k-30k
+PUNTO SUR ,14500,3.0,2.0,120.0,Girasoles Elite,Zapopan,House,120.83333333333333,0.6666666666666666,10k-20k
+JUAN PALOMAR Y ARIAS 1180,12300,3.0,2.0,120.0,Zapopan,Other,House,102.5,0.6666666666666666,10k-20k
+,8900,3.0,2.0,120.0,San Agustín,Tlajomulco de Zúñiga,House,74.16666666666667,0.6666666666666666,0-10k
+,13500,3.0,2.0,120.0,Hogares de Nuevo México,Zapopan,House,112.5,0.6666666666666666,10k-20k
+Colomos Providencia,34000,2.0,2.0,120.0,Valle Real,Zapopan,Department,283.3333333333333,1.0,30k-40k
+,14000,3.0,2.0,120.0,Bosques de Santa Anita,Tlajomulco de Zúñiga,House,116.66666666666667,0.6666666666666666,10k-20k
+,3700,4.0,3.0,120.0,Nuevo México,Zapopan,House,30.833333333333332,0.75,0-10k
+tiziano,22100,3.0,2.0,120.0,Arcos de Guadalupe,Zapopan,House,184.16666666666666,0.6666666666666666,20k-30k
+Tenochtitlán 4504,17000,3.0,2.0,120.0,Fraccionamiento Nueva Galicia Residencial,Tlajomulco de Zúñiga,House,141.66666666666666,0.6666666666666666,10k-20k
+Av. Naciones Unidas 7879,24500,2.0,2.0,120.0,Fraccionamiento Jardines del Bosque Centro,Guadalajara,Department,204.16666666666666,1.0,20k-30k
+SENDERO DE LAS LADERAS 111,21000,3.0,2.0,120.0,Observatorio,Guadalajara,House,175.0,0.6666666666666666,20k-30k
+Avenida Periférico Poniente Manuel Gómez Morin 800,33000,3.0,3.0,120.0,Fraccionamiento Puerta del Valle,Zapopan,Department,275.0,1.0,30k-40k
+San Juan de la Cruz,24000,2.0,2.0,120.0,Ladrón de Guevara,Guadalajara,Department,200.0,1.0,20k-30k
+imperio bizantino ,13500,3.0,2.0,120.0,Fraccionamiento Senderos de Monte Verde,Tlajomulco de Zúñiga,House,112.5,0.6666666666666666,10k-20k
+,26000,2.0,1.0,120.0,Fraccionamiento Puerta del Valle,Zapopan,Department,216.66666666666666,0.5,20k-30k
+De los Reyes 1425,13500,3.0,2.0,120.0,San Agustín,Tlajomulco de Zúñiga,House,112.5,0.6666666666666666,10k-20k
+Av. Paseo Lomas Altas ,40000,3.0,2.0,120.0,Lomas Altas,Zapopan,Department,333.3333333333333,0.6666666666666666,30k-40k
+SAN CARLOS 3138 ,14500,3.0,2.0,120.0,San Isidro,Zapopan,House,120.83333333333333,0.6666666666666666,10k-20k
+Coto 5 14 A,21000,3.0,2.0,120.0,Girasoles Acueducto,Zapopan,House,175.0,0.6666666666666666,20k-30k
+BOULEVARD DEL RODEO 222,18000,2.0,2.0,120.0,Fraccionamiento Jardines de Guadalupe,Zapopan,Department,150.0,1.0,10k-20k
+Av. Punto Sur,13500,3.0,2.0,120.0,Alta California Residencial,Tlajomulco de Zúñiga,House,112.5,0.6666666666666666,10k-20k
+,13900,3.0,3.0,120.0,Santa Margarita ,Zapopan,House,115.83333333333333,1.0,10k-20k
+Tenochtitlán 4504,15000,4.0,2.0,120.0,Fraccionamiento Jardines de La Cruz,Guadalajara,House,125.0,0.5,10k-20k
+Calle Alameda,14500,3.0,2.0,120.0,Girasoles Elite,Zapopan,House,120.83333333333333,0.6666666666666666,10k-20k
+,14500,3.0,2.0,120.0,San Isidro,Zapopan,House,120.83333333333333,0.6666666666666666,10k-20k
+Casa en Renta en Bosques Vallarta,15500,3.0,2.0,120.0,El Fortín,Zapopan,House,129.16666666666666,0.6666666666666666,10k-20k
+"Juan Palomar y Arias 765, Prados Providencia, Prados de Providencia, Guadalajara",19000,1.0,2.0,120.0,Country Club,Guadalajara,Department,158.33333333333334,2.0,10k-20k
+Eutimio pinzon 677,27000,2.0,2.0,120.0,Providencia,Guadalajara,Department,225.0,1.0,20k-30k
+,8900,3.0,4.0,120.0,San Agustín,Tlajomulco de Zúñiga,House,74.16666666666667,1.3333333333333333,0-10k
+Av General Ramon corona 2243,24000,2.0,2.0,120.0,Ladrón de Guevara,Guadalajara,Department,200.0,1.0,20k-30k
+Avenida Labna 1437,34500,3.0,2.0,120.0,Valle Real,Zapopan,Department,287.5,0.6666666666666666,30k-40k
+,13000,4.0,2.0,120.0,Real del Sol,Tlajomulco de Zúñiga,House,108.33333333333333,0.5,10k-20k
+CAMINO A LA CUESTA 601 46,21000,3.0,3.0,120.0,Fraccionamiento Valle Imperial,Zapopan,House,175.0,1.0,20k-30k
+Av Bosque Real ,21000,3.0,3.0,120.0,Fraccionamiento Valle Imperial,Zapopan,House,175.0,1.0,20k-30k
+COTO LA GUARNICION ,13500,3.0,1.0,120.0,Fraccionamiento Senderos de Monte Verde,Tlajomulco de Zúñiga,House,112.5,0.3333333333333333,10k-20k
+,24000,2.0,2.0,120.0,Altamira,Zapopan,Department,200.0,1.0,20k-30k
+Bosque de los Colomos 42,19500,3.0,2.0,121.0,Sendas Residencial,Zapopan,House,161.15702479338842,0.6666666666666666,10k-20k
+ESCORPION 321,22750,3.0,2.0,122.0,Ladrón de Guevara,Guadalajara,House,186.47540983606558,0.6666666666666666,20k-30k
+,13900,3.0,3.0,122.0,Altavista Residencial,Zapopan,House,113.93442622950819,1.0,10k-20k
+Av. Vallarta  2769,18000,2.0,2.0,122.0,Fraccionamiento Camino Real,Zapopan,Department,147.54098360655738,1.0,10k-20k
+Av. Central Guillermo González Camarena #500,18000,2.0,2.0,122.0,Fraccionamiento Camino Real,Zapopan,Department,147.54098360655738,1.0,10k-20k
+ Av. Inglaterra  6363,19800,3.0,2.0,122.0,Jocotán,Zapopan,House,162.29508196721312,0.6666666666666666,10k-20k
+Francisco Zarco  23,22750,3.0,2.0,122.0,Ladrón de Guevara,Guadalajara,House,186.47540983606558,0.6666666666666666,20k-30k
+ABOGADOS 582,12000,3.0,2.0,122.0,Alta California Residencial,Tlajomulco de Zúñiga,House,98.36065573770492,0.6666666666666666,10k-20k
+,15000,3.0,2.0,123.0,Fraccionamiento Nueva Galicia Residencial,Tlajomulco de Zúñiga,House,121.95121951219512,0.6666666666666666,10k-20k
+RINCONADA LOS LAURELES 243,15000,3.0,2.0,123.0,Fraccionamiento Nueva Galicia Residencial,Tlajomulco de Zúñiga,House,121.95121951219512,0.6666666666666666,10k-20k
+AV NUEVA GALICIA #50,15000,3.0,2.0,123.0,Fraccionamiento Nueva Galicia Residencial,Tlajomulco de Zúñiga,House,121.95121951219512,0.6666666666666666,10k-20k
+STA ANA 1606 49,15000,2.0,2.0,123.0,La Tijera,Tlajomulco de Zúñiga,House,121.95121951219512,1.0,10k-20k
+,28000,2.0,2.0,123.0,Fraccionamiento Solares,Zapopan,House,227.64227642276424,1.0,20k-30k
+Paseo de los Tabachines 17D,19500,4.0,4.0,124.0,Tepeyac,Zapopan,House,157.25806451612902,1.0,10k-20k
+Avenida Montevideo 3550,26000,3.0,2.0,124.0,Loma Bonita,Zapopan,Department,209.67741935483872,0.6666666666666666,20k-30k
+rinconada del arroyo 1501 1 1,26000,2.0,3.0,124.0,Loma Bonita,Zapopan,Department,209.67741935483872,1.5,20k-30k
+,23500,2.0,2.0,124.0,Altamira,Zapopan,Department,189.51612903225808,1.0,20k-30k
+Prolongación Jesus ,25000,2.0,2.0,124.0,Americana,Guadalajara,Department,201.61290322580646,1.0,20k-30k
+paseo el manantial,12000,3.0,2.0,124.0,Fraccionamiento Colón Industrial,Guadalajara,House,96.7741935483871,0.6666666666666666,10k-20k
+Calzada de las flores 1364,18200,4.0,3.0,125.0,Fraccionamiento Real de Valdepeñas,Zapopan,House,145.6,0.75,10k-20k
+Camino a las Moras 600,7500,2.0,1.0,125.0,Vista Sur Residencial,Tlajomulco de Zúñiga,House,60.0,0.5,0-10k
+C.OTTAWA 1360,29000,2.0,2.0,125.0,Circunvalación Américas,Guadalajara,Department,232.0,1.0,20k-30k
+Altamira Departamento,25000,2.0,1.0,125.0,Altamira,Zapopan,Department,200.0,0.5,20k-30k
+Altamira 885,25000,2.0,2.0,125.0,Altamira,Zapopan,Department,200.0,1.0,20k-30k
+AV. HIDALGO 1990 ,25000,2.0,1.0,125.0,Altamira,Zapopan,Department,200.0,0.5,20k-30k
+Altamira 885,16900,2.0,2.0,125.0,Providencia,Guadalajara,Department,135.2,1.0,10k-20k
+,18200,4.0,3.0,125.0,Fraccionamiento Real de Valdepeñas,Zapopan,House,145.6,0.75,10k-20k
+Jose Maria Vigil 2534,30000,2.0,2.0,126.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,238.0952380952381,1.0,20k-30k
+Niños Heroes #2571,28000,2.0,2.0,126.0,Jardines del Bosque,Guadalajara,Department,222.22222222222223,1.0,20k-30k
+,15900,3.0,2.0,126.0,Altavista Residencial,Zapopan,House,126.19047619047619,0.6666666666666666,10k-20k
+Luna,31500,2.0,2.0,126.0,Jardines del Bosque,Guadalajara,Department,250.0,1.0,30k-40k
+Av. Guadalupe 5040,15000,3.0,2.0,126.0,Adamar,Tlajomulco de Zúñiga,House,119.04761904761905,0.6666666666666666,10k-20k
+Av. del Bosque Real,25500,3.0,3.0,126.0,Santillana,Zapopan,House,202.38095238095238,1.0,20k-30k
+Niños Heroes 2571,27800,3.0,3.0,126.0,Jardines del Bosque Norte,Guadalajara,Department,220.63492063492063,1.0,20k-30k
+Niños Heroes 2571,27800,3.0,3.0,127.0,Jardines del Bosque,Guadalajara,Department,218.89763779527559,1.0,20k-30k
+garibaldi,21500,4.0,3.0,127.0,Coto Nueva Galicia,Tlajomulco de Zúñiga,House,169.29133858267716,0.75,20k-30k
+Libra 481 206 C,30000,3.0,2.0,127.0,Lomas Altas,Zapopan,Department,236.2204724409449,0.6666666666666666,20k-30k
+,21500,4.0,3.0,127.0,Coto Nueva Galicia,Tlajomulco de Zúñiga,House,169.29133858267716,0.75,20k-30k
+Asuncion 1985,28600,2.0,2.0,127.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,225.1968503937008,1.0,20k-30k
+Morelos 2080,28600,2.0,2.0,127.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,225.1968503937008,1.0,20k-30k
+,30000,3.0,2.0,127.0,Lomas Altas,Zapopan,Department,236.2204724409449,0.6666666666666666,20k-30k
+Talavera Poniente #3605,28600,2.0,2.0,127.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,225.1968503937008,1.0,20k-30k
+José María Vigil,18500,2.0,1.0,128.0,Fraccionamiento Monraz,Guadalajara,Department,144.53125,0.5,10k-20k
+Coto 1,24500,3.0,2.0,128.0,Santillana,Zapopan,House,191.40625,0.6666666666666666,20k-30k
+,20500,3.0,3.0,128.0,Jardines de La Patria,Zapopan,House,160.15625,1.0,20k-30k
+acueducto 360,30000,2.0,3.0,128.0,Monraz,Guadalajara,Department,234.375,1.5,20k-30k
+,15900,3.0,2.0,128.0,Fraccionamiento Nueva Galicia Residencial,Tlajomulco de Zúñiga,House,124.21875,0.6666666666666666,10k-20k
+,45000,3.0,2.0,129.0,Puerta de Hierro,Zapopan,Department,348.83720930232556,0.6666666666666666,40k-50k
+Altamira Departamento,45000,3.0,2.0,129.0,Puerta de Hierro,Zapopan,Department,348.83720930232556,0.6666666666666666,40k-50k
+Cosmocrat Puerta de Hierro,45000,3.0,2.0,129.0,Puerta de Hierro,Zapopan,Department,348.83720930232556,0.6666666666666666,40k-50k
+Av. Aviación 4055,13500,4.0,2.0,130.0,Hogares de Nuevo México,Zapopan,House,103.84615384615384,0.5,10k-20k
+,39000,2.0,2.0,130.0,Valle Real,Zapopan,Department,300.0,1.0,30k-40k
+UXMAL  94,14000,3.0,2.0,130.0,Fraccionamiento Arvento,Tlajomulco de Zúñiga,House,107.6923076923077,0.6666666666666666,10k-20k
+,14000,3.0,1.0,130.0,12 de Diciembre,Zapopan,House,107.6923076923077,0.3333333333333333,10k-20k
+"Calle Vidrio 1984, Col Americana",18500,3.0,1.0,130.0,Valle Real,Zapopan,Department,142.30769230769232,0.3333333333333333,10k-20k
+Brasilia 2790,35000,3.0,2.0,130.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,269.2307692307692,0.6666666666666666,30k-40k
+Alcamo 3050,25000,2.0,2.0,130.0,Monraz,Guadalajara,Department,192.30769230769232,1.0,20k-30k
+Paseo L,25000,3.0,2.0,130.0,Fraccionamiento Valle Imperial,Zapopan,House,192.30769230769232,0.6666666666666666,20k-30k
+Cometa 2891,12500,3.0,2.0,130.0,Fraccionamiento Nueva Galicia Residencial,Tlajomulco de Zúñiga,House,96.15384615384616,0.6666666666666666,10k-20k
+SAN VICENTE 1121,8000,2.0,1.0,130.0,Fraccionamiento La Providencia,Tonalá,Department,61.53846153846154,0.5,0-10k
+la merced 925,20500,3.0,3.0,130.0,Fraccionamiento Jardines Vallarta,Zapopan,House,157.69230769230768,1.0,20k-30k
+Paseo Lomas Altas,28000,2.0,1.0,130.0,Agraria,Zapopan,Department,215.3846153846154,0.5,20k-30k
+country Club,20500,3.0,3.0,130.0,Fraccionamiento Jardines Vallarta,Zapopan,House,157.69230769230768,1.0,20k-30k
+Conjunto Patria ,21000,3.0,3.0,130.0,Fraccionamiento Valle Imperial,Zapopan,House,161.53846153846155,1.0,20k-30k
+boulevard Mirasierra 93 75,15000,2.0,2.0,130.0,Nuevo México,Zapopan,House,115.38461538461539,1.0,10k-20k
+LOPEZ MATEOS 194,25000,2.0,5.0,130.0,Fraccionamiento Valle Imperial,Zapopan,House,192.30769230769232,2.5,20k-30k
+Depa en Renta Avila Camacho 545 Cerca Plaza Patria,30000,1.0,1.0,130.0,Fraccionamiento Vallarta San Jorge,Guadalajara,Department,230.76923076923077,1.0,20k-30k
+Ottawa 1360,32000,2.0,2.0,130.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,246.15384615384616,1.0,30k-40k
+,25000,2.0,2.0,130.0,Arcos Vallarta,Guadalajara,Department,192.30769230769232,1.0,20k-30k
+AVENIDA CHAPULTEPEC 480,25000,2.0,2.0,130.0,Arcos Vallarta,Guadalajara,Department,192.30769230769232,1.0,20k-30k
+Justo Sierra  3019,14000,3.0,2.0,130.0,Fraccionamiento El Paraíso,Tlajomulco de Zúñiga,House,107.6923076923077,0.6666666666666666,10k-20k
+,23500,3.0,2.0,130.0,San Juan de Ocotan,Zapopan,House,180.76923076923077,0.6666666666666666,20k-30k
+,14000,3.0,2.0,130.0,12 de Diciembre,Zapopan,House,107.6923076923077,0.6666666666666666,10k-20k
+Paseo San Arturo Pte 685,17500,3.0,2.0,130.0,Fraccionamiento Jardín Real,Zapopan,House,134.6153846153846,0.6666666666666666,10k-20k
+Talavera pte 3538,8000,2.0,1.0,130.0,Fraccionamiento La Providencia,Tonalá,Department,61.53846153846154,0.5,0-10k
+Av. Cima Real ,39000,2.0,2.0,130.0,Valle Real,Zapopan,Department,300.0,1.0,30k-40k
+,5000,3.0,1.0,130.0,Copalita,Zapopan,House,38.46153846153846,0.3333333333333333,0-10k
+,14000,3.0,2.0,130.0,Fraccionamiento Arvento,Tlajomulco de Zúñiga,House,107.6923076923077,0.6666666666666666,10k-20k
+Mixton,23500,3.0,2.0,130.0,San Juan de Ocotan,Zapopan,House,180.76923076923077,0.6666666666666666,20k-30k
+,21000,3.0,3.0,130.0,Fraccionamiento Valle Imperial,Zapopan,House,161.53846153846155,1.0,20k-30k
+"Juan Ruiz de Alarcón 229 102 , Americana , 44160 Guadalajara, Jalisco, México",35000,2.0,2.0,130.0,Americana,Guadalajara,Department,269.2307692307692,1.0,30k-40k
+Cubilete #163,23000,3.0,2.0,131.0,Punto Sur,Tlajomulco de Zúñiga,House,175.57251908396947,0.6666666666666666,20k-30k
+"Av. de las Rosas, Rancho Contento, ",23000,3.0,2.0,131.0,Punto Sur,Tlajomulco de Zúñiga,House,175.57251908396947,0.6666666666666666,20k-30k
+Avenida Moctezuma 6205,25000,3.0,3.0,131.0,Bosques de Zapopan,Zapopan,House,190.83969465648855,1.0,20k-30k
+Royal Country 473,31000,2.0,2.0,132.0,Puerta de Hierro,Zapopan,Department,234.84848484848484,1.0,30k-40k
+Av. Naciones Unidas 6396,25500,3.0,3.0,132.0,Santillana,Zapopan,House,193.1818181818182,1.0,20k-30k
+Duque de Rivas 2128,25500,3.0,3.0,132.0,Arcos Vallarta,Guadalajara,Department,193.1818181818182,1.0,20k-30k
+Juan Palomar y Arias 765,40000,2.0,2.0,132.0,Prados de Providencia,Guadalajara,Department,303.030303030303,1.0,30k-40k
+,21000,3.0,2.0,132.0,Universitaria,Guadalajara,House,159.0909090909091,0.6666666666666666,20k-30k
+,20000,3.0,3.0,132.0,Fraccionamiento Porta Real,Zapopan,House,151.5151515151515,1.0,10k-20k
+ROYAL COUNTRY 4734,34000,3.0,2.0,132.0,Puerta de Hierro,Zapopan,Department,257.57575757575756,0.6666666666666666,30k-40k
+Mar Egeo,52800,2.0,3.0,132.0,Country Club,Guadalajara,Department,400.0,1.5,50k-70k
+"P.º Loma Chica 3410, Colinas de San Javier, 44660 Guadalajara, Jal.",28500,3.0,3.0,133.0,Punto Sur,Tlajomulco de Zúñiga,House,214.28571428571428,1.0,20k-30k
+PATRIA 1891,22000,2.0,2.0,133.0,Lomas de Santa Anita,Tlajomulco de Zúñiga,Department,165.41353383458647,1.0,20k-30k
+,28000,2.0,2.0,133.0,Americana,Guadalajara,Department,210.52631578947367,1.0,20k-30k
+altavista poniente 100,22000,3.0,3.0,133.0,Fraccionamiento Solares,Zapopan,House,165.41353383458647,1.0,20k-30k
+Av. Aviacion,45000,2.0,2.0,133.0,Puerta de Hierro,Zapopan,Department,338.34586466165416,1.0,40k-50k
+,27000,3.0,2.0,134.0,Fraccionamiento Solares,Zapopan,House,201.49253731343285,0.6666666666666666,20k-30k
+,34000,3.0,2.0,134.0,La Mojonera,Zapopan,House,253.73134328358208,0.6666666666666666,30k-40k
+av chapultepec norte 78,29500,2.0,2.0,134.0,Country Club,Guadalajara,Department,220.1492537313433,1.0,20k-30k
+Paseo del Parque al 2055 Casa 67,30000,3.0,3.0,134.0,El TriAngulo,Zapopan,House,223.88059701492537,1.0,20k-30k
+"Avenida casa fuerte, coto El Bastión  191 196",22000,4.0,3.0,135.0,Fraccionamiento Real del Carmen Grand,Zapopan,House,162.96296296296296,0.75,20k-30k
+,18500,3.0,5.0,135.0,Volcán Del Colli,Zapopan,House,137.03703703703704,1.6666666666666667,10k-20k
+Enrique Diaz de Leon  823,22000,2.0,3.0,135.0,Villaseñor,Guadalajara,Department,162.96296296296296,1.5,20k-30k
+PASEO SAN ARTURO 1020,18500,3.0,3.0,135.0,Volcán Del Colli,Zapopan,House,137.03703703703704,1.0,10k-20k
+Av. Servidor Publico 1262,22000,4.0,3.0,135.0,Fraccionamiento Real del Carmen Grand,Zapopan,House,162.96296296296296,0.75,20k-30k
+"C. La Ley 2947, Juan Manuel, 44680 Guadalajara, Jal., México",39500,3.0,4.0,135.0,Jardines Universidad,Zapopan,Department,292.5925925925926,1.3333333333333333,30k-40k
+Avenida Campiña 5173 21,19500,3.0,2.0,135.0,Punto Sur,Tlajomulco de Zúñiga,House,144.44444444444446,0.6666666666666666,10k-20k
+Av Patria ,33080,2.0,3.0,135.0,Lomas Altas,Zapopan,Department,245.03703703703704,1.5,30k-40k
+Puesta del sol 4150,33080,2.0,2.0,135.0,Lomas Altas,Zapopan,Department,245.03703703703704,1.0,30k-40k
+Diag. San Jorge 93,35000,2.0,2.0,135.0,Fraccionamiento Vallarta San Jorge,Guadalajara,Department,259.25925925925924,1.0,30k-40k
+AV VOLCAN TANCITARO 2236,18500,3.0,3.0,135.0,Volcán Del Colli,Zapopan,House,137.03703703703704,1.0,10k-20k
+Av Niños Héroes 2050,39500,3.0,2.0,135.0,Jardines Universidad,Zapopan,Department,292.5925925925926,0.6666666666666666,30k-40k
+av paseo la toscana 600,34000,3.0,2.0,135.0,Valle Real,Zapopan,Department,251.85185185185185,0.6666666666666666,30k-40k
+La Rioja,22000,4.0,4.0,135.0,La Cantera,Zapopan,House,162.96296296296296,1.0,20k-30k
+coto 1 colinas de san isidro,15000,3.0,3.0,136.0,Bosque Real de Santa Anita,Tlajomulco de Zúñiga,House,110.29411764705883,1.0,10k-20k
+Andres Teran 1165,31000,2.0,2.0,136.0,Valle Real,Zapopan,Department,227.94117647058823,1.0,30k-40k
+Blvd. Santillana 33,34000,3.0,3.0,136.0,Fraccionamiento Solares,Zapopan,House,250.0,1.0,30k-40k
+,20000,3.0,3.0,136.0,Arboledas ,Zapopan,House,147.05882352941177,1.0,10k-20k
+Torre Livorno,31850,2.0,2.0,136.0,Lomas Altas,Zapopan,Department,234.19117647058823,1.0,30k-40k
+Blvd. Santillana 33,18500,3.0,3.0,136.0,Nuevo México,Zapopan,Department,136.02941176470588,1.0,10k-20k
+AVENIDA JUAN PALOMAR Y ARIAS.,22800,3.0,3.0,136.0,Ciudad Bugambilia,Zapopan,House,167.64705882352942,1.0,20k-30k
+Quintana roo 406,39500,2.0,1.0,137.0,Providencia,Guadalajara,Department,288.3211678832117,0.5,30k-40k
+,39500,2.0,2.0,137.0,Providencia,Guadalajara,Department,288.3211678832117,1.0,30k-40k
+"Blvrd Puerta de Hierro 5065, Puerta de Hierro,  Zapopan, Jal.",27000,2.0,1.0,137.0,Ciudad Del Sol,Zapopan,Department,197.08029197080293,0.5,20k-30k
+Amatista 2558,27000,2.0,1.0,137.0,Ciudad Del Sol,Zapopan,Department,197.08029197080293,0.5,20k-30k
+5446 San Luis gonzaga,27000,3.0,2.0,137.0,Juan Manuel Vallarta,Zapopan,Department,197.08029197080293,0.6666666666666666,20k-30k
+,20000,3.0,2.0,137.0,Girasoles Acueducto,Zapopan,House,145.98540145985402,0.6666666666666666,10k-20k
+prolonagcion jesus,39500,2.0,2.0,137.0,Providencia,Guadalajara,Department,288.3211678832117,1.0,30k-40k
+Diag Manuel Cambre 2235,39500,2.0,2.0,137.0,Providencia,Guadalajara,Department,288.3211678832117,1.0,30k-40k
+,23900,3.0,2.0,137.0,Juan Manuel Vallarta,Zapopan,Department,174.45255474452554,0.6666666666666666,20k-30k
+Alcamo 3050,25000,2.0,2.0,138.0,Monraz,Guadalajara,Department,181.15942028985506,1.0,20k-30k
+,25000,2.0,2.0,138.0,Monraz,Guadalajara,Department,181.15942028985506,1.0,20k-30k
+Calz. Central 503,9990,2.0,1.0,138.0,Ciudad Granja,Zapopan,Department,72.3913043478261,0.5,0-10k
+,32000,3.0,2.0,138.0,Providencia,Guadalajara,Department,231.8840579710145,0.6666666666666666,30k-40k
+CHAPULTEPEC 480,27500,2.0,2.0,138.0,Americana,Guadalajara,Department,199.2753623188406,1.0,20k-30k
+Av Alameda Punto Sur,13500,3.0,2.0,139.0,Fraccionamiento Villa California,Tlajomulco de Zúñiga,House,97.12230215827338,0.6666666666666666,10k-20k
+,24000,3.0,2.0,139.0,Fraccionamiento Solares,Zapopan,House,172.66187050359713,0.6666666666666666,20k-30k
+,13000,3.0,2.0,139.0,Fraccionamiento El Alcázar (Casa Fuerte),Tlajomulco de Zúñiga,House,93.5251798561151,0.6666666666666666,10k-20k
+MEXICALTZINGO 1711,13000,3.0,2.0,139.0,Fraccionamiento El Alcázar (Casa Fuerte),Tlajomulco de Zúñiga,House,93.5251798561151,0.6666666666666666,10k-20k
+Av Providencia 2570,30000,2.0,3.0,140.0,Providencia,Guadalajara,Department,214.28571428571428,1.5,20k-30k
+COTO LA GUARNICION ,14500,4.0,3.0,140.0,Fraccionamiento El Alcázar (Casa Fuerte),Tlajomulco de Zúñiga,House,103.57142857142857,0.75,10k-20k
+av guadalupe 4283,30000,3.0,2.0,140.0,Fraccionamiento Solares,Zapopan,House,214.28571428571428,0.6666666666666666,20k-30k
+AV PASEO DEL ALVA 1192,12000,3.0,2.0,140.0,Sendas Residencial,Zapopan,House,85.71428571428571,0.6666666666666666,10k-20k
+" Av Rio Blanco 1676-123, Los Almendros, Zapopan, Jalisco",18900,4.0,3.0,140.0,Fraccionamiento Los Almendros,Zapopan,House,135.0,0.75,10k-20k
+José María Heredia,29000,2.0,2.0,140.0,Providencia,Guadalajara,Department,207.14285714285714,1.0,20k-30k
+,28500,3.0,4.0,140.0,Punto Sur,Tlajomulco de Zúñiga,House,203.57142857142858,1.3333333333333333,20k-30k
+av aviacion 4304,23000,3.0,2.0,140.0,Fraccionamiento Jardín Real,Zapopan,House,164.28571428571428,0.6666666666666666,20k-30k
+diagonal san jorge 93,34000,2.0,2.0,140.0,Vallarta Sur,Guadalajara,Department,242.85714285714286,1.0,30k-40k
+Calle asusncion 1985 colomos providencia,30000,2.0,2.0,140.0,Colomos Patria,Zapopan,Department,214.28571428571428,1.0,20k-30k
+VILLA CALIFORNIA,14000,3.0,2.0,140.0,Tlajomulco de Zúñiga,Other,House,100.0,0.6666666666666666,10k-20k
+,15000,3.0,2.0,140.0,Belisario Domínguez,Guadalajara,House,107.14285714285714,0.6666666666666666,10k-20k
+Mar Ross,20000,3.0,2.0,140.0,Monraz,Guadalajara,Department,142.85714285714286,0.6666666666666666,10k-20k
+,11000,3.0,2.0,140.0,Girasoles Acueducto,Zapopan,House,78.57142857142857,0.6666666666666666,10k-20k
+Av. Hidalgo 1830,20000,2.0,3.0,140.0,Fraccionamiento Ladrón de Guevara,Guadalajara,Department,142.85714285714286,1.5,10k-20k
+San Juan de Letrán 4353,29500,2.0,2.0,140.0,Prados de Providencia,Guadalajara,Department,210.71428571428572,1.0,20k-30k
+"Calle Garibaldi , Terranova, Guadalajara ",12500,3.0,1.0,140.0,Adamar,Tlajomulco de Zúñiga,House,89.28571428571429,0.3333333333333333,10k-20k
+,15000,3.0,1.0,140.0,Fraccionamiento El Alcázar (Casa Fuerte),Tlajomulco de Zúñiga,House,107.14285714285714,0.3333333333333333,10k-20k
+Fray Junípero Serra,16000,3.0,2.0,140.0,Casa Fuerte,Tlajomulco de Zúñiga,House,114.28571428571429,0.6666666666666666,10k-20k
+Avenida Casa Fuerte,28500,3.0,4.0,140.0,Punto Sur,Tlajomulco de Zúñiga,House,203.57142857142858,1.3333333333333333,20k-30k
+,17800,3.0,1.0,140.0,Jardines Del Sol,Zapopan,House,127.14285714285714,0.3333333333333333,10k-20k
+Paseo del Amanecer (COTO MURAAN) 148 63,12300,1.0,2.0,140.0,Zapopan,Other,House,87.85714285714286,2.0,10k-20k
+,18500,4.0,5.0,140.0,Fraccionamiento Del Pilar Residencial,Tlajomulco de Zúñiga,House,132.14285714285714,1.25,10k-20k
+Lateral anillo periférico 800,29500,1.0,2.0,140.0,Prados de Providencia,Guadalajara,Department,210.71428571428572,2.0,20k-30k
+Avenida morelos 2080,34000,3.0,3.0,140.0,Vallarta Sur,Guadalajara,Department,242.85714285714286,1.0,30k-40k
+Almendro,18500,3.0,2.0,140.0,Fraccionamiento Del Pilar Residencial,Tlajomulco de Zúñiga,House,132.14285714285714,0.6666666666666666,10k-20k
+Av. Hidalgo 1830,20000,2.0,2.0,140.0,Fraccionamiento Ladrón de Guevara,Guadalajara,Department,142.85714285714286,1.0,10k-20k
+Livet ottwa ,29500,2.0,2.0,140.0,Prados de Providencia,Guadalajara,Department,210.71428571428572,1.0,20k-30k
+,22000,3.0,3.0,140.0,Fraccionamiento La Cima,Zapopan,House,157.14285714285714,1.0,20k-30k
+Savia Central,8000,2.0,2.0,140.0,El Campanario,Zapopan,House,57.142857142857146,1.0,0-10k
+paseo de la luna 155,18500,3.0,2.0,140.0,Fraccionamiento Del Pilar Residencial,Tlajomulco de Zúñiga,House,132.14285714285714,0.6666666666666666,10k-20k
+Circuito del Bosque   127 84,25000,3.0,2.0,140.0,Punto Sur,Tlajomulco de Zúñiga,House,178.57142857142858,0.6666666666666666,20k-30k
+"Avenida casa fuerte, coto El Bastión  191 196",15000,3.0,1.0,140.0,Fraccionamiento El Alcázar (Casa Fuerte),Tlajomulco de Zúñiga,House,107.14285714285714,0.3333333333333333,10k-20k
+Calle asuncion 1985,33000,3.0,2.0,140.0,Fraccionamiento Real Vallarta,Zapopan,Department,235.71428571428572,0.6666666666666666,30k-40k
+López Mateos Sur 1450,26000,3.0,2.0,140.0,El Palomar,Tlajomulco de Zúñiga,House,185.71428571428572,0.6666666666666666,20k-30k
+Aurora Boreal Norte,25800,3.0,3.0,141.0,Fraccionamiento Jardines de Guadalupe,Zapopan,Department,182.9787234042553,1.0,20k-30k
+,36500,2.0,1.0,142.0,Prados de Providencia,Guadalajara,Department,257.0422535211268,0.5,30k-40k
+Libra 481 206 C,36500,2.0,3.0,142.0,Prados de Providencia,Guadalajara,Department,257.0422535211268,1.5,30k-40k
+,28000,3.0,5.0,142.0,Fraccionamiento Valle Imperial,Zapopan,House,197.18309859154928,1.6666666666666667,20k-30k
+Acueducto 360,29500,2.0,2.0,142.0,Prados de Providencia,Guadalajara,Department,207.74647887323943,1.0,20k-30k
+Avenida Universidad 2662,32000,4.0,4.0,143.0,Santillana,Zapopan,House,223.7762237762238,1.0,30k-40k
+,15000,3.0,1.0,143.0,Villas Del Tepeyac,Zapopan,House,104.8951048951049,0.3333333333333333,10k-20k
+Av. Empresarios 405,60000,2.0,2.0,143.0,Puerta de Hierro,Zapopan,Department,419.5804195804196,1.0,50k-70k
+PASEO SAN ARTURO 1020,32000,4.0,4.0,143.0,Santillana,Zapopan,House,223.7762237762238,1.0,30k-40k
+Toronjos 469,14000,3.0,2.0,143.0,Fraccionamiento El Alcázar (Casa Fuerte),Tlajomulco de Zúñiga,House,97.9020979020979,0.6666666666666666,10k-20k
+ALVIENTO,15000,3.0,2.0,143.0,Villas Del Tepeyac,Zapopan,House,104.8951048951049,0.6666666666666666,10k-20k
+acueducto 360,33000,3.0,2.0,143.0,Providencia,Guadalajara,Department,230.76923076923077,0.6666666666666666,30k-40k
+Calzada de las flores 1364,15000,3.0,1.0,143.0,El Colli Urbano,Zapopan,House,104.8951048951049,0.3333333333333333,10k-20k
+Justo Sierra 2040,23500,2.0,2.0,144.0,Jardines del Bosque Norte,Guadalajara,Department,163.19444444444446,1.0,20k-30k
+,26700,4.0,4.0,144.0,Fraccionamiento Solares,Zapopan,House,185.41666666666666,1.0,20k-30k
+universidad,30000,3.0,2.0,144.0,Fraccionamiento Solares,Zapopan,House,208.33333333333334,0.6666666666666666,20k-30k
+Av. Montevideo 3078,33000,2.0,2.0,144.0,Providencia,Guadalajara,Department,229.16666666666666,1.0,30k-40k
+Av. Patria 1891,23500,2.0,2.0,144.0,Jardines del Bosque Norte,Guadalajara,Department,163.19444444444446,1.0,20k-30k
+Av. Paseo del Anochecer 964,33000,3.0,3.0,144.0,Fraccionamiento Solares,Zapopan,House,229.16666666666666,1.0,30k-40k
+av camino real a colima 481,17800,2.0,2.0,144.0,Sendas Residencial,Zapopan,Department,123.61111111111111,1.0,10k-20k
+Sendero de los Encinos ,31000,3.0,2.0,144.0,Fraccionamiento Solares,Zapopan,House,215.27777777777777,0.6666666666666666,30k-40k
+Paseo del Anochecer 964,28000,3.0,4.0,144.0,Fraccionamiento Solares,Zapopan,House,194.44444444444446,1.3333333333333333,20k-30k
+,29500,3.0,3.0,144.0,Fraccionamiento Solares,Zapopan,House,204.86111111111111,1.0,20k-30k
+leon tolstoi 5347,33000,2.0,2.0,145.0,Colomos Patria,Zapopan,Department,227.58620689655172,1.0,30k-40k
+Vista Lomas,40000,3.0,2.0,145.0,Lomas Altas,Zapopan,Department,275.86206896551727,0.6666666666666666,30k-40k
+,26000,2.0,2.0,145.0,Lomas Altas,Zapopan,Department,179.31034482758622,1.0,20k-30k
+,36000,3.0,3.0,145.0,Valle Real,Zapopan,Department,248.27586206896552,1.0,30k-40k
+Av. Ignacio L Vallarta  5145,26000,2.0,2.0,145.0,Lomas Altas,Zapopan,Department,179.31034482758622,1.0,20k-30k
+Av. Paseo del Anochecer,26700,3.0,3.0,145.0,Fraccionamiento Solares,Zapopan,House,184.13793103448276,1.0,20k-30k
+Calle María Reyes 4844,36000,3.0,3.0,145.0,Valle Real,Zapopan,Department,248.27586206896552,1.0,30k-40k
+"Av. Paseo Cima Real 461, Valle Real, 45019 Zapopan, Jal.",36000,3.0,3.0,145.0,Valle Real,Zapopan,Department,248.27586206896552,1.0,30k-40k
+gabriel castaños 2769,33000,2.0,2.0,145.0,Colomos Patria,Zapopan,Department,227.58620689655172,1.0,30k-40k
+Torre Livet Otawa,32500,2.0,2.0,146.0,Providencia,Guadalajara,Department,222.6027397260274,1.0,30k-40k
+lopez mateos sur 1450,25000,3.0,2.0,146.0,El Palomar,Tlajomulco de Zúñiga,House,171.23287671232876,0.6666666666666666,20k-30k
+Tlahuac 3856,20500,3.0,3.0,147.0,Tepeyac,Zapopan,House,139.45578231292518,1.0,20k-30k
+Paseo San Arturo ,29000,4.0,3.0,147.0,Fraccionamiento Solares,Zapopan,House,197.27891156462584,0.75,20k-30k
+,29000,3.0,7.0,147.0,Fraccionamiento Solares,Zapopan,House,197.27891156462584,2.3333333333333335,20k-30k
+Camino al arenero,20500,3.0,2.0,147.0,Tepeyac,Zapopan,House,139.45578231292518,0.6666666666666666,20k-30k
+"P.º Solares, Solares Residencial, 45019 Zapopan, Jal.",35000,4.0,4.0,147.0,Fraccionamiento Solares,Zapopan,Department,238.0952380952381,1.0,30k-40k
+"P.º Solares, Solares Residencial, 45019 Zapopan, Jal.",16150,4.0,4.0,147.0,Country Club,Guadalajara,Department,109.8639455782313,1.0,10k-20k
+"P.º Solares, Solares Residencial, 45019 Zapopan, Jal.",35000,4.0,4.0,147.0,Fraccionamiento Solares,Zapopan,House,238.0952380952381,1.0,30k-40k
+,16500,4.0,2.0,148.0,Fraccionamiento Senderos de Monte Verde,Tlajomulco de Zúñiga,House,111.48648648648648,0.5,10k-20k
+,16300,3.0,2.0,148.0,Jardines Del Sur,Guadalajara,House,110.13513513513513,0.6666666666666666,10k-20k
+Av. San Luis Gonzaga 4956,28000,2.0,2.0,148.0,Valle Real,Zapopan,Department,189.1891891891892,1.0,20k-30k
+JUAN PALOMAR Y ARIAS 765,26500,2.0,2.0,148.0,Fraccionamiento Lomas de Providencia,Guadalajara,Department,179.05405405405406,1.0,20k-30k
+ADAMAR   NUMERO    548   COTO   ALAMEDA  INTERIOR  151 .,16300,3.0,2.0,148.0,Jardines Del Sur,Guadalajara,House,110.13513513513513,0.6666666666666666,10k-20k
+Depa en Renta Providencia en Jose Maria Vigil,26500,2.0,2.0,148.0,Fraccionamiento Lomas de Providencia,Guadalajara,Department,179.05405405405406,1.0,20k-30k
+Alada,36000,2.0,1.0,148.0,Valle Real,Zapopan,Department,243.24324324324326,0.5,30k-40k
+PASEO SAN ARTURO 1020,16300,3.0,2.0,148.0,Jardines Del Sur,Guadalajara,House,110.13513513513513,0.6666666666666666,10k-20k
+PUNTO SUR ,16300,3.0,2.0,148.0,Jardines Del Sur,Guadalajara,House,110.13513513513513,0.6666666666666666,10k-20k
+"P.º Solares 2175, Solares Residencial,  Zapopan, Jal.",35000,4.0,4.0,148.0,Fraccionamiento Solares,Zapopan,House,236.48648648648648,1.0,30k-40k
+Coto Acanthia,28500,3.0,4.0,149.0,Fraccionamiento Solares,Zapopan,House,191.2751677852349,1.3333333333333333,20k-30k
+Paseo del amanecer  405,30000,4.0,3.0,150.0,Los Gavilanes Poniente,Tlajomulco de Zúñiga,House,200.0,0.75,20k-30k
+,19000,3.0,2.0,150.0,Fraccionamiento Pinar de La Venta,Zapopan,House,126.66666666666667,0.6666666666666666,10k-20k
+"Calle Borneo 1982, Col. Jardines de La Cruz",25000,3.0,2.0,150.0,Fraccionamiento Residencial Victoria,Guadalajara,House,166.66666666666666,0.6666666666666666,20k-30k
+,20000,2.0,2.0,150.0,Jardines de los Arcos,Guadalajara,Department,133.33333333333334,1.0,10k-20k
+av terranostra 300,25000,3.0,3.0,150.0,Fraccionamiento Residencial Victoria,Guadalajara,House,166.66666666666666,1.0,20k-30k
+NICOLÁS ROMERO 1369,14000,3.0,2.0,150.0,Fraccionamiento Villa California,Tlajomulco de Zúñiga,House,93.33333333333333,0.6666666666666666,10k-20k
+"Av Paseo de la Arboleda 731 Jardines del Bosque,",40000,3.0,2.0,150.0,Providencia,Guadalajara,Department,266.6666666666667,0.6666666666666666,30k-40k
+BLVD ALTA CALIFORNIA 12 09,28000,3.0,3.0,150.0,Fraccionamiento Solares,Zapopan,House,186.66666666666666,1.0,20k-30k
+Av. México 5000,36000,2.0,2.0,150.0,Valle Real,Zapopan,Department,240.0,1.0,30k-40k
+Del sol 6984,17500,3.0,4.0,150.0,Casa Fuerte,Tlajomulco de Zúñiga,House,116.66666666666667,1.3333333333333333,10k-20k
+,26000,4.0,2.0,150.0,Santillana,Zapopan,House,173.33333333333334,0.5,20k-30k
+Colomos Providencia,24500,4.0,3.0,150.0,San Agustín,Tlajomulco de Zúñiga,House,163.33333333333334,0.75,20k-30k
+,26000,4.0,3.0,150.0,Santillana,Zapopan,House,173.33333333333334,0.75,20k-30k
+Paso Valle Real 4000,36000,2.0,1.0,150.0,Valle Real,Zapopan,Department,240.0,0.5,30k-40k
+Paseo Valle Real,23500,2.0,2.0,150.0,Valle Real,Zapopan,Department,156.66666666666666,1.0,20k-30k
+Av Paseo de la Luna ,17500,3.0,2.0,150.0,Jardines del Valle,Zapopan,House,116.66666666666667,0.6666666666666666,10k-20k
+,17500,3.0,2.0,150.0,Jardines del Valle,Zapopan,House,116.66666666666667,0.6666666666666666,10k-20k
+,36000,3.0,1.0,150.0,Fraccionamiento Puerta del Valle,Zapopan,Department,240.0,0.3333333333333333,30k-40k
+Calle Mar  Mediterráneo 1254,27500,2.0,2.0,151.0,Valle Real,Zapopan,Department,182.11920529801324,1.0,20k-30k
+,18000,3.0,2.0,151.0,El Fortín,Zapopan,House,119.20529801324503,0.6666666666666666,10k-20k
+PASEO LOMAS ALTAS 4777,38000,3.0,4.0,151.0,Lomas Altas,Zapopan,Department,251.65562913907286,1.3333333333333333,30k-40k
+AVENIDA DEL BAJÍO 1700,38000,3.0,1.0,151.0,Lomas Altas,Zapopan,Department,251.65562913907286,0.3333333333333333,30k-40k
+VIDRIO 1984,38000,3.0,4.0,151.0,Lomas Altas,Zapopan,Department,251.65562913907286,1.3333333333333333,30k-40k
+,38000,3.0,4.0,151.0,Lomas Altas,Zapopan,Department,251.65562913907286,1.3333333333333333,30k-40k
+Boulevard Valle Imperial,26000,4.0,4.0,152.0,Punto Sur,Tlajomulco de Zúñiga,House,171.05263157894737,1.0,20k-30k
+"Av. Aviación 59, San Juan de Ocotán, 45019 Zapopan, Jal",26000,4.0,4.0,152.0,Punto Sur,Tlajomulco de Zúñiga,House,171.05263157894737,1.0,20k-30k
+ALARA MONTEVIDEO 3070,35000,3.0,2.0,152.0,Providencia,Guadalajara,Department,230.26315789473685,0.6666666666666666,30k-40k
+Mar Blanco,26000,4.0,4.0,153.0,Fraccionamiento Lomas Del Country,Guadalajara,House,169.9346405228758,1.0,20k-30k
+,29000,3.0,4.0,153.0,Fraccionamiento Solares,Zapopan,House,189.54248366013073,1.3333333333333333,20k-30k
+AV. CAMINO DE LOS PARQUES 3363 MD INT 2 ,14000,3.0,3.0,154.0,San Isidro,Zapopan,House,90.9090909090909,1.0,10k-20k
+Francisco Zarco 2342,32000,3.0,5.0,154.0,Valle Real,Zapopan,House,207.7922077922078,1.6666666666666667,30k-40k
+MAR EGEO 1442,35000,1.0,3.0,154.0,Americana,Guadalajara,Department,227.27272727272728,3.0,30k-40k
+,30000,3.0,3.0,155.0,Fraccionamiento Solares,Zapopan,House,193.5483870967742,1.0,20k-30k
+Santa Monica 170,28500,3.0,2.0,156.0,Jardines de La Patria,Zapopan,Department,182.69230769230768,0.6666666666666666,20k-30k
+Aranjuez 48,25000,3.0,2.0,156.0,Fraccionamiento Del Pilar Residencial,Tlajomulco de Zúñiga,House,160.25641025641025,0.6666666666666666,20k-30k
+Paseo Solares #1333,25000,3.0,3.0,157.0,San Juan de Ocotan,Zapopan,House,159.23566878980893,1.0,20k-30k
+anillo Periferico pte 1066,45000,3.0,2.0,157.0,Jardines Universidad,Zapopan,Department,286.62420382165607,0.6666666666666666,40k-50k
+Departamento EN Renta Parque Metropolitano 7 Zapopan Jalisco,21500,3.0,2.0,157.0,Zapopan,Other,Department,136.94267515923568,0.6666666666666666,20k-30k
+Av. Cruz del sur,25000,3.0,3.0,157.0,Fraccionamiento Solares,Zapopan,House,159.23566878980893,1.0,20k-30k
+,26500,4.0,5.0,157.0,Fraccionamiento Solares,Zapopan,House,168.78980891719746,1.25,20k-30k
+"Av. Universidad 2705, int 96",28500,3.0,5.0,157.0,Fraccionamiento Solares,Zapopan,House,181.52866242038218,1.6666666666666667,20k-30k
+Valle de las Gladiolas 156,8500,3.0,2.0,157.0,Fraccionamiento Valle de las Flores,Tlajomulco de Zúñiga,House,54.140127388535035,0.6666666666666666,0-10k
+Av universidad  1000,19500,3.0,3.0,157.0,Jardines Del Sol,Zapopan,Department,124.20382165605096,1.0,10k-20k
+PRIVANZA ,28000,4.0,4.0,157.0,Fraccionamiento Solares,Zapopan,House,178.343949044586,1.0,20k-30k
+Vista sur ,21000,3.0,2.0,157.0,Fraccionamiento La Cima,Zapopan,House,133.7579617834395,0.6666666666666666,20k-30k
+paseo valle real 4000,35000,2.0,2.0,158.0,Valle Real,Zapopan,Department,221.51898734177215,1.0,30k-40k
+"Paseo del Origen 601 32 , El Origen , 45645 Tlajomulco de Zúñiga, Jalisco, México",13500,2.0,2.0,159.0,Fraccionamiento Villa California,Tlajomulco de Zúñiga,House,84.90566037735849,1.0,10k-20k
+,13500,2.0,2.0,159.0,Fraccionamiento Villa California,Tlajomulco de Zúñiga,House,84.90566037735849,1.0,10k-20k
+Calle Mar Mediterráneo 1254,33000,2.0,2.0,159.0,Americana,Guadalajara,Department,207.54716981132074,1.0,30k-40k
+montevideo 2704,35000,3.0,2.0,160.0,Providencia,Guadalajara,Department,218.75,0.6666666666666666,30k-40k
+,29000,2.0,2.0,160.0,Valle Real,Zapopan,Department,181.25,1.0,20k-30k
+Circunvalación División del Norte 2009,35000,3.0,1.0,160.0,Fraccionamiento Jardines Del Country,Guadalajara,House,218.75,0.3333333333333333,30k-40k
+Bv. Valle Imperial ,18500,4.0,4.0,160.0,Fraccionamiento Valle Imperial,Zapopan,House,115.625,1.0,10k-20k
+Hidalgo residences,29000,1.0,1.0,160.0,Valle Real,Zapopan,Department,181.25,1.0,20k-30k
+,10500,3.0,3.0,160.0,Fraccionamiento Cortijo de San Agustin,Tlajomulco de Zúñiga,House,65.625,1.0,10k-20k
+AV VOLCAN TANCITARO 2236,18000,4.0,2.0,160.0,Casa Fuerte,Tlajomulco de Zúñiga,House,112.5,0.5,10k-20k
+empresarios 87,45000,3.0,3.0,160.0,Puerta de Hierro,Zapopan,Department,281.25,1.0,40k-50k
+Av. A. López Mateos Sur,28000,3.0,4.0,160.0,Parque de La Castellana,Zapopan,House,175.0,1.3333333333333333,20k-30k
+Paseo del Anochecer,45000,4.0,5.0,160.0,Fraccionamiento Solares,Zapopan,House,281.25,1.25,40k-50k
+"Francisco Montes de Oca 3630, Col. El fortín, Zapopan, Jalisco ",19000,4.0,3.0,160.0,La Perla,Guadalajara,House,118.75,0.75,10k-20k
+,23800,3.0,3.0,160.0,Fraccionamiento Valle Imperial,Zapopan,House,148.75,1.0,20k-30k
+"P.º Solares, Solares Residencial, Zapopan, Jal",47000,3.0,3.0,160.0,Fraccionamiento Colomos Providencia,Guadalajara,House,293.75,1.0,40k-50k
+Hipódromo  2019,45000,3.0,3.0,160.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,281.25,1.0,40k-50k
+CALLE VIGIA DOS #102,16000,3.0,4.0,160.0,Casa Fuerte,Tlajomulco de Zúñiga,House,100.0,1.3333333333333333,10k-20k
+Fray Junípero Serra,10500,3.0,1.0,160.0,Fraccionamiento Cortijo de San Agustin,Tlajomulco de Zúñiga,House,65.625,0.3333333333333333,10k-20k
+av acueducto 2380,29000,2.0,2.0,160.0,Valle Real,Zapopan,Department,181.25,1.0,20k-30k
+Zapote del Valle,19500,3.0,2.0,160.0,Fraccionamiento La Cima,Zapopan,House,121.875,0.6666666666666666,10k-20k
+Av. Experiencia,10500,3.0,2.0,160.0,Fraccionamiento Cortijo de San Agustin,Tlajomulco de Zúñiga,House,65.625,0.6666666666666666,10k-20k
+,18000,3.0,2.0,160.0,Fraccionamiento Valle Imperial,Zapopan,House,112.5,0.6666666666666666,10k-20k
+VALLE DE ATEMAJAC 2445,17000,3.0,2.0,160.0,Valle Real,Zapopan,Department,106.25,0.6666666666666666,10k-20k
+Paseo del Anochecer,45000,4.0,5.0,160.0,Fraccionamiento Solares,Zapopan,Department,281.25,1.25,40k-50k
+Nueva Galicia,16000,3.0,2.0,160.0,Casa Fuerte,Tlajomulco de Zúñiga,House,100.0,0.6666666666666666,10k-20k
+Av Acueducto 1060,23000,4.0,3.0,160.0,Fraccionamiento Valle Imperial,Zapopan,House,143.75,0.75,20k-30k
+Cto. Baluarte 0,25000,3.0,2.0,160.0,Bosques Vallarta,Zapopan,House,156.25,0.6666666666666666,20k-30k
+"Hacienda del lago, Hacienda Real Tonala ",25000,3.0,2.0,160.0,Punto Sur,Tlajomulco de Zúñiga,House,156.25,0.6666666666666666,20k-30k
+,50000,3.0,3.0,160.0,Providencia,Guadalajara,Department,312.5,1.0,40k-50k
+POPOCATEPTL 3256,25500,3.0,2.0,160.0,Ciudad Del Sol,Zapopan,Department,159.375,0.6666666666666666,20k-30k
+Av Circunvalacion Medas 1216,4500,4.0,3.0,160.0,Nuevo México,Zapopan,House,28.125,0.75,0-10k
+Paseo Valle Real,42000,3.0,2.0,161.0,Valle Real,Zapopan,Department,260.8695652173913,0.6666666666666666,40k-50k
+,29000,4.0,4.0,162.0,Fraccionamiento Solares,Zapopan,House,179.01234567901236,1.0,20k-30k
+Coto Cadiz 0,14000,3.0,2.0,162.0,La Tijera,Tlajomulco de Zúñiga,House,86.41975308641975,0.6666666666666666,10k-20k
+Departamento en Renta Altamira (torre Zhenka),25000,2.0,2.0,163.0,San Juan de Ocotan,Zapopan,Department,153.37423312883436,1.0,20k-30k
+Jardines de Guadalupe,32000,3.0,2.0,163.0,Providencia,Guadalajara,Department,196.31901840490798,0.6666666666666666,30k-40k
+Turmalina,24000,3.0,5.0,164.0,Jardines Del Sol,Zapopan,House,146.34146341463415,1.6666666666666667,20k-30k
+,25000,3.0,2.0,164.0,Arcos Vallarta,Guadalajara,House,152.4390243902439,0.6666666666666666,20k-30k
+Av. Central Guillermo Gonzalez Camarena #500,24000,3.0,2.0,164.0,Prados de Providencia,Guadalajara,Department,146.34146341463415,0.6666666666666666,20k-30k
+,24000,3.0,5.0,164.0,Jardines Del Sol,Zapopan,House,146.34146341463415,1.6666666666666667,20k-30k
+CERRADA DEL LABRADOR #1,32000,4.0,4.0,164.0,Mezquitan,Guadalajara,House,195.1219512195122,1.0,30k-40k
+"Paseo del Cielo 1, El Palomar, 45640 Jal.",24000,3.0,5.0,164.0,Jardines Del Sol,Zapopan,House,146.34146341463415,1.6666666666666667,20k-30k
+Alta California La Quinta  al 7001,26000,3.0,2.0,165.0,Fraccionamiento Mirador de San Isidro,Zapopan,House,157.57575757575756,0.6666666666666666,20k-30k
+Valle Imperial,17800,3.0,2.0,165.0,Fraccionamiento Valle Imperial,Zapopan,House,107.87878787878788,0.6666666666666666,10k-20k
+Av. Cruz del sur,25000,3.0,3.0,165.0,Fraccionamiento Valle Imperial,Zapopan,House,151.5151515151515,1.0,20k-30k
+Isla del Coco 2426,28500,3.0,3.0,165.0,Bosques Vallarta,Zapopan,House,172.72727272727272,1.0,20k-30k
+LA PALMA 15 17,26000,3.0,4.0,165.0,Zapopan,Other,House,157.57575757575756,1.3333333333333333,20k-30k
+,24900,2.0,2.0,165.0,Ciudad Bugambilia,Zapopan,House,150.9090909090909,1.0,20k-30k
+av Paseo del Anochecer 1058,31000,4.0,4.0,165.0,Fraccionamiento Valle Esmeralda,Zapopan,House,187.87878787878788,1.0,30k-40k
+PASEO LOMAS ALTAS 4777,30000,3.0,2.0,165.0,Providencia,Guadalajara,Department,181.8181818181818,0.6666666666666666,20k-30k
+BULEVAR BOSQUES DE SANTA ANITA ,24500,3.0,3.0,165.0,Fraccionamiento Valle Imperial,Zapopan,House,148.4848484848485,1.0,20k-30k
+LOS NARANJOS 364,25500,2.0,2.0,165.0,Fraccionamiento Valle Imperial,Zapopan,House,154.54545454545453,1.0,20k-30k
+Asuncion 1985,30000,3.0,2.0,165.0,Providencia,Guadalajara,Department,181.8181818181818,0.6666666666666666,20k-30k
+Nápoles 2837 ,35000,2.0,2.0,165.0,Americana,Guadalajara,Department,212.12121212121212,1.0,30k-40k
+DEL DOLMEN,28500,4.0,4.0,165.0,Bosques Vallarta,Zapopan,House,172.72727272727272,1.0,20k-30k
+Sao Paulo ,34000,3.0,2.0,165.0,Puerta de Hierro,Zapopan,Department,206.06060606060606,0.6666666666666666,30k-40k
+Coto 3 Circuito de Los Laureles  346,17800,3.0,2.0,166.0,Fraccionamiento Valle Imperial,Zapopan,House,107.2289156626506,0.6666666666666666,10k-20k
+,45000,3.0,2.0,166.0,Prados de Providencia,Guadalajara,Department,271.0843373493976,0.6666666666666666,40k-50k
+,17800,3.0,4.0,166.0,Fraccionamiento Valle Imperial,Zapopan,House,107.2289156626506,1.3333333333333333,10k-20k
+Provincia de Alicante 12,17800,3.0,2.0,166.0,Fraccionamiento Valle Imperial,Zapopan,House,107.2289156626506,0.6666666666666666,10k-20k
+Av. Ecónomos  6843 2,26500,3.0,2.0,166.0,Arcos de Guadalupe,Zapopan,Department,159.63855421686748,0.6666666666666666,20k-30k
+"P.º de los Virreyes 250, Puerta de Hierro, 45116 Zapopan, Jal.",45000,3.0,2.0,166.0,Prados de Providencia,Guadalajara,Department,271.0843373493976,0.6666666666666666,40k-50k
+,17800,3.0,7.0,166.0,Fraccionamiento Valle Imperial,Zapopan,House,107.2289156626506,2.3333333333333335,10k-20k
+Prolongación Jesús 3870,32000,3.0,1.0,167.0,Providencia,Guadalajara,Department,191.61676646706587,0.3333333333333333,30k-40k
+"""Privanza Senda",19000,4.0,3.0,167.0,Fraccionamiento Jardines de Santa Isabel,Guadalajara,House,113.77245508982035,0.75,10k-20k
+Calle Barlovento 2829,45000,3.0,2.0,167.0,Santa Margarita Residencial,Zapopan,Department,269.4610778443114,0.6666666666666666,40k-50k
+,45000,3.0,2.0,167.0,Santa Margarita Residencial,Zapopan,Department,269.4610778443114,0.6666666666666666,40k-50k
+Av Adolfo López Mateos Nte 1072A,32000,3.0,2.0,167.0,Providencia,Guadalajara,Department,191.61676646706587,0.6666666666666666,30k-40k
+"Juan Palomar y Arias 765. Col. Prados Providencia. Guadalajara, Jalisco.",36500,3.0,3.0,167.0,Providencia,Guadalajara,Department,218.562874251497,1.0,30k-40k
+Tonatiuh 223,24000,3.0,2.0,168.0,Fraccionamiento Solares,Zapopan,House,142.85714285714286,0.6666666666666666,20k-30k
+,45000,2.0,3.0,168.0,Parque Metropolitano,Zapopan,House,267.85714285714283,1.5,40k-50k
+,15000,3.0,3.0,168.0,Fraccionamiento Cortijo de San Agustin,Tlajomulco de Zúñiga,House,89.28571428571429,1.0,10k-20k
+,24000,3.0,3.0,168.0,Valle Real,Zapopan,House,142.85714285714286,1.0,20k-30k
+,53000,2.0,1.0,169.0,Puerta de Hierro,Zapopan,Department,313.6094674556213,0.5,50k-70k
+MONTEVIDEO 3070,39900,3.0,3.0,169.0,Providencia,Guadalajara,Department,236.09467455621302,1.0,30k-40k
+"Fracc. La Rioja, Los Gavilanes",26650,3.0,3.0,169.0,La Rioja,Tlajomulco de Zúñiga,House,157.69230769230768,1.0,20k-30k
+Juan palomar y arias 546 INT 2,40000,3.0,3.0,169.0,Providencia,Guadalajara,Department,236.68639053254438,1.0,30k-40k
+Paseo Solares # 1632,33000,4.0,4.0,169.0,Fraccionamiento Solares,Zapopan,House,195.2662721893491,1.0,30k-40k
+Lateral anillo periférico 800,17000,3.0,1.0,169.0,Valle Real,Zapopan,Department,100.59171597633136,0.3333333333333333,10k-20k
+Av. Adolfo López Mateos Sur 4255,40000,3.0,2.0,169.0,Providencia,Guadalajara,Department,236.68639053254438,0.6666666666666666,30k-40k
+"Blvrd Puerta de Hierro 5065, Puerta de Hierro,  Zapopan, Jal.",53000,2.0,2.0,169.0,Puerta de Hierro,Zapopan,Department,313.6094674556213,1.0,50k-70k
+OSCAR WILDE 6108 B,40000,3.0,1.0,169.0,Providencia,Guadalajara,Department,236.68639053254438,0.3333333333333333,30k-40k
+Diagonal Manuel Cambre 2235,26000,2.0,2.0,170.0,Fraccionamiento Lomas Del Country,Guadalajara,Department,152.94117647058823,1.0,20k-30k
+Av. Aviación,42000,3.0,3.0,170.0,Fraccionamiento Solares,Zapopan,House,247.05882352941177,1.0,40k-50k
+Nápoles 2837 ,26000,3.0,3.0,170.0,Providencia,Guadalajara,Department,152.94117647058823,1.0,20k-30k
+Otranto 3876,28200,1.0,2.0,170.0,Lomas de Guadalupe,Zapopan,House,165.88235294117646,2.0,20k-30k
+Anillo Periferico norte 1066,26000,3.0,2.0,170.0,Providencia,Guadalajara,Department,152.94117647058823,0.6666666666666666,20k-30k
+PASEO DE LA LUNA 155,50000,3.0,2.0,170.0,Providencia,Guadalajara,House,294.11764705882354,0.6666666666666666,40k-50k
+,17500,4.0,2.0,170.0,Fraccionamiento Senderos de Monte Verde,Tlajomulco de Zúñiga,House,102.94117647058823,0.5,10k-20k
+blvd. del rodeo 1001,50000,2.0,2.0,170.0,Puerta de Hierro,Zapopan,Department,294.11764705882354,1.0,40k-50k
+Andres Teran 1165,20000,2.0,2.0,170.0,Las Cañadas,Zapopan,Department,117.6470588235294,1.0,10k-20k
+comerciantes,17500,4.0,2.0,170.0,Fraccionamiento Senderos de Monte Verde,Tlajomulco de Zúñiga,House,102.94117647058823,0.5,10k-20k
+MORELOS 2080,56000,1.0,1.0,170.0,Puerta de Hierro,Zapopan,Department,329.4117647058824,1.0,50k-70k
+,29000,3.0,3.0,170.0,Fraccionamiento Solares,Zapopan,House,170.58823529411765,1.0,20k-30k
+,47000,2.0,2.0,170.0,Prados de Providencia,Guadalajara,Department,276.47058823529414,1.0,40k-50k
+Acueducto 6075,26000,2.0,2.0,170.0,Ayuntamiento,Guadalajara,Department,152.94117647058823,1.0,20k-30k
+Blvrd Puerta de Hierro 5225,40000,2.0,2.0,170.0,Puerta de Hierro,Zapopan,Department,235.2941176470588,1.0,30k-40k
+Boulevard Valle Real 4000,48000,3.0,3.0,170.0,Valle Real,Zapopan,Department,282.3529411764706,1.0,40k-50k
+Coto Antara,17000,3.0,3.0,173.0,Fraccionamiento Jardines Alcalde,Guadalajara,House,98.26589595375722,1.0,10k-20k
+CAMINO A LA CUESTA 601 46,21000,3.0,4.0,174.0,Fraccionamiento Valle Imperial,Zapopan,House,120.6896551724138,1.3333333333333333,20k-30k
+,32000,2.0,3.0,175.0,Providencia,Guadalajara,Department,182.85714285714286,1.5,30k-40k
+Av. Acueducto 2380,45000,3.0,2.0,175.0,Valle Real,Zapopan,Department,257.14285714285717,0.6666666666666666,40k-50k
+Avenida del Reno Poniente,22000,4.0,3.0,175.0,Nuevo México,Zapopan,House,125.71428571428571,0.75,20k-30k
+VALLE DE LA PLATA 2589,30000,4.0,4.0,176.0,Ciudad Granja,Zapopan,House,170.45454545454547,1.0,20k-30k
+Calle Macarena 105,19500,4.0,2.0,176.0,Fraccionamiento Nueva Galicia Residencial,Tlajomulco de Zúñiga,House,110.79545454545455,0.5,10k-20k
+"Av. Paseo La Toscana 122, Valle Real, 45019 Zapopan, Jal.",34000,1.0,2.0,177.0,Fraccionamiento Colinas de San Javier,Guadalajara,Department,192.090395480226,2.0,30k-40k
+Paseo Valle Real 900,38000,2.0,3.0,177.0,Providencia,Guadalajara,Department,214.68926553672316,1.5,30k-40k
+"Av. Hidalgo, Ladrón de Guevara, Guadalajara, Fraccionamiento Ladrón de Guevara, Guadalajara",38000,2.0,2.0,177.0,Providencia,Guadalajara,Department,214.68926553672316,1.0,30k-40k
+,14500,3.0,3.0,177.0,Fraccionamiento Senderos de Monte Verde,Tlajomulco de Zúñiga,House,81.92090395480226,1.0,10k-20k
+amatista 2558,7799,3.0,1.0,177.0,Fraccionamiento Residencial Victoria,Zapopan,Department,44.06214689265537,0.3333333333333333,0-10k
+Hipodromo 2077 B-102,40000,3.0,3.0,177.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,225.98870056497177,1.0,30k-40k
+,38000,2.0,2.0,177.0,Providencia,Guadalajara,Department,214.68926553672316,1.0,30k-40k
+Ignacio L Vallarta 3300 colonia Vallarta norte ,42000,3.0,2.0,178.0,Vallarta Sur,Guadalajara,Department,235.95505617977528,0.6666666666666666,40k-50k
+"Calle Cto. Madrigal 1151, Colinas de San Javier",35000,3.0,3.0,180.0,Lomas del Valle,Guadalajara,Department,194.44444444444446,1.0,30k-40k
+rinconada del arroyo 1501 1 1,26000,2.0,2.0,180.0,Valle Real,Zapopan,Department,144.44444444444446,1.0,20k-30k
+Lino 898,25000,3.0,2.0,180.0,Americana,Guadalajara,House,138.88888888888889,0.6666666666666666,20k-30k
+CIRCUITO MADRIGAL 4091,25000,3.0,3.0,180.0,Bosques de Santa Anita,Tlajomulco de Zúñiga,House,138.88888888888889,1.0,20k-30k
+Avenida Labna 1437,59000,3.0,2.0,180.0,Puerta de Hierro,Zapopan,Department,327.77777777777777,0.6666666666666666,50k-70k
+Josefa Ortíz de Domínguez 152,59000,3.0,2.0,180.0,Puerta de Hierro,Zapopan,Department,327.77777777777777,0.6666666666666666,50k-70k
+Mar mediterreaneo 1103,33000,3.0,3.0,180.0,Country Club,Guadalajara,Department,183.33333333333334,1.0,30k-40k
+Hilario Perez de Leon 2769,18300,3.0,2.0,180.0,Jardines de los Arcos,Guadalajara,House,101.66666666666667,0.6666666666666666,10k-20k
+,33000,3.0,2.0,180.0,Providencia 4a Secc,Guadalajara,Department,183.33333333333334,0.6666666666666666,30k-40k
+"Juan Palomar y Arias 765, Prados Providencia, Prados de Providencia, Guadalajara",28000,3.0,4.0,180.0,Chapalita Sur,Zapopan,Department,155.55555555555554,1.3333333333333333,20k-30k
+Tenochtitlan 333,25900,4.0,2.0,180.0,Jardines Del Sol,Zapopan,House,143.88888888888889,0.5,20k-30k
+,50000,3.0,3.0,180.0,Fraccionamiento Colomos Providencia,Guadalajara,Department,277.77777777777777,1.0,40k-50k
+,59000,3.0,3.0,180.0,Puerta de Hierro,Zapopan,Department,327.77777777777777,1.0,50k-70k
+"CHIMALPOPOCA 480, COL. JARDINES DEL SOL",25000,3.0,2.0,180.0,Bosques de Santa Anita,Tlajomulco de Zúñiga,House,138.88888888888889,0.6666666666666666,20k-30k
+Paseo Solares 2175,32500,4.0,4.0,180.0,Fraccionamiento Solares,Zapopan,House,180.55555555555554,1.0,30k-40k
+calle puente el Palomar 400,35000,2.0,2.0,180.0,Country Club,Guadalajara,Department,194.44444444444446,1.0,30k-40k
+Hacienda Santa Lucia ,25000,2.0,2.0,181.0,Providencia,Guadalajara,Department,138.12154696132598,1.0,20k-30k
+,22000,4.0,3.0,182.0,Fraccionamiento Mirador de San Isidro,Zapopan,House,120.87912087912088,0.75,20k-30k
+ANDRES TERAN,15000,3.0,3.0,182.0,Fraccionamiento Ladrón de Guevara,Guadalajara,Department,82.41758241758242,1.0,10k-20k
+Pedro Ogazón  620  U.P. 13,29000,3.0,3.0,182.0,Santa Fe,Zapopan,Department,159.34065934065933,1.0,20k-30k
+Paseo De La toscana 456,21000,4.0,3.0,182.0,El Centinela,Zapopan,House,115.38461538461539,0.75,20k-30k
+Casa EN Renta EL Fortin 3078 Zapopan Jalisco,46000,4.0,4.0,184.0,Ciudad Granja,Zapopan,House,250.0,1.0,40k-50k
+,24000,4.0,4.0,184.0,Monumental,Guadalajara,House,130.43478260869566,1.0,20k-30k
+P.º de los Virreyes 45,56000,3.0,4.0,184.0,Puerta de Hierro,Zapopan,Department,304.3478260869565,1.3333333333333333,50k-70k
+ENRIQUE LIMON 404,23000,4.0,5.0,185.0,El Palomar,Tlajomulco de Zúñiga,House,124.32432432432432,1.25,20k-30k
+Av. Paseo toscana cima park 122,40000,3.0,3.0,185.0,Valle Real,Zapopan,Department,216.21621621621622,1.0,30k-40k
+Esmeralda,26800,3.0,3.0,186.0,Fraccionamiento Solares,Zapopan,House,144.08602150537635,1.0,20k-30k
+C.galeana al 1500,30000,4.0,4.0,189.0,Fraccionamiento Solares,Zapopan,House,158.73015873015873,1.0,20k-30k
+PASEO DEL ANOCHECER  418,29500,4.0,5.0,189.0,Fraccionamiento Solares,Zapopan,House,156.08465608465607,1.25,20k-30k
+jilguero 2291,14500,3.0,4.0,190.0,Bosques de Santa Anita,Tlajomulco de Zúñiga,House,76.3157894736842,1.3333333333333333,10k-20k
+paseo del anochecer ,30000,3.0,3.0,190.0,Fraccionamiento Solares,Zapopan,House,157.89473684210526,1.0,20k-30k
+Madeiras 197 139,22000,3.0,2.0,190.0,Punto Sur,Tlajomulco de Zúñiga,House,115.78947368421052,0.6666666666666666,20k-30k
+,28000,3.0,2.0,190.0,Las Cañadas,Zapopan,House,147.3684210526316,0.6666666666666666,20k-30k
+Blvd. del Rodeo #1001,39000,2.0,1.0,190.0,Fraccionamiento Camino Real,Zapopan,Department,205.26315789473685,0.5,30k-40k
+Camino a San Isidro 1540  178,28000,3.0,4.0,190.0,Fraccionamiento Solares,Zapopan,House,147.3684210526316,1.3333333333333333,20k-30k
+,20000,3.0,2.0,190.0,Fraccionamiento Jardín Real,Zapopan,House,105.26315789473684,0.6666666666666666,10k-20k
+,25000,2.0,2.0,190.0,Fraccionamiento Ladrón de Guevara,Guadalajara,Department,131.57894736842104,1.0,20k-30k
+"EL ZAPOTE 1910, EL TIGRE, ZAPOPAN ",21000,3.0,2.0,191.0,Chapalita,Guadalajara,House,109.94764397905759,0.6666666666666666,20k-30k
+Av Montevideo 3497,42500,3.0,3.0,192.0,Colinas de San Javier,Zapopan,Department,221.35416666666666,1.0,40k-50k
+Av Vallarta 2468,42500,3.0,3.0,192.0,Colinas de San Javier,Zapopan,Department,221.35416666666666,1.0,40k-50k
+Club De Golf Santa Anita ,16000,3.0,2.0,194.0,Fraccionamiento Villa California,Tlajomulco de Zúñiga,House,82.47422680412372,0.6666666666666666,10k-20k
+,16000,3.0,2.0,194.0,Fraccionamiento Villa California,Tlajomulco de Zúñiga,House,82.47422680412372,0.6666666666666666,10k-20k
+CAMINO VIEJO A TESISTAN 1690,43000,3.0,2.0,195.0,Ciudad Granja,Zapopan,House,220.51282051282053,0.6666666666666666,40k-50k
+Calle Circuito Madrigal 4193,43000,3.0,2.0,195.0,Ciudad Granja,Zapopan,House,220.51282051282053,0.6666666666666666,40k-50k
+,26000,4.0,3.0,195.0,Virreyes Residencial,Zapopan,House,133.33333333333334,0.75,20k-30k
+"Calzada Central #509, Col. Ciudad Granja",39000,3.0,2.0,196.0,Valle Real,Zapopan,Department,198.9795918367347,0.6666666666666666,30k-40k
+ Gral. Eulogio Parra 3035,35000,2.0,2.0,197.0,Prados de Providencia,Guadalajara,Department,177.66497461928935,1.0,30k-40k
+Euclides #3233,40000,4.0,4.0,198.0,Chapalita,Guadalajara,House,202.02020202020202,1.0,30k-40k
+la merced 925,40000,4.0,3.0,198.0,Chapalita,Guadalajara,Department,202.02020202020202,0.75,30k-40k
+,40000,4.0,3.0,198.0,Chapalita,Guadalajara,House,202.02020202020202,0.75,30k-40k
+Av. Empresarios 62,30000,3.0,4.0,198.0,Lagos Del Country ,Zapopan,Department,151.5151515151515,1.3333333333333333,20k-30k
+MIGUEL ANGEL 87,30000,3.0,4.0,198.0,Lagos Del Country ,Zapopan,Department,151.5151515151515,1.3333333333333333,20k-30k
+la merced 925,40000,3.0,2.0,198.0,Chapalita,Guadalajara,House,202.02020202020202,0.6666666666666666,30k-40k
+la merced 925,40000,4.0,3.0,198.0,Chapalita,Guadalajara,House,202.02020202020202,0.75,30k-40k
+San Ernesto 3636,29980,4.0,3.0,199.0,Chapalita,Guadalajara,House,150.6532663316583,0.75,20k-30k
+Sendero de Los Olmos 95,25000,3.0,2.0,199.0,La Rioja,Tlajomulco de Zúñiga,House,125.62814070351759,0.6666666666666666,20k-30k
+Paseo altanza 2132,38000,3.0,4.0,199.0,Valle Real,Zapopan,House,190.95477386934672,1.3333333333333333,30k-40k
+"Gabriela Mistral 1092, Alcalde Barranquitas, 44270 Guadalajara, Jal.",35000,3.0,3.0,200.0,Alcalde Barranquitas,Guadalajara,Department,175.0,1.0,30k-40k
+C. Anastasio Bustamante 1400,32000,3.0,1.0,200.0,Lomas del Valle,Zapopan,Department,160.0,0.3333333333333333,30k-40k
+Empresarios,45000,3.0,4.0,200.0,Puerta de Hierro,Zapopan,Department,225.0,1.3333333333333333,40k-50k
+,30000,3.0,3.0,200.0,Zapopan,Other,House,150.0,1.0,20k-30k
+Calderon de la Barca 26,35000,3.0,3.0,200.0,Alcalde Barranquitas,Guadalajara,Department,175.0,1.0,30k-40k
+Fresnos 7027,28000,3.0,3.0,200.0,Ciudad Granja,Zapopan,Department,140.0,1.0,20k-30k
+,38000,4.0,2.0,200.0,Jardines de los Arcos,Guadalajara,House,190.0,0.5,30k-40k
+Avenida del Bosque Real 1507 COTO AVELLANO VALLE IMPERIAL ZAPOPAN JALISCO,25000,2.0,4.0,200.0,La Estancia,Zapopan,House,125.0,2.0,20k-30k
+Robles Gil ,27500,4.0,3.0,200.0,Americana,Guadalajara,House,137.5,0.75,20k-30k
+PUERTO CALLAO 2457,27000,3.0,4.0,200.0,Fraccionamiento Solares,Zapopan,House,135.0,1.3333333333333333,20k-30k
+Fresnos 7027,28000,3.0,3.0,200.0,Ciudad Granja,Zapopan,House,140.0,1.0,20k-30k
+calzada norte 33,26500,3.0,2.0,200.0,Ciudad Bugambilia,Zapopan,House,132.5,0.6666666666666666,20k-30k
+Pablo neruda  4127,36000,3.0,3.0,200.0,Lomas del Valle,Zapopan,House,180.0,1.0,30k-40k
+Avenida Acueducto 6075,16000,1.0,1.0,200.0,Barranquitas,Guadalajara,Department,80.0,1.0,10k-20k
+Rinconada de los Jazmines 149,22000,4.0,3.0,200.0,Lomas de Santa Anita,Tlajomulco de Zúñiga,Department,110.0,0.75,20k-30k
+"Av. Paseo La Toscana 122, Valle Real, 45019 Zapopan, Jal.",36900,3.0,3.0,200.0,Valle Real,Zapopan,Department,184.5,1.0,30k-40k
+Rinconada de los Jazmines 149,22000,4.0,3.0,200.0,Lomas de Santa Anita,Tlajomulco de Zúñiga,House,110.0,0.75,20k-30k
+Prolongación Av Guadalupe  6980,23000,4.0,3.0,200.0,Fraccionamiento Bugambilias,Zapopan,House,115.0,0.75,20k-30k
+,40500,3.0,3.0,200.0,Virreyes Residencial,Zapopan,House,202.5,1.0,40k-50k
+,36000,3.0,3.0,200.0,Lomas del Valle,Zapopan,House,180.0,1.0,30k-40k
+"Av. Paseo de la Cantera 200, Capital Norte, 45134 Zapopan, Jal.",25000,2.0,4.0,200.0,La Estancia,Zapopan,House,125.0,2.0,20k-30k
+Santa Adriana 2337,24500,4.0,3.0,200.0,Zoquipan,Zapopan,House,122.5,0.75,20k-30k
+ATOTONILCO 555,14000,3.0,2.0,200.0,Nuevo México,Zapopan,House,70.0,0.6666666666666666,10k-20k
+,33000,3.0,3.0,200.0,Arcos de Guadalupe,Zapopan,House,165.0,1.0,30k-40k
+Vista sur Coto la Reserva,19500,3.0,3.0,200.0,Arboledas ,Zapopan,House,97.5,1.0,10k-20k
+AV. LA CIMA COTO A ,42000,3.0,3.0,200.0,Lomas del Valle,Zapopan,House,210.0,1.0,40k-50k
+Alta Sierra 8846 coto 10,46000,3.0,3.0,200.0,El Bajío,Zapopan,House,230.0,1.0,40k-50k
+Andares ,27000,3.0,3.0,200.0,Fraccionamiento Solares,Zapopan,House,135.0,1.0,20k-30k
+,38300,3.0,3.0,200.0,Lomas del Valle,Zapopan,House,191.5,1.0,30k-40k
+Calzada Lázaro Cárdenas 3333,32000,1.0,5.0,200.0,Lomas del Valle,Zapopan,Department,160.0,5.0,30k-40k
+Francisco Zarco  23,23500,3.0,3.0,201.0,Fraccionamiento Jardín Real,Zapopan,House,116.91542288557214,1.0,20k-30k
+,22000,4.0,3.0,201.0,Nuevo México,Zapopan,House,109.45273631840796,0.75,20k-30k
+LOPEZ MATEOS 194,29900,4.0,3.0,202.0,Chapalita,Guadalajara,House,148.01980198019803,0.75,20k-30k
+Av Punto Sur 6387 14,29900,4.0,3.0,202.0,Chapalita,Guadalajara,House,148.01980198019803,0.75,20k-30k
+,28000,3.0,4.0,205.0,Fraccionamiento Solares,Zapopan,House,136.58536585365854,1.3333333333333333,20k-30k
+Circuito Madrigal ,27000,3.0,5.0,205.0,Fraccionamiento Solares,Zapopan,House,131.70731707317074,1.6666666666666667,20k-30k
+Paseo del anochecer ,41000,4.0,3.0,206.0,El Bajío,Zapopan,House,199.02912621359224,0.75,40k-50k
+Artemio del Valle Arizpe 4902,45000,1.0,3.0,210.0,Jardines Universidad,Zapopan,Department,214.28571428571428,3.0,40k-50k
+Florencia 1055,28000,3.0,3.0,210.0,Fraccionamiento El Manantial,Tlajomulco de Zúñiga,House,133.33333333333334,1.0,20k-30k
+,42000,2.0,1.0,210.0,Lomas Altas,Zapopan,Department,200.0,0.5,40k-50k
+Paseo de La luna,42000,2.0,2.0,210.0,Lomas Altas,Zapopan,Department,200.0,1.0,40k-50k
+AV. LA CIMA #295,30000,3.0,3.0,213.0,Fraccionamiento Solares,Zapopan,House,140.8450704225352,1.0,20k-30k
+Paseo Valle Real 1595,55000,3.0,2.0,215.0,Valle Real,Zapopan,Department,255.8139534883721,0.6666666666666666,50k-70k
+Av. Naciones Unidas #7275,23000,4.0,2.0,217.0,Fraccionamiento Vallarta San Jorge,Guadalajara,House,105.99078341013825,0.5,20k-30k
+San Demetrio 1307,35000,1.0,2.0,218.0,Chapalita,Guadalajara,Department,160.55045871559633,2.0,30k-40k
+El Bajio Habitat,46000,4.0,4.0,218.0,El Bajío,Zapopan,House,211.0091743119266,1.0,40k-50k
+PUERTA DE HIERRO CNDOMINIO GALICIA ,13000,1.0,2.0,219.0,El Fortín,Zapopan,House,59.36073059360731,2.0,10k-20k
+CALZADA DE LOS FRESNOS ,28000,3.0,3.0,219.0,Ciudad Granja,Zapopan,House,127.85388127853881,1.0,20k-30k
+,13000,1.0,4.0,219.0,El Fortín,Zapopan,House,59.36073059360731,4.0,10k-20k
+,37000,4.0,3.0,220.0,Fraccionamiento Jardín Real,Zapopan,House,168.1818181818182,0.75,30k-40k
+Circuito de los himalayas,48000,3.0,4.0,220.0,Virreyes Residencial,Zapopan,Department,218.1818181818182,1.3333333333333333,40k-50k
+LACANDONES 484,25000,4.0,3.0,220.0,Vallarta Poniente,Guadalajara,House,113.63636363636364,0.75,20k-30k
+Calzada circuvalación poniente 781,35000,3.0,3.0,220.0,Providencia,Guadalajara,Department,159.0909090909091,1.0,30k-40k
+AV. NOVELISTAS 5646,25000,4.0,2.0,220.0,Jardines del Bosque,Guadalajara,House,113.63636363636364,0.5,20k-30k
+Paseo de la alameda 25,13500,3.0,2.0,220.0,Marcelino Garcia Barragán,Zapopan,House,61.36363636363637,0.6666666666666666,10k-20k
+De los himalaya,45000,3.0,3.0,220.0,Virreyes Residencial,Zapopan,Department,204.54545454545453,1.0,40k-50k
+paseo de castilla 125,25000,4.0,3.0,220.0,Vallarta Poniente,Guadalajara,House,113.63636363636364,0.75,20k-30k
+Calzada Alamos,25000,2.0,3.0,220.0,Ciudad Granja,Zapopan,Department,113.63636363636364,1.5,20k-30k
+,21000,3.0,3.0,221.0,Fraccionamiento Jardín Real,Zapopan,House,95.02262443438914,1.0,20k-30k
+,21000,4.0,2.0,222.0,Bosques de Santa Anita,Tlajomulco de Zúñiga,House,94.5945945945946,0.5,20k-30k
+,45000,4.0,4.0,224.0,Jardines Universidad,Zapopan,House,200.89285714285714,1.0,40k-50k
+lorenzo barcelata 66,20000,3.0,2.0,227.0,Santa Ana Tepetitlán,Zapopan,House,88.10572687224669,0.6666666666666666,10k-20k
+Otranto 3876,20000,3.0,2.0,227.0,Santa Ana Tepetitlán,Zapopan,House,88.10572687224669,0.6666666666666666,10k-20k
+Blvd. Jardín Real 543,35000,3.0,4.0,228.0,Valle Real,Zapopan,House,153.50877192982455,1.3333333333333333,30k-40k
+Colibri,36000,4.0,2.0,229.0,Americana,Guadalajara,House,157.2052401746725,0.5,30k-40k
+,40000,3.0,3.0,229.0,Valle Real,Zapopan,Department,174.67248908296943,1.0,30k-40k
+SAN CARLOS ,36000,4.0,2.0,229.0,Americana,Guadalajara,House,157.2052401746725,0.5,30k-40k
+Circuito del Lince 274,40000,2.0,1.0,229.0,Parque Virreyes Residencial,Zapopan,House,174.67248908296943,0.5,30k-40k
+"C. Juan Ruiz de Alarcón 221, Col Americana, Obrera, 44140 Guadalajara, Jal.",33000,3.0,4.0,230.0,Agustín YAnez,Guadalajara,Department,143.47826086956522,1.3333333333333333,30k-40k
+,25000,2.0,4.0,230.0,Providencia 4a Secc,Guadalajara,Department,108.69565217391305,2.0,20k-30k
+"C. Primo Feliciano Velázquez 3457, Jardines de Los Arcos, 44500 Guadalajara, Jal.",36500,4.0,4.0,230.0,Fraccionamiento Jardín Real,Zapopan,House,158.69565217391303,1.0,30k-40k
+av d 575,46000,3.0,3.0,230.0,El Bajío,Zapopan,House,200.0,1.0,40k-50k
+,46000,3.0,4.0,230.0,Virreyes Residencial,Zapopan,Department,200.0,1.3333333333333333,40k-50k
+"Calle Colomos 2770, Providencia 4a Secc. ",25000,3.0,2.0,230.0,Providencia 4a Secc,Guadalajara,Department,108.69565217391305,0.6666666666666666,20k-30k
+,24000,3.0,2.0,230.0,Bosques de Santa Anita,Tlajomulco de Zúñiga,House,104.34782608695652,0.6666666666666666,20k-30k
+Americana,20000,3.0,2.0,230.0,Fraccionamiento La Cima,Zapopan,House,86.95652173913044,0.6666666666666666,10k-20k
+,25000,3.0,3.0,230.0,Providencia 4a Secc,Guadalajara,Department,108.69565217391305,1.0,20k-30k
+Torre Emile,46000,3.0,4.0,230.0,Virreyes Residencial,Zapopan,Department,200.0,1.3333333333333333,40k-50k
+Avenida Americas 872,48000,2.0,2.0,230.0,Valle Real,Zapopan,Department,208.69565217391303,1.0,40k-50k
+Paseo del amanecer  405,38000,4.0,4.0,230.0,Fraccionamiento Jardín Real,Zapopan,House,165.2173913043478,1.0,30k-40k
+efrain gonzalez luna 2579,33000,3.0,3.0,230.0,Agustín YAnez,Guadalajara,Department,143.47826086956522,1.0,30k-40k
+George Santayana,33000,3.0,1.0,230.0,Agustín YAnez,Guadalajara,Department,143.47826086956522,0.3333333333333333,30k-40k
+JUAN RUIZ DE ALARCON 221,48000,2.0,2.0,230.0,Valle Real,Zapopan,Department,208.69565217391303,1.0,40k-50k
+,10000,3.0,1.0,232.0,El Fortín,Zapopan,House,43.10344827586207,0.3333333333333333,0-10k
+ Blvrd Asturias 300,26000,3.0,3.0,232.0,Fraccionamiento Nueva Galicia Residencial,Tlajomulco de Zúñiga,House,112.06896551724138,1.0,20k-30k
+LA LEY ,16900,3.0,2.0,233.0,Fraccionamiento Valle Imperial,Zapopan,Department,72.53218884120172,0.6666666666666666,10k-20k
+LA LEY ,40000,3.0,3.0,233.0,Providencia,Guadalajara,Department,171.67381974248926,1.0,30k-40k
+paseo la toscana 888 168,40000,4.0,5.0,233.0,Santillana,Zapopan,House,171.67381974248926,1.25,30k-40k
+universidad,40000,4.0,5.0,233.0,Santillana,Zapopan,House,171.67381974248926,1.25,30k-40k
+La Toscana,40000,4.0,4.0,233.0,Valle Real,Zapopan,House,171.67381974248926,1.0,30k-40k
+Paseo la Toscana 777,40000,4.0,4.0,233.0,Valle Real,Zapopan,House,171.67381974248926,1.0,30k-40k
+Av. Paseo del Anochecer 418,45000,3.0,3.0,234.0,Fraccionamiento Solares,Zapopan,House,192.30769230769232,1.0,40k-50k
+,39000,3.0,3.0,235.0,Providencia,Guadalajara,Department,165.95744680851064,1.0,30k-40k
+av ruben dario y jose ma vigil ,39000,3.0,2.0,235.0,Providencia,Guadalajara,Department,165.95744680851064,0.6666666666666666,30k-40k
+Callejon del Iris  95 13,22500,3.0,4.0,237.0,Santa Ana Tepetitlán,Zapopan,House,94.9367088607595,1.3333333333333333,20k-30k
+SAN ORCAR 3A,20000,3.0,2.0,238.0,Arboleda Bosques de Santa Anita,Tlajomulco de Zúñiga,House,84.03361344537815,0.6666666666666666,10k-20k
+Ricardo Guiraldes 5395,35000,4.0,3.0,240.0,Jardines Universidad,Zapopan,House,145.83333333333334,0.75,30k-40k
+Américas,55000,3.0,3.0,240.0,Fraccionamiento Country Club,Guadalajara,Department,229.16666666666666,1.0,50k-70k
+ Paseo Valle Real 1222,28000,3.0,2.0,240.0,Valle Real,Zapopan,Department,116.66666666666667,0.6666666666666666,20k-30k
+Justicia 2621,31000,3.0,3.0,240.0,Providencia,Guadalajara,Department,129.16666666666666,1.0,30k-40k
+Justicia 2621,31000,3.0,3.0,240.0,Providencia,Guadalajara,House,129.16666666666666,1.0,30k-40k
+Paseo del Anochecer ,17000,3.0,2.0,242.0,Santa Anita,Tlajomulco de Zúñiga,House,70.24793388429752,0.6666666666666666,10k-20k
+"Av. Campo Príncipes 499, Campo Real, 45134 Nuevo México, Jal.",50000,3.0,2.0,242.0,Fraccionamineto Mítica Residencial,Zapopan,House,206.61157024793388,0.6666666666666666,40k-50k
+,17000,4.0,3.0,242.0,Santa Anita,Tlajomulco de Zúñiga,House,70.24793388429752,0.75,10k-20k
+Rio Atengo,55000,3.0,3.0,245.0,Valle Real,Zapopan,House,224.48979591836735,1.0,50k-70k
+Placeres 628 A,55000,3.0,2.0,245.0,Valle Real,Zapopan,House,224.48979591836735,0.6666666666666666,50k-70k
+Calzada Central 509,50000,3.0,2.0,250.0,Puerta de Hierro,Zapopan,Department,200.0,0.6666666666666666,40k-50k
+,42000,4.0,3.0,250.0,Loma Bonita,Zapopan,House,168.0,0.75,40k-50k
+CALLE OLIMPO 2D,30000,4.0,4.0,250.0,Residencial Provenza,Tlajomulco de Zúñiga,House,120.0,1.0,20k-30k
+"Av. Paseo Solares 934, Int. 218, Coto Sendeira",37000,3.0,3.0,250.0,Loma Real,Zapopan,House,148.0,1.0,30k-40k
+Av Ramon Corona,28000,3.0,4.0,250.0,Fraccionamiento Solares,Zapopan,House,112.0,1.3333333333333333,20k-30k
+Camino a las Moras 601,26000,3.0,3.0,250.0,Fraccionamiento Solares,Zapopan,House,104.0,1.0,20k-30k
+,23000,3.0,3.0,250.0,El Colli Urbano,Zapopan,House,92.0,1.0,20k-30k
+,20000,3.0,3.0,250.0,Fraccionamiento Porta Real,Zapopan,House,80.0,1.0,10k-20k
+Jose Maria Vigil 2700,43000,3.0,3.0,250.0,Providencia,Guadalajara,Department,172.0,1.0,40k-50k
+Avenida Servidor Publico 1425,30000,3.0,1.0,250.0,Fraccionamiento Ladrón de Guevara,Guadalajara,Department,120.0,0.3333333333333333,20k-30k
+São Paulo 1912,45000,3.0,3.0,250.0,Monraz,Guadalajara,Department,180.0,1.0,40k-50k
+,42000,3.0,2.0,250.0,Fraccionamiento Residencial Victoria,Guadalajara,House,168.0,0.6666666666666666,40k-50k
+,21160,2.0,2.0,250.0,Tlajomulco de Zúñiga,Other,House,84.64,1.0,20k-30k
+nogales 1662,26000,3.0,3.0,250.0,Fraccionamiento Solares,Zapopan,House,104.0,1.0,20k-30k
+Remanso de las Violetas 2173,24900,3.0,4.0,250.0,San Agustín,Tlajomulco de Zúñiga,House,99.6,1.3333333333333333,20k-30k
+Bosques de la Cascada 36,25000,4.0,2.0,250.0,Paseos del Sol,Zapopan,House,100.0,0.5,20k-30k
+,25000,4.0,2.0,250.0,Paseos del Sol,Zapopan,House,100.0,0.5,20k-30k
+,60000,3.0,2.0,250.0,Fraccionamiento Residencial Victoria,Guadalajara,House,240.0,0.6666666666666666,50k-70k
+av chapultepec norte 78,30000,3.0,2.0,250.0,Fraccionamiento Ladrón de Guevara,Guadalajara,Department,120.0,0.6666666666666666,20k-30k
+,40000,3.0,2.0,250.0,Arcos Vallarta,Guadalajara,Department,160.0,0.6666666666666666,30k-40k
+Av. Paseo de los Robles Nte. 243,36350,3.0,3.0,252.0,Los Robles,Zapopan,House,144.24603174603175,1.0,30k-40k
+Blvd jardín real poniente 1 Palacio 18,35000,3.0,2.0,252.0,Fraccionamiento Solares,Zapopan,House,138.88888888888889,0.6666666666666666,30k-40k
+Rio Atengo,35000,3.0,2.0,252.0,Fraccionamiento Solares,Zapopan,House,138.88888888888889,0.6666666666666666,30k-40k
+,15000,1.0,2.0,253.0,El Zapote Del Valle,Tlajomulco de Zúñiga,House,59.28853754940712,2.0,10k-20k
+"Coto Livorno, Av. Paseo del Bosque 3428, Natura Bosque, Residencial ",30000,3.0,4.0,253.0,Los Gavilanes Poniente,Tlajomulco de Zúñiga,House,118.57707509881423,1.3333333333333333,20k-30k
+Chichimecas,45000,4.0,2.0,253.0,Monraz,Guadalajara,House,177.86561264822134,0.5,40k-50k
+Laureles 181,30000,3.0,4.0,253.0,Los Gavilanes Poniente,Tlajomulco de Zúñiga,House,118.57707509881423,1.3333333333333333,20k-30k
+"Félix mendelssohn 5508  , La Estancia , 45030 Zapopan, Jalisco, México",30000,3.0,4.0,253.0,Los Gavilanes Poniente,Tlajomulco de Zúñiga,House,118.57707509881423,1.3333333333333333,20k-30k
+Av. Vista Pte. 972,15000,1.0,2.0,253.0,El Zapote Del Valle,Tlajomulco de Zúñiga,House,59.28853754940712,2.0,10k-20k
+,28000,4.0,3.0,254.0,Residencial Provenza,Tlajomulco de Zúñiga,House,110.23622047244095,0.75,20k-30k
+Paseo Virreyes,35000,3.0,3.0,255.0,Virreyes Residencial,Zapopan,House,137.2549019607843,1.0,30k-40k
+Circuito fontana 1061 83,35000,3.0,1.0,259.0,Fraccionamiento Valle Imperial,Zapopan,House,135.13513513513513,0.3333333333333333,30k-40k
+GIOVANNI PAPINI 295,27500,4.0,3.0,260.0,Jardines de La Patria,Zapopan,Department,105.76923076923077,0.75,20k-30k
+Av. Aviación 4055-int 58,18000,3.0,3.0,260.0,Bosques de Santa Anita,Tlajomulco de Zúñiga,House,69.23076923076923,1.0,10k-20k
+CALZADA 1900,18000,3.0,3.0,260.0,Bosques de Santa Anita,Tlajomulco de Zúñiga,House,69.23076923076923,1.0,10k-20k
+GIOVANNI PAPINI 295,27500,4.0,3.0,260.0,Jardines de La Patria,Zapopan,House,105.76923076923077,0.75,20k-30k
+GIOVANNI PAPINI 295,35000,4.0,3.0,260.0,Fraccionamiento Solares,Zapopan,Department,134.6153846153846,0.75,30k-40k
+"RESIDENCIAL PROVENZA, COTO SUR",32000,4.0,4.0,260.0,Residencial Provenza,Tlajomulco de Zúñiga,House,123.07692307692308,1.0,30k-40k
+florencia 2818,32000,4.0,4.0,260.0,Residencial Provenza,Tlajomulco de Zúñiga,House,123.07692307692308,1.0,30k-40k
+Adolfo lopez mateos sur 5555,32000,4.0,4.0,260.0,San Agustín,Tlajomulco de Zúñiga,House,123.07692307692308,1.0,30k-40k
+,42000,3.0,2.0,261.0,El Bajío,Zapopan,House,160.91954022988506,0.6666666666666666,40k-50k
+manuel m. dieguez 900,36000,3.0,4.0,270.0,Ciudad Bugambilia,Zapopan,Department,133.33333333333334,1.3333333333333333,30k-40k
+Paseo de los Virreyes  980,35000,3.0,3.0,270.0,Virreyes Residencial,Zapopan,Department,129.62962962962962,1.0,30k-40k
+"Calle Colomos 2770, Providencia 4a Secc. ",36000,3.0,4.0,270.0,Ciudad Bugambilia,Zapopan,Department,133.33333333333334,1.3333333333333333,30k-40k
+Paseo de los Virreyes  980,35000,3.0,3.0,270.0,Virreyes Residencial,Zapopan,House,129.62962962962962,1.0,30k-40k
+Eulogio Parra 2795,46800,4.0,4.0,280.0,Providencia 1a Secc,Guadalajara,Department,167.14285714285714,1.0,40k-50k
+Lopez Mateos Sur #1201,56000,3.0,3.0,281.0,Virreyes Residencial,Zapopan,House,199.288256227758,1.0,50k-70k
+,60000,3.0,4.0,281.0,Virreyes Residencial,Zapopan,House,213.52313167259786,1.3333333333333333,50k-70k
+,49900,4.0,4.0,282.0,Providencia,Guadalajara,House,176.95035460992906,1.0,40k-50k
+Prolongación Mariano Otero No.4,49900,4.0,5.0,282.0,Providencia,Guadalajara,House,176.95035460992906,1.25,40k-50k
+,54000,3.0,2.0,283.0,Villa Universitaria,Zapopan,House,190.81272084805653,0.6666666666666666,50k-70k
+Av. Universidad  2705 96,54000,3.0,3.0,283.0,San Wenceslao,Zapopan,House,190.81272084805653,1.0,50k-70k
+Paseo altanza 132,50000,4.0,1.0,283.0,Villa Universitaria,Zapopan,House,176.67844522968198,0.25,40k-50k
+,54000,3.0,3.0,283.0,Colinas de San Javier,Zapopan,House,190.81272084805653,1.0,50k-70k
+,54000,3.0,4.0,283.0,Villa Universitaria,Zapopan,House,190.81272084805653,1.3333333333333333,50k-70k
+Anillo Perif. Nte. Manuel Gómez Morín 1066,29000,3.0,3.0,285.0,San Juan de Ocotan,Zapopan,Department,101.75438596491227,1.0,20k-30k
+Belissimo Circuito Turin 12,35000,3.0,2.0,289.0,Vallarta Universidad,Zapopan,House,121.10726643598616,0.6666666666666666,30k-40k
+ARCE MENOR 165,55000,3.0,4.0,289.0,Country Club,Guadalajara,House,190.3114186851211,1.3333333333333333,50k-70k
+Fresno 41,17000,3.0,2.0,289.0,San Agustín,Tlajomulco de Zúñiga,House,58.8235294117647,0.6666666666666666,10k-20k
+Vialidad A  5250,43000,4.0,3.0,290.0,Ciudad Granja,Zapopan,House,148.27586206896552,0.75,40k-50k
+Blvd. Paseo del Origen No. 600,43000,4.0,3.0,290.0,Ciudad Granja,Zapopan,House,148.27586206896552,0.75,40k-50k
+Calz. Lázaro Cárdenas 2717,43000,4.0,3.0,290.0,Ciudad Granja,Zapopan,House,148.27586206896552,0.75,40k-50k
+Av. Manuel Acuña 2710,26000,3.0,4.0,290.0,Fraccionamiento Solares,Zapopan,House,89.65517241379311,1.3333333333333333,20k-30k
+AVENIDA PATRIA 114,61700,1.0,1.0,293.0,Providencia,Guadalajara,Department,210.580204778157,1.0,50k-70k
+Elemetia No. 117 Casa 170,22000,3.0,4.0,295.0,Santa Anita,Tlajomulco de Zúñiga,House,74.57627118644068,1.3333333333333333,20k-30k
+Altavista Pte,22000,3.0,4.0,295.0,Santa Anita,Tlajomulco de Zúñiga,House,74.57627118644068,1.3333333333333333,20k-30k
+"Mar Egeo #1452 - 11 esq. con Mar Mediterraneo, Country Club, Guadalajara",59500,3.0,3.0,296.0,Puerta de Hierro,Zapopan,Department,201.01351351351352,1.0,50k-70k
+,59500,3.0,3.0,296.0,Puerta de Hierro,Zapopan,Department,201.01351351351352,1.0,50k-70k
+,30000,3.0,2.0,298.0,Bosques Vallarta,Zapopan,House,100.67114093959732,0.6666666666666666,20k-30k
+Zapote del Valle,30000,3.0,2.0,298.0,Bosques Vallarta,Zapopan,House,100.67114093959732,0.6666666666666666,20k-30k
+Boulevard mirasierra 93 66,53000,4.0,4.0,300.0,Fraccionamiento Los Olivos Residencial,Zapopan,House,176.66666666666666,1.0,50k-70k
+"Av. Juan Palomar y Arias 765, Prados",58500,3.0,3.0,300.0,Providencia,Guadalajara,Department,195.0,1.0,50k-70k
+AV JUAN GIL PRECIADO 8555,45000,4.0,5.0,300.0,Altamira,Zapopan,House,150.0,1.25,40k-50k
+,19800,3.0,2.0,300.0,Altamira,Zapopan,House,66.0,0.6666666666666666,10k-20k
+Volcán Vesubio 5156,50000,3.0,4.0,300.0,Ciudad Granja,Zapopan,House,166.66666666666666,1.3333333333333333,40k-50k
+Coto Asturias,42000,3.0,3.0,300.0,Fraccionamiento Puerta del Valle,Zapopan,House,140.0,1.0,40k-50k
+Valle Real,55000,3.0,3.0,300.0,Valle Real,Zapopan,House,183.33333333333334,1.0,50k-70k
+Paseo de la alameda 25,54000,3.0,3.0,300.0,Puerta de Hierro,Zapopan,House,180.0,1.0,50k-70k
+Chichen-itza,50000,3.0,2.0,300.0,Villa Universitaria,Zapopan,House,166.66666666666666,0.6666666666666666,40k-50k
+1° de Enero,31000,3.0,3.0,300.0,Fraccionamiento Rinconada de los Novelistas,Zapopan,House,103.33333333333333,1.0,30k-40k
+,42000,3.0,2.0,300.0,Ciudad Granja,Zapopan,House,140.0,0.6666666666666666,40k-50k
+Av. Las Palmas 200,45000,4.0,2.0,300.0,Condominio Atlas Colomos,Zapopan,House,150.0,0.5,40k-50k
+,35000,3.0,2.0,300.0,Rancho o rancheria San Jose Del Tajo,Tlajomulco de Zúñiga,House,116.66666666666667,0.6666666666666666,30k-40k
+"Av Pablo Neruda 4127, Universitaria",35000,3.0,3.0,300.0,Fraccionamiento Rinconada de los Novelistas,Zapopan,House,116.66666666666667,1.0,30k-40k
+,45000,3.0,3.0,300.0,Valle Real,Zapopan,House,150.0,1.0,40k-50k
+,21000,4.0,3.0,300.0,Fraccionamiento Jardines Del Country,Guadalajara,House,70.0,0.75,20k-30k
+AV. REAL ACUEDUCTO 360,35000,2.0,1.0,300.0,Puerta de Hierro,Zapopan,Department,116.66666666666667,0.5,30k-40k
+,55000,3.0,4.0,300.0,Valle Real,Zapopan,House,183.33333333333334,1.3333333333333333,50k-70k
+,45200,3.0,4.0,300.0,Villa Universitaria,Zapopan,House,150.66666666666666,1.3333333333333333,40k-50k
+CALLEJON DEL LOBO ,38000,4.0,4.0,300.0,Ciudad Bugambilia,Zapopan,House,126.66666666666667,1.0,30k-40k
+AV NUEVA GALICIA #50,45500,3.0,4.0,300.0,Valle Real,Zapopan,House,151.66666666666666,1.3333333333333333,40k-50k
+Av paseo de la cantera 5035,50000,4.0,4.0,300.0,Ciudad de los niños,Zapopan,House,166.66666666666666,1.0,40k-50k
+INGLATERRA 6835,30200,4.0,2.0,300.0,Ciudad Del Sol,Zapopan,House,100.66666666666667,0.5,30k-40k
+Paseo solares 2175,60000,3.0,3.0,300.0,Providencia,Guadalajara,House,200.0,1.0,50k-70k
+,60000,3.0,1.0,300.0,Providencia,Guadalajara,House,200.0,0.3333333333333333,50k-70k
+lorenzo barcelata 66,25000,3.0,3.0,300.0,El Palomar,Tlajomulco de Zúñiga,House,83.33333333333333,1.0,20k-30k
+Condominio Azahares,45200,3.0,4.0,300.0,Villa Universitaria,Zapopan,House,150.66666666666666,1.3333333333333333,40k-50k
+Av. Punto Sur,38000,4.0,4.0,300.0,Ciudad Bugambilia,Zapopan,House,126.66666666666667,1.0,30k-40k
+"Félix mendelssohn 5508  , La Estancia , 45030 Zapopan, Jalisco, México",21000,4.0,3.0,300.0,Fraccionamiento Jardines Del Country,Guadalajara,House,70.0,0.75,20k-30k
+la merced 925,60000,3.0,1.0,300.0,Providencia,Guadalajara,House,200.0,0.3333333333333333,50k-70k
+Paseo Solares 1333,25000,3.0,3.0,300.0,El Palomar,Tlajomulco de Zúñiga,House,83.33333333333333,1.0,20k-30k
+San Nicolás de Bari 628,24000,4.0,4.0,300.0,Fraccionamiento Camino Real,Zapopan,House,80.0,1.0,20k-30k
+,35000,3.0,3.0,300.0,Fraccionamiento Vallarta Norte,Guadalajara,House,116.66666666666667,1.0,30k-40k
+,50000,3.0,2.0,300.0,Ciudad de los niños,Zapopan,House,166.66666666666666,0.6666666666666666,40k-50k
+,45000,3.0,3.0,300.0,Fraccionamiento Monraz,Guadalajara,Department,150.0,1.0,40k-50k
+Paseo San Arturo Pte.   101,46000,3.0,4.0,301.0,Valle Real,Zapopan,House,152.82392026578074,1.3333333333333333,40k-50k
+AV VOLCAN TANCITARO 2236,38000,3.0,4.0,305.0,Residencial Provenza,Tlajomulco de Zúñiga,House,124.59016393442623,1.3333333333333333,30k-40k
+Av Lopez Mateos Sur 5555,38000,3.0,3.0,305.0,Residencial Provenza,Tlajomulco de Zúñiga,House,124.59016393442623,1.0,30k-40k
+Av Lopez Mateos Sur 5555,38000,3.0,4.0,305.0,Residencial Provenza,Tlajomulco de Zúñiga,House,124.59016393442623,1.3333333333333333,30k-40k
+,20000,4.0,2.0,306.0,Fraccionamiento Jardín Real,Zapopan,House,65.359477124183,0.5,10k-20k
+Paseo Laurel 3730,25000,4.0,2.0,306.0,Arcos Vallarta,Guadalajara,House,81.69934640522875,0.5,20k-30k
