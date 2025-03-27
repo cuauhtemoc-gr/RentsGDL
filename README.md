@@ -76,8 +76,8 @@ Final Variables (including engineered features):
 ```
 
 ## Research Paper
-The full research paper detailing the methodology and findings can be found in the `paper/` directory:  
-**[Download Paper](paper/rental_market_analysis.pdf)**
+The full research paper detailing the methodology and findings can be found in:  
+**[Download Paper](https://www.researchgate.net/publication/381189642_Exploring_the_Rental_Market_Dynamics_of_the_Guadalajara_Metropolitan_Area)**
 
 
 ## How to Run
